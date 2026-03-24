@@ -1,5 +1,7 @@
 # Dataset
 gutenberg_metadata.csv
+opium_books_fulltext
+opium_books_fulltext.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
