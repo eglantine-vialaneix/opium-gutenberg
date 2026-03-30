@@ -5,3 +5,5 @@ kagglehub
 ipywidgets
 polars
 pyahocorasick
+requests
+wikipedia-api
