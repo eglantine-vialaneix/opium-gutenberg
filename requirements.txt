@@ -7,3 +7,4 @@ polars
 pyahocorasick
 requests
 wikipedia-api
+tqdm
