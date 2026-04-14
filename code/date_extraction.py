@@ -50,6 +50,7 @@ def check_memory_usage(path="~/.cache/kagglehub", unit="GB"):
     elif unit == "MB":
         converter = 2
     else:
+        converter = 3
         warnings.warn("UnitError: The unit given is not valid. Try 'GB' or 'MB'. Used 'GB' by default.")
         
     total, used, free = shutil.disk_usage(os.path.expanduser(path))
@@ -228,44 +229,67 @@ def build_anchor_index(candidates):
     return index
 
 
+def build_anchor_automaton(anchor_index):
+    """Build a multi-pattern matcher over anchors for fast substring search."""
+    automaton = ahocorasick.Automaton()
+    for anchor, matching_book_ids in anchor_index.items():
+        automaton.add_word(anchor, tuple(matching_book_ids))
+
+    if len(automaton) == 0:
+        return None
+
+    automaton.make_automaton()
+    return automaton
+
+
 def extract_books_fast(df, book_ids, path_to_books):
     candidates = load_fingerprints(book_ids, path_to_books)
-    print("loaded candidates")
     if not candidates:
-        print("no candidates!!")
-        return 
+        return
 
     anchor_index = build_anchor_index(candidates)
-    print("built the anchor")
+    automaton = build_anchor_automaton(anchor_index)
+    if automaton is None:
+        return
 
     found_books = set()
     total_books = len(candidates)
-    print("total books = ", total_books)
 
-    pbar = tqdm(total=total_books, desc="Matching books", unit="book")
-    print("built pbar")
-    
-    #i = 0
-    for row in df.iter_rows(named=True):
-        #print(i)
-        year = row["year"]
-        text = row["text"]
-        #j = 0
-        for anchor, book_ids in anchor_index.items():
-            #print(j)
-            if anchor in text:
-                for bid in book_ids:
-                    if bid not in found_books:
-                        found_books.add(bid)
-                        pbar.update(1)
-                        yield year, bid
-            #j += 1
+    rows_scanned = 0
+    total_rows = len(df)
+    pbar = tqdm(total=total_rows, desc="Scanning Chronoberg rows", unit="row")
+    pbar.set_postfix(matched_books=f"0/{total_books}")
 
-        if len(found_books) == total_books:
-            break
-        #i += 1
+    try:
+        for row in df.iter_rows(named=True):
+            rows_scanned += 1
+            year = row["year"]
+            text = row["text"]
 
-    pbar.close()
+            matched_in_row = set()
+            for _, matched_book_ids in automaton.iter(text):
+                matched_in_row.update(matched_book_ids)
+
+            new_matches = 0
+            for bid in matched_in_row:
+                if bid not in found_books:
+                    found_books.add(bid)
+                    new_matches += 1
+                    yield year, bid
+
+            pbar.update(1)
+            if new_matches:
+                pbar.set_postfix(matched_books=f"{len(found_books)}/{total_books}")
+
+            if len(found_books) == total_books:
+                break
+    finally:
+        if rows_scanned and rows_scanned < total_rows:
+            pbar.set_postfix(
+                matched_books=f"{len(found_books)}/{total_books}",
+                stopped_early=f"row {rows_scanned}/{total_rows}"
+            )
+        pbar.close()
 
 
 
