@@ -71,9 +71,8 @@ def check_folder_size(path):
     
     
     
-def clean_gutenberg(df, col_to_keep = ['Etext Number', 'Title',
-                                    'Bookshelves', 'Authors', 
-                                    'rights', 'Subjects']):
+def clean_gutenberg(df, col_to_keep = ['Etext Number', 'Title', 'Authors', 
+                                    'LoCC', 'Bookshelves', 'Subjects', 'rights']):
     
     new_df = df[df["Language"] == "en"]
     new_df = new_df[new_df["Type"] == "Text"]
@@ -89,105 +88,11 @@ def load_chronoberg_json(path_to_file):
     return df_big
 
 
+
 def write_polardf_to_txt_byyear(path_to_write, polar_df):
     for row in polar_df.iter_rows():
         with open(f"{path_to_write}{row[0]}.txt", "w") as file:
             file.write(row[1])
-
-
-
-# def load_fingerprint(book_id, path_to_books, fp_size=4000):
-#     """Load a book fingerprint used for book-id matching in Chronoberg text."""
-#     try:
-#         with open(f"{path_to_books}{book_id}", 'r') as f:
-#             return f.read(fp_size)[2000:fp_size]
-#     except FileNotFoundError:
-#         return None
-
-
-# def load_fingerprints_parallel(book_ids, path_to_books, fp_size=2000, max_workers=16):
-#     """Load all fingerprints in parallel using threads (I/O bound)."""
-#     candidates = {}
-#     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-#         future_to_bid = {
-#             executor.submit(load_fingerprint, bid, path_to_books, fp_size): bid
-#             for bid in book_ids
-#         }
-#         for future in as_completed(future_to_bid):
-#             bid = future_to_bid[future]
-#             fp = future.result()
-#             if fp:
-#                 candidates[bid] = fp
-#     return candidates
-
-
-# def build_automaton(candidates):
-#     A = ahocorasick.Automaton()
-#     for book_id, fingerprint in candidates.items():
-#         if fingerprint:  # extra safety
-#             A.add_word(fingerprint, book_id)
-#     if len(A) == 0:
-#         return None  # <-- key change
-#     A.make_automaton()
-#     return A
-
-
-# def extract_books_streaming(
-#     df,
-#     book_ids,
-#     path_to_books,
-#     fp_size=2000,
-#     show_progress=True,
-#     progress_desc="Retrieving dates",
-#     max_workers=16,
-# ):
-#     candidates = load_fingerprints_parallel(book_ids, path_to_books, fp_size, max_workers)
-#     print(candidates)
-#     if not candidates:
-#         return None
-
-#     progress_bar = None
-#     if show_progress and tqdm is not None:
-#         progress_bar = tqdm(total=len(candidates), desc=progress_desc, unit="book")
-#     elif show_progress and tqdm is None:
-#         warnings.warn("tqdm is not installed; continuing without a progress bar.")
-
-#     if candidates:
-#         automaton = build_automaton(candidates)
-#     needs_rebuild = False
-
-#     try:
-#         for row in df.iter_rows(named=True):
-#             year = row['year']
-#             big_string = row['text']
-
-#             if needs_rebuild:
-#                 if candidates:  # shouldn't build an empty automaton
-#                     automaton = build_automaton(candidates)
-#                 else:
-#                     break  # nothing left to match
-#                 needs_rebuild = False
-
-#             matched = set()
-#             for _, book_id in automaton.iter(big_string):
-#                 matched.add(book_id)
-
-#             for book_id in matched:
-#                 yield year, book_id
-#                 del candidates[book_id]
-#                 if progress_bar is not None:
-#                     progress_bar.update(1)
-
-#             if matched:
-#                 needs_rebuild = True
-
-#             if not candidates:
-#                 break
-#     finally:
-#         if progress_bar is not None:
-#             progress_bar.close()
-
-
 
 
 
