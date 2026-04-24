@@ -8,3 +8,5 @@ pyahocorasick
 requests
 wikipedia-api
 tqdm
+pyarrow
+seaborn
