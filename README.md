@@ -1,4 +1,4 @@
-# Opium in Project Gutenberg: A Literary Analysis
+# Feminine Narratives of Opium Use in the Long Nineteenth Century​: A Computational Pipeline with Project Gutenberg
 
 This project investigates the depiction and evolution of opium-related themes in 19th and early 20th-century literature (1860–1920) using the Project Gutenberg corpus.
 
