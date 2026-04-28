@@ -12,14 +12,14 @@ The workflow is organized into distinct phases, moving from raw data collection 
     - `code/1_preprocessing/data_download.ipynb`: Harvest Gutenberg index and full texts.
     - `code/1_preprocessing/data_preparation.ipynb`: Enrich with publication years and demographic data.
     - `code/1_preprocessing/data_cleaning.ipynb`: Filter by LoCC PR/PS and remove non-literary texts.
-*   **Outputs**: `data/GP_opium_filtered.csv`, `data/GP_opium_filtered.parquet`, `data/metadata_with_years.csv`
+*   **Outputs**: `data/metadata_files/GP_opium_filtered.csv`, `data/metadata_files/GP_opium_filtered.parquet`, `data/metadata_files/metadata_with_years.csv`
 
 ### 2. Exploration (Pre-Analysis)
 *   **Purpose**: Broad statistical observation and qualitative sampling for validation.
 *   **Key Files**:
     - `code/2_exploration/descriptive_analysis.ipynb`: Visualize distributions across authors, genres, and decades.
     - `code/2_exploration/sample_exploration.ipynb`: Extract keyword context windows for close reading.
-*   **Outputs**: `data/pr_ps_snippets.csv`, `data/extended_sample_snippets.csv`
+*   **Outputs**: `data/snippets/pr_ps_snippets.csv`, `data/snippets/extended_sample_snippets.csv`
 
 ### 3. Core Analysis
 *   **Purpose**: The heavy lifting—quantifying gender, agency, and power dynamics in the text.
