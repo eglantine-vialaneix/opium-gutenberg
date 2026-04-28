@@ -5,12 +5,12 @@ import re
 
 print("Loading dataset...")
 try:
-    df = pd.read_parquet('../data/GP_1750_2000_opium_filtered.parquet')
+    df = pd.read_parquet('../../data/GP_1750_2000_opium_filtered.parquet')
 except Exception as e:
-    df = pd.read_csv('../data/GP_1750_2000_opium_filtered.csv')
+    df = pd.read_csv('../../data/GP_1750_2000_opium_filtered.csv')
 
 # Extract snippets
-books_dir = '../data/opium_books_fulltext'
+books_dir = '../../data/opium_books_fulltext'
 output_records = []
 
 def parse_keywords(row_kw):
@@ -68,6 +68,6 @@ for idx, row in df.iterrows():
 df_snippets = pd.DataFrame(output_records).drop_duplicates()
 print(f"Extracted {len(df_snippets)} total snippets across {df_snippets['Book_ID'].nunique()} unique books.")
 
-output_csv = '../data/snippets.csv'
+output_csv = '../../data/snippets.csv'
 df_snippets.to_csv(output_csv, index=False, encoding='utf-8-sig')
 print(f"Saved to {output_csv}")
