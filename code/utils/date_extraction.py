@@ -10,9 +10,9 @@ import warnings
 #from pathlib import Path
 import pickle
 import ahocorasick
-from concurrent.futures import ThreadPoolExecutor, as_completed
+#from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
-from tqdm import tqdm
+from tqdm.notebook import tqdm
 
 
 
@@ -148,6 +148,19 @@ def build_anchor_automaton(anchor_index):
 
 
 def extract_books_fast(df, book_ids, path_to_books):
+    """From Chronoberg's polars dataframe, we find a fingerprint in the middle of the book and scan through the Chronoberg
+       dataset to assign it its annotated published year.
+
+    Args:
+        df (polars dataframe): Chronoberg Polars Dataframe containing two columns 
+            - year (int): the publication year, they are unique ranging from 1750 to 2000, so a 249 years span.
+            - text (str): gigantic strings !! each element is a string of all full-text books from the corresponding published year that were concatenated
+        book_ids (list[str]): list of all Etext Numbers found in Chronoberg's metadata that may interest us
+        path_to_books (str): path to the folder containing all fulltext books (from the kaggle cache)
+
+    Yields:
+        tuple: (published year, book id) - the corresponding Published Year of each Etext Number
+    """
     candidates = load_fingerprints(book_ids, path_to_books)
     if not candidates:
         return
@@ -195,14 +208,6 @@ def extract_books_fast(df, book_ids, path_to_books):
                 stopped_early=f"row {rows_scanned}/{total_rows}"
             )
         pbar.close()
-
-
-
-
-
-
-
-
 
 
 
