@@ -48,6 +48,16 @@ class AuthorRecord:
     death_year: Optional[int]   = None
     source: Optional[str]       = None  # which API answered first
     found: bool                 = False
+    rate_limited_sources: Optional[str] = None
+
+
+class RateLimitedError(Exception):
+    """Raised when an API asks us to slow down."""
+
+    def __init__(self, url: str, retry_after: int):
+        super().__init__(f"Rate limited by {url}; retry after {retry_after}s")
+        self.url = url
+        self.retry_after = retry_after
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -157,7 +167,7 @@ def _parse_gutenberg_name(raw: str) -> tuple[str, Optional[str]]:
 
 _SESSION = requests.Session()
 _SESSION.headers.update({
-    "User-Agent": "GutenbergAuthorScraper/1.0 (research project; python-requests)"
+    "User-Agent": "ProjectGutenbergAuthorScraper/1.0 (student research project; contact: eglantine.vialaneix@epfl.ch)"
 })
 
 
@@ -165,25 +175,21 @@ def _get(
     url: str,
     params: dict | None = None,
     timeout: int = 10,
-    retries: int = 2,
 ) -> dict | None:
-    for attempt in range(retries + 1):
-        try:
-            r = _SESSION.get(url, params=params, timeout=timeout)
-            if r.status_code == 429 and attempt < retries:
-                retry_after = r.headers.get("Retry-After")
-                delay = int(retry_after) if retry_after and retry_after.isdigit() else 2 * (attempt + 1)
-                log.warning("Rate limited by %s; retrying in %ss", url, delay)
-                time.sleep(delay)
-                continue
+    try:
+        r = _SESSION.get(url, params=params, timeout=timeout)
+        if r.status_code == 429:
+            retry_after = r.headers.get("Retry-After")
+            delay = int(retry_after) if retry_after and retry_after.isdigit() else 30
+            raise RateLimitedError(url, delay)
 
-            r.raise_for_status()
-            return r.json()
-        except Exception as exc:
-            log.debug("GET %s failed: %s", url, exc)
-            return None
-
-    return None
+        r.raise_for_status()
+        return r.json()
+    except RateLimitedError:
+        raise
+    except Exception as exc:
+        log.debug("GET %s failed: %s", url, exc)
+        return None
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -528,10 +534,21 @@ def scrape_author(raw_name: str) -> AuthorRecord:
         return AuthorRecord(raw_name=raw_name, normalised_name="", found=False)
 
     combined: AuthorRecord | None = None
+    rate_limited_sources: list[str] = []
 
     for source_label, scraper in _SCRAPERS:
         try:
             result = scraper(normalised_name, inferred_gender)
+        except RateLimitedError as exc:
+            rate_limited_sources.append(source_label)
+            log.warning(
+                "[%s] rate limited for %s; skipping this source for now "
+                "(retry after %ss)",
+                source_label,
+                normalised_name,
+                exc.retry_after,
+            )
+            result = None
         except Exception as exc:
             log.debug("[%s] %s error: %s", source_label, normalised_name, exc)
             result = None
@@ -552,10 +569,12 @@ def scrape_author(raw_name: str) -> AuthorRecord:
             break
 
     if combined is None:
+        rate_limited = ", ".join(rate_limited_sources) or None
         return AuthorRecord(raw_name=raw_name, normalised_name=normalised_name,
-                            found=False)
+                            found=False, rate_limited_sources=rate_limited)
 
     combined.found = True
+    combined.rate_limited_sources = ", ".join(rate_limited_sources) or None
     return combined
 
 
