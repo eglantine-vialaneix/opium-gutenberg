@@ -1,0 +1,463 @@
+,Authors,nb_opium_books,total_nb_snippets,snippets_per_book,max_nb_snippets_per_book,Author Gender,Author Nationality,Number of books by author
+0,"Rohmer, Sax",7,193,"{(1182, 'Dope'): 87, (1183, 'The Return of Dr. Fu-Manchu'): 4, (2028, 'The Yellow Claw'): 72, (18613, 'The Golden Scorpion'): 22, (19142, 'The Devil Doctor'): 4, (27461, 'The Orchard of Tears'): 3, (40108, 'Tales of Secret Egypt'): 1}",87,male,English,13
+1,"Ottolengui, Rodrigues",1,166,"{(32985, 'A Modern Wizard'): 166}",166,male,American,2
+2,"Kipling, Rudyard",14,76,"{(1858, 'Plain Tales from the Hills'): 4, (2163, 'The Bridge-Builders'): 8, (2226, 'Kim'): 10, (2569, ""The Day's Work""): 10, (3006, 'Stalky & Co.'): 1, (6120, 'Soldiers Three'): 6, (8649, 'Indian Tales'): 8, (9790, 'Traffics and Discoveries'): 2, (13085, 'A Diversity of Creatures'): 1, (23163, 'The Eyes of Asia'): 2, (35555, 'Kim'): 10, (59332, 'Abaft the Funnel'): 3, (61834, 'The City of Dreadful Night'): 5, (62346, 'In Black and White'): 6}",10,male,"English, British",35
+3,"Roe, Edward Payson",4,74,"{(5433, 'Without a Home'): 70, (6090, 'What Can She Do?'): 2, (6128, 'His Sombre Rivals'): 1, (6719, 'The Earth Trembled'): 1}",70,male,American,14
+4,"Reeve, Arthur B. (Arthur Benjamin)",6,73,"{(5007, 'The Poisoned Pen'): 13, (5054, 'The Dream Doctor'): 28, (5073, 'The War Terror'): 22, (5151, 'The Exploits of Elaine'): 3, (5163, 'Guy Garrick'): 5, (5261, 'Constance Dunlap'): 2}",28,male,American,14
+5,"Steel, Flora Annie Webster",9,47,"{(39813, 'A Sovereign Remedy'): 4, (39821, 'From the Five Rivers'): 2, (39857, 'Marmaduke'): 2, (39985, ""The Potter's Thumb""): 7, (39987, 'The Flower of Forgiveness'): 18, (39991, 'The Hosts of the Lord'): 3, (40045, 'Voices in the Night'): 2, (40136, 'The Mercy of the Lord'): 3, (40142, ""Miss Stuart's Legacy""): 6}",18,female,"English, British",14
+6,"Hume, Fergus",7,43,"{(4946, 'Madame Midas'): 4, (23474, ""The Bishop's Secret""): 3, (35146, 'The Solitary Farm'): 5, (36346, ""The Mandarin's Fan""): 7, (55137, 'The Mystery Queen'): 1, (55606, ""The Mandarin's Fan""): 7, (56432, 'The Peacock of Jewels'): 16}",16,male,English,31
+7,"Doyle, Arthur Conan",12,36,"{(139, 'The Lost World'): 1, (244, 'A Study in Scarlet'): 2, (537, 'Tales of Terror and Mystery'): 4, (834, 'The Memoirs of Sherlock Holmes'): 6, (1661, 'The Adventures of Sherlock Holmes'): 13, (2097, 'The Sign of the Four'): 2, (2343, 'The Adventure of Wisteria Lodge'): 1, (2348, 'The Disappearance of Lady Frances Carfax'): 1, (5148, 'Rodney Stone'): 1, (5317, 'Through the Magic Door'): 1, (12555, 'The Tragedy of the Korosko'): 3, (13152, 'The Firm of Girdlestone'): 1}",13,male,British,55
+8,"Crawford, F. Marion (Francis Marion)",12,36,"{(5227, ""Sant' Ilario""): 14, (12346, 'A Roman Singer'): 2, (13757, 'Saracinesca'): 1, (13932, 'Whosoever Shall Offend'): 1, (16100, 'Marietta: A Maid of Venice'): 1, (18847, 'The White Sister'): 3, (22879, 'Paul Patoff'): 4, (31723, 'Cecilia: A Story of Modern Rome'): 2, (40922, 'Pietro Ghisleri'): 1, (41009, 'A Rose of Yesterday'): 1, (49954, 'The Ralstons'): 1, (53486, 'The Three Fates'): 5}",14,male,American,38
+9,"Hergesheimer, Joseph",2,35,"{(9865, 'Java Head'): 34, (42383, 'Hugh Walpole: An Appreciation'): 1}",34,male,American,8
+10,"London, Jack",7,27,"{(318, 'John Barleycorn'): 18, (788, 'The Red One'): 1, (1074, 'The Sea-Wolf'): 2, (1161, 'Jerry of the Islands'): 1, (6455, 'The Little Lady of the Big House'): 3, (16257, 'The Turtles of Tasman'): 1, (21971, 'A Son of the Sun'): 1}",18,male,American,42
+11,"Wilde, Oscar",9,21,"{(174, 'The Picture of Dorian Gray'): 5, (301, 'The Ballad of Reading Gaol'): 2, (854, 'A Woman of No Importance'): 1, (873, 'A House of Pomegranates'): 2, (885, 'An Ideal Husband'): 1, (887, 'Intentions'): 2, (4078, 'The Picture of Dorian Gray'): 2, (14240, 'Reviews'): 1, (26740, 'The Picture of Dorian Gray'): 5}",5,male,Irish,19
+12,"Diver, Maud",2,21,"{(20238, 'The Great Amulet'): 20, (27629, 'Captain Desmond, V.C.'): 1}",20,female,"English, British",2
+13,"Conrad, Joseph",8,20,"{(219, 'Heart of Darkness'): 1, (526, 'Heart of Darkness'): 1, (527, 'The End of the Tether'): 1, (638, 'An Outcast of the Islands'): 4, (720, ""Almayer's Folly: A Story of an Eastern River""): 8, (1142, 'Typhoon'): 1, (1202, 'Tales of Unrest'): 1, (5658, 'Lord Jim'): 3}",8,male,"Polish, British, English",28
+14,"MacDonald, George",10,19,"{(2370, 'Sir Gibbie'): 1, (2433, 'Donal Grant'): 5, (5976, 'Thomas Wingfold, Curate'): 1, (7127, 'Malcolm'): 2, (7174, 'The Marquis of Lossie'): 2, (8201, 'Mary Marston'): 1, (8924, 'Home Again'): 2, (9096, 'Weighed and Wanting'): 1, (9183, 'Wilfrid Cumbermede'): 2, (12387, 'Paul Faber, Surgeon'): 2}",5,male,Scottish,34
+15,"Eliot, George",3,19,"{(145, 'Middlemarch'): 15, (7469, 'Daniel Deronda'): 1, (40882, 'Felix Holt, the Radical'): 3}",15,female,English,9
+16,"Stocking, Charles Francis",1,18,"{(30312, 'Carmen Ariza'): 18}",18,,,1
+17,"Marchmont, Arthur W.",5,18,"{(35828, 'By Wit of Woman'): 14, (38357, 'By Right of Sword'): 1, (63320, 'When I Was Czar'): 1, (67731, 'A Courier of Fortune'): 1, (67789, ""The Queen's Advocate""): 1}",14,male,United Kingdom of Great Britain and Ireland,7
+18,"Edwards, Harry Stillwell",1,18,"{(36112, 'Sons and Fathers'): 18}",18,male,American,3
+19,"Harland, Henry",4,18,"{(5610, ""The Cardinal's Snuff-Box""): 2, (15733, 'Grey Roses'): 1, (52701, 'Comedies and Errors'): 14, (54854, 'The Yoke of the Thorah'): 1}",14,male,American,10
+20,"England, George Allan",3,17,"{(7463, 'Darkness and Dawn'): 1, (12826, 'The Air Trust'): 9, (48068, 'Cursed'): 7}",9,male,American,5
+21,"Chambers, Robert W. (Robert William)",7,17,"{(7492, 'The Fighting Chance'): 2, (18515, 'Police!!!'): 1, (25623, 'Barbarians'): 1, (37528, 'Quick Action'): 1, (38958, 'Cardigan'): 3, (53249, 'The Laughing Girl'): 2, (53289, 'The Restless Sex'): 7}",7,male,American,32
+22,"Reed, Myrtle",3,16,"{(12672, 'A Spinner in the Sun'): 12, (18057, 'Flower of the Dusk'): 3, (33601, ""The Master's Violin""): 1}",12,female,American,9
+23,"Fenn, George Manville",8,16,"{(32915, ""Sir Hilton's Sin""): 1, (34143, 'A Little World'): 3, (34248, 'The Man with a Shadow'): 3, (34537, 'Cursed by a Fortune'): 1, (34609, 'King of the Castle'): 3, (34664, ""The Mynns' Mystery""): 1, (36723, ""One Maid's Mischief""): 3, (40676, ""This Man's Wife""): 1}",3,male,English,33
+24,"Ward, Humphry, Mrs.",8,16,"{(8076, 'The History of David Grieve'): 2, (8737, 'Robert Elsmere'): 3, (9614, 'The Case of Richard Meynell'): 1, (13453, 'The Testing of Diana Mallory'): 2, (13728, 'Marcella'): 3, (14174, 'The Mating of Lydia'): 1, (20383, 'Marriage à la mode'): 1, (24898, 'Robert Elsmere'): 3}",3,female,British,22
+25,"Voynich, E. L. (Ethel Lillian)",1,15,"{(3431, 'The Gadfly'): 15}",15,female,Irish,1
+26,"Shiel, M. P. (Matthew Phipps)",4,15,"{(6993, 'The Lord of the Sea'): 2, (10709, 'Prince Zaleski'): 3, (11229, 'The Purple Cloud'): 9, (41794, 'The Last Miracle'): 1}",9,male,British,4
+27,"Goddard, Charles",1,15,"{(6065, 'The Perils of Pauline'): 15}",15,male,United States,1
+28,"Bindloss, Harold",9,15,"{(9778, 'Vane of the Timberlands'): 2, (14406, 'The Intriguers'): 1, (29155, ""Blake's Burden""): 1, (29266, 'Thurston of Orchard Valley'): 2, (36705, 'By Right of Purchase'): 1, (37582, 'The Coast of Adventure'): 1, (38286, 'The Protector'): 2, (38343, 'Harding of Allenwood'): 1, (39349, ""Wyndham's Pal""): 4}",4,male,English,37
+29,"Henry, O.",5,15,"{(1646, 'Roads of Destiny'): 3, (2776, 'The Four Million'): 4, (2777, 'Cabbages and Kings'): 1, (2851, 'Sixes and Sevens'): 3, (61701, 'O. Henry Encore'): 4}",4,male,American,13
+30,"Adams, Samuel Hopkins",3,14,"{(6864, 'Average Jones'): 2, (16447, 'The Clarion'): 10, (44324, 'The Flying Death'): 2}",10,male,American,9
+31,Ouida,4,13,"{(3465, 'Under Two Flags'): 3, (39745, 'Folle-Farine'): 4, (51487, 'Othmar'): 2, (69446, 'The Massarenes'): 4}",4,female,English,10
+32,"Walcott, Earle Ashley",2,13,"{(7788, 'Blindfolded'): 11, (52180, 'The Apple of Discord'): 2}",11,male,United States,2
+33,"Compton-Rickett, Arthur",1,13,"{(33356, 'The Vagabond in Literature'): 13}",13,male,English,1
+34,"Bennett, Arnold",5,13,"{(5247, ""The Old Wives' Tale""): 9, (10658, 'Hilda Lessways'): 1, (12673, 'The Pretty Lady'): 1, (21249, 'Clayhanger'): 1, (52247, 'A Man from the North'): 1}",9,male,"English, British",31
+35,"Norris, Frank",4,13,"{(321, 'Moran of the Lady Letty'): 6, (401, 'Blix'): 2, (14712, 'Vandover and the Brute'): 4, (16096, ""A man's woman""): 1}",6,male,American,6
+36,"Harte, Bret",9,13,"{(2178, 'By Shore and Sedge'): 1, (2277, 'Condensed Novels'): 2, (2297, ""Snow-Bound at Eagle's""): 1, (2555, 'Under the Redwoods'): 2, (2556, ""Mr. Jack Hamlin's Mediation""): 1, (2703, 'The Argonauts of North Liberty'): 1, (2784, ""Colonel Starbottle's Client""): 1, (12419, 'Frontier Stories'): 1, (36336, 'Gabriel Conroy'): 3}",3,male,American,33
+37,"Dell, Ethel M. (Ethel May)",3,12,"{(12516, 'The Way of an Eagle'): 3, (13763, 'The Lamp in the Desert'): 8, (16651, 'The Safety Curtain, and Other Stories'): 1}",8,female,British,10
+38,"Holley, Marietta",2,12,"{(18091, ""Samantha at the World's Fair""): 1, (30190, ""Around the World with Josiah Allen's Wife""): 11}",11,female,American,12
+39,"Sinclair, May",2,12,"{(11698, 'The Three Brontës'): 11, (13996, 'The Divine Fire'): 1}",11,female,"English, British",14
+40,"Barbellion, W. N. P.",1,12,"{(39585, 'The Journal of a Disappointed Man'): 12}",12,male,English,1
+41,"Stoker, Bram",3,12,"{(345, 'Dracula'): 7, (42455, 'The Mystery of the Sea'): 2, (65799, 'Lady Athlyne'): 3}",7,male,Irish,7
+42,"Robinson, A. Mary F. (Agnes Mary Frances)",1,11,"{(25789, 'Emily Brontë'): 11}",11,female,French,1
+43,"Bramah, Ernest",1,11,"{(1076, 'The Wallet of Kai Lung'): 11}",11,male,English,5
+44,"Packard, Frank L. (Frank Lucius)",4,11,"{(1218, 'The Adventures of Jimmie Dale'): 8, (9440, 'The Further Adventures of Jimmie Dale'): 1, (15578, 'The Miracle Man'): 1, (51939, 'From Now On'): 1}",8,male,Canadian,8
+45,"Chesterton, G. K. (Gilbert Keith)",7,11,"{(1696, 'The Club of Queer Trades'): 2, (2015, 'A Miscellany of Men'): 1, (9656, 'Alarms and Discursions'): 2, (12491, 'Twelve Types'): 1, (14203, 'Varied Types'): 1, (18639, 'The Victorian Age in Literature'): 3, (20058, 'The Napoleon of Notting Hill'): 1}",3,male,English,28
+46,"Bartlett, Frederick Orin",1,11,"{(20429, 'The Seventh Noon'): 11}",11,male,United States,3
+47,"Wharton, Edith",6,11,"{(283, 'The Reef'): 1, (284, 'The House of Mirth'): 1, (311, 'Bunner Sisters'): 1, (7517, 'Sanctuary'): 1, (19191, 'The Fruit of the Tree'): 6, (70844, 'Twilight sleep'): 1}",6,female,American,30
+48,"Harland, Marion",1,11,"{(50512, ""Mr. Wayt's Wife's Sister""): 11}",11,female,American,4
+49,"Wells, H. G. (Herbert George)",6,11,"{(780, 'The War in the Air'): 1, (1047, 'The New Machiavelli'): 1, (1138, 'The Research Magnificent'): 3, (14060, 'Mr. Britling Sees It Through'): 3, (30340, 'The Passionate Friends'): 1, (66409, 'Tales of the Unexpected'): 2}",3,male,English,41
+50,"Davis, Richard Harding",8,10,"{(1733, 'The Red Cross Girl'): 1, (1807, 'The Lost House'): 2, (1817, 'A Question of Latitude'): 1, (1821, 'A Charmed Life'): 2, (1822, 'The Amateur'): 1, (1843, 'Vera, the Medium'): 1, (5643, ""Ranson's Folly""): 1, (30953, 'The Boy Scout and Other Stories for Boys'): 1}",2,male,American,33
+51,"Stringer, Arthur",5,10,"{(18671, 'Never-Fail Blake'): 1, (33645, ""The Man Who Couldn't Sleep""): 2, (42184, 'The Silver Poppy'): 2, (44336, 'The Shadow'): 1, (50203, 'The Wire Tappers'): 4}",4,male,Canadian,9
+52,"Dehan, Richard",2,10,"{(27966, 'The Dop Doctor'): 5, (70431, 'Between two thieves'): 5}",5,female,Irish,5
+53,"Benson, Arthur Christopher",5,10,"{(4612, 'The Altar Fire'): 1, (4614, 'From a College Window'): 1, (11911, 'The Silent Isle'): 3, (30326, 'The Thread of Gold'): 1, (35860, 'Essays'): 4}",4,male,English,15
+54,"Mason, A. E. W. (Alfred Edward Woodley)",4,10,"{(13567, 'Clementina'): 1, (38664, 'The Four Corners of the World'): 5, (38685, 'The Truants'): 2, (38689, 'The Turnstile'): 2}",5,male,"English, French",14
+55,"Deeping, Warwick",1,9,"{(58287, 'The Slanderers'): 9}",9,male,English,10
+56,"Benson, E. F. (Edward Frederic)",6,9,"{(11493, 'The Blotting Book'): 2, (25919, 'Miss Mapp'): 2, (40793, 'The Rubicon'): 1, (45719, 'Arundel'): 2, (45742, 'Up and Down'): 1, (60168, 'Mrs. Ames'): 1}",2,male,English,30
+57,"Burnett, Frances Hodgson",2,9,"{(506, 'The Shuttle'): 1, (25810, 'In Connection with the De Willoughby Claim'): 8}",8,female,British-American,16
+58,"Grand, Sarah",1,8,"{(8676, 'The Heavenly Twins'): 8}",8,female,"English, Irish",2
+59,"White, Fred M. (Fred Merrick)",2,8,"{(43492, 'The Five Knots'): 6, (57066, 'The Corner House'): 2}",6,male,British,11
+60,"Herrick, Robert",4,8,"{(7828, 'The Web of Life'): 3, (8134, 'Together'): 3, (29808, 'The Man Who Wins'): 1, (41338, 'The Memoirs of an American Citizen'): 1}",3,male,English,11
+61,"MacGrath, Harold",5,8,"{(16041, 'The Grey Cloak'): 1, (16051, 'The Voice in the Fog'): 2, (17359, 'Arms and the Woman'): 1, (18443, 'Parrot & Co.'): 3, (27339, 'The Pagan Madonna'): 1}",3,male,American,18
+62,"Howells, William Dean",5,7,"{(3377, 'Criticism and Fiction'): 2, (3404, 'April Hopes'): 1, (9458, 'Questionable Shapes'): 1, (30108, 'The Quality of Mercy'): 2, (66584, 'The World of Chance'): 1}",2,male,American,48
+63,"Griffith, George Chetwynd",2,7,"{(19476, 'A Honeymoon in Space'): 6, (54096, 'Olga Romanoff'): 1}",6,male,British,4
+64,"Thanet, Octave",1,7,"{(33499, 'Stories That End Well'): 7}",7,female,"American, French",3
+65,"Tracy, Louis",2,7,"{(4996, 'Number Seventeen'): 6, (41859, 'The Terms of Surrender'): 1}",6,male,British,19
+66,"Fields, James Thomas",1,7,"{(12632, 'Yesterdays with Authors'): 7}",7,male,American,1
+67,"Glyn, Elinor",1,7,"{(11900, 'Elizabeth Visits America'): 7}",7,female,British,15
+68,"Galsworthy, John",6,7,"{(2192, 'The Dark Flower'): 1, (2309, 'The Freelands'): 2, (2683, ""Saint's Progress""): 1, (2774, 'The Patrician'): 1, (4766, 'Windows'): 1, (29711, 'Another Sheaf'): 1}",2,male,English,29
+69,"Griffiths, Arthur",1,7,"{(11451, 'The Rome Express'): 7}",7,male,British,3
+70,"Zangwill, Israel",3,7,"{(6304, 'Without Prejudice'): 3, (28164, 'The Big Bow Mystery'): 1, (29875, 'Dreamers of the Ghetto'): 3}",3,male,British,10
+71,"Collins, Wilkie",6,7,"{(1621, 'Miss or Mrs.?'): 1, (1622, 'The Law and the Lady'): 1, (1624, 'The Two Destinies'): 1, (3632, 'Poor Miss Finch'): 1, (7892, 'Heart and Science: A Story of the Present Time'): 2, (7894, 'The Fallen Leaves'): 1}",2,female,English,15
+72,"Perrin, Alice",1,7,"{(53372, 'Star of India'): 7}",7,female,British,2
+73,"Moore, George",5,7,"{(6029, 'Spring Days'): 1, (7789, 'Memoirs of My Dead Life'): 1, (8157, 'Esther Waters'): 2, (11654, 'Confessions of a Young Man'): 1, (12278, 'Confessions of a Young Man'): 2}",2,female,United Kingdom,13
+74,"White, Stewart Edward",4,7,"{(465, 'The Mountains'): 1, (9401, 'The Leopard Woman'): 2, (16589, 'The Killer'): 3, (30826, 'Gold'): 1}",3,male,American,14
+75,"Morris, Gouverneur",3,7,"{(5172, ""Aladdin O'Brien""): 2, (12557, 'The Penalty'): 1, (43977, 'The Seven Darlings'): 4}",4,male,United States,6
+76,"Lang, Andrew",2,7,"{(1994, 'Adventures Among Books'): 4, (21821, 'The Mark of Cain'): 3}",4,male,Scottish,15
+77,"Oppenheim, E. Phillips (Edward Phillips)",6,7,"{(1878, 'A Millionaire of Yesterday'): 1, (1931, ""The Zeppelin's Passenger""): 1, (1976, 'Peter Ruff and the Double Four'): 1, (15893, 'The Lighted Way'): 1, (27998, 'The New Tenant'): 2, (28091, 'The Double Four'): 1}",2,male,English,45
+78,"Morrow, Honoré",1,7,"{(24458, 'Still Jim'): 7}",7,female,American,4
+79,"Fraser, William Alexander",1,6,"{(45926, 'Bulldog Carney'): 6}",6,male,United Kingdom,4
+80,"Burke, Thomas",1,6,"{(63073, 'Limehouse Nights'): 6}",6,male,United States,2
+81,"Duncan, Sara Jeannette",2,6,"{(4547, 'The Story of Sonny Sahib'): 5, (73588, ""The crow's-nest""): 1}",5,female,"Canadian, Anglo-Indian",7
+82,"Rives, Hallie Erminie",3,6,"{(39689, 'Satan Sanderson'): 2, (42427, 'The Kingdom of Slender Swords'): 1, (73106, 'The castaway'): 3}",3,female,American,8
+83,"Rice, Alice Caldwell Hegan",4,6,"{(6635, 'A Romance of Billy-Goat Hill'): 2, (14079, 'Sandy'): 1, (15180, 'The Honorable Percival'): 1, (15230, ""Miss Mink's Soldier and Other Stories""): 2}",2,female,American,8
+84,"Phillpotts, Eden",4,6,"{(14527, 'Children of the Mist'): 1, (46857, 'Sons of the Morning'): 2, (58355, 'The Three Brothers'): 2, (61549, 'Knock at a Venture'): 1}",2,male,English,17
+85,"Hichens, Robert",4,6,"{(3637, 'The Garden of Allah'): 2, (4603, 'In the Wilderness'): 1, (24499, 'The Green Carnation'): 2, (25986, 'Tongues of Conscience'): 1}",2,male,"United Kingdom, United Kingdom of Great Britain and Ireland",24
+86,"Baring-Gould, S. (Sabine)",2,6,"{(43985, 'Domitia'): 2, (54779, 'Cheap Jack Zita'): 4}",4,male,English,11
+87,"Read, Opie Percival",2,6,"{(44879, 'Up Terrapin River'): 3, (46699, 'Judge Elbridge'): 3}",3,male,American,9
+88,"Bell, Lilian",2,6,"{(18895, 'At Home with the Jardines'): 1, (40850, 'Carolina Lee'): 5}",5,female,American,4
+89,"Oliphant, Mrs. (Margaret)",4,6,"{(28629, 'Phoebe, Junior'): 1, (28637, 'The Marriage of Elinor'): 2, (54882, 'A Rose in June'): 1, (59211, 'The Marriage of Elinor'): 2}",2,female,Scottish,40
+90,"Young, Francis Brett",1,6,"{(58886, 'The Crescent Moon'): 6}",6,male,English,2
+91,"Gissing, George",6,6,"{(4299, 'The Whirlpool'): 1, (4301, 'The Nether World'): 1, (4305, 'The Unclassed'): 1, (4309, 'Demos'): 1, (4312, ""A Life's Morning""): 1, (4526, 'Born in Exile'): 1}",1,male,English,17
+92,"Vance, Louis Joseph",3,6,"{(9927, 'The Bronze Bell'): 2, (31021, 'The Bandbox'): 1, (32302, 'The Destroying Angel'): 3}",3,male,American,10
+93,"Twain, Mark",3,6,"{(119, 'A Tramp Abroad'): 4, (245, 'Life on the Mississippi'): 1, (3185, 'Those Extraordinary Twins'): 1}",4,male,American,100
+94,"Kent, Elizabeth",1,6,"{(35205, 'Who?'): 6}",6,female,United Kingdom of Great Britain and Ireland,2
+95,"Quiller-Couch, Arthur",4,5,"{(16604, 'Poison Island'): 1, (16890, 'Hetty Wesley'): 1, (17842, ""Dead Man's Rock""): 2, (20612, 'Fort Amity'): 1}",2,male,"English, American",29
+96,"Montgomery, L. M. (Lucy Maud)",3,5,"{(316, 'The Golden Road'): 1, (1354, 'Chronicles of Avonlea'): 1, (24874, 'Lucy Maud Montgomery Short Stories, 1902 to 1903'): 3}",3,female,Canadian,3
+97,"George, Walter Lionel",1,5,"{(33538, 'A Bed of Roses'): 5}",5,male,English,1
+98,"Rinehart, Mary Roberts",3,5,"{(330, ""Where There's a Will""): 1, (434, 'The Circular Staircase'): 3, (54273, 'Locked Doors'): 1}",3,female,American,17
+99,"Beers, Henry A. (Henry Augustin)",2,5,"{(15854, 'Initial Studies in American Letters'): 1, (53876, 'Nathaniel Parker Willis'): 4}",4,male,American,7
+100,"Dreiser, Theodore",3,5,"{(5267, 'Sister Carrie'): 2, (14717, 'Twelve Men'): 1, (31824, 'The ""Genius""'): 2}",2,male,American,7
+101,"Sinclair, Upton",2,5,"{(140, 'The Jungle'): 2, (5421, 'The Metropolis'): 3}",3,male,American,13
+102,"Le Gallienne, Richard",2,5,"{(10922, 'Young Lives'): 2, (15025, 'Prose Fancies'): 3}",3,male,"British, English, British-American",14
+103,"Waterloo, Stanley",2,5,"{(10391, ""The Wolf's Long Howl""): 3, (16143, 'A Man and a Woman'): 2}",3,male,American,4
+104,"Kauffman, Reginald Wright",3,5,"{(38753, 'Running Sands'): 1, (45866, ""The Spider's Web""): 2, (73115, 'The house of bondage'): 2}",2,male,,4
+105,"Van Dyke, Henry",2,5,"{(1603, 'The Blue Flower'): 2, (3757, 'The White Bees'): 3}",3,male,American,19
+106,"Jay, W. M. L.",1,5,"{(56980, 'Holden with the Cords'): 5}",5,female,United States,1
+107,"Huneker, James",2,5,"{(17922, 'Visionaries'): 2, (31017, 'Ivory, Apes and Peacocks'): 3}",3,male,American,3
+108,"Watts-Dunton, Theodore",1,5,"{(13454, 'Aylwin'): 5}",5,male,English,1
+109,"Croker, B. M. (Bithia Mary)",3,5,"{(65561, 'Jungle Tales'): 3, (70344, 'Odds and ends'): 1, (70459, '""To let""'): 1}",3,female,"Irish, British",12
+110,"Bierce, Ambrose",3,5,"{(4366, 'Can Such Things Be?'): 2, (4793, ""The Fiend's Delight""): 2, (12977, 'Black Beetles in Amber'): 1}",2,male,American,19
+111,"Locke, William John",4,5,"{(3828, 'Simon the Jester'): 1, (28489, 'The Belovéd Vagabond'): 1, (55927, 'Derelicts'): 2, (60121, 'The Glory of Clementina Wing'): 1}",2,male,British,19
+112,"Bellamy, Edward",1,5,"{(7052, ""Dr. Heidenhoff's Process""): 5}",5,male,American,19
+113,"De Morgan, William",1,5,"{(46228, 'It Never Can Happen Again'): 5}",5,male,English,2
+114,"Machen, Arthur",1,5,"{(13969, 'The Hill of Dreams'): 5}",5,male,"Welsh, English",7
+115,"Wister, Owen",1,5,"{(1385, 'Lin McLean'): 5}",5,male,American,9
+116,"Henty, G. A. (George Alfred)",3,5,"{(2805, 'With Lee in Virginia: A Story of the American Civil War'): 2, (8155, ""Colonel Thorndyke's Secret""): 1, (19154, 'With Lee in Virginia: A Story of the American Civil War'): 2}",2,male,"British, English",7
+117,"Russell, John",1,4,"{(32946, 'Where the Pavement Ends'): 4}",4,male,"British, American",1
+118,"Lynch, Hannah",2,4,"{(57072, 'Autobiography of a Child'): 3, (65098, 'Daughters of Men'): 1}",3,female,Irish,3
+119,"Onions, Oliver",3,4,"{(14168, 'Widdershins'): 2, (37838, 'The Story of Louie'): 1, (37919, 'In Accordance with the Evidence'): 1}",2,male,English,7
+120,"Thurston, Katherine Cecil",1,4,"{(14054, 'Max'): 4}",4,female,Irish,4
+121,"Lawrence, D. H. (David Herbert)",4,4,"{(4240, 'Women in Love'): 1, (9498, 'The Trespasser'): 1, (23394, 'Look! We Have Come Through!'): 1, (28948, 'The Rainbow'): 1}",1,male,English,19
+122,"Lynde, Francis",3,4,"{(11418, 'The Grafters'): 1, (19462, 'The Price'): 2, (19472, 'Branded'): 1}",2,male,American,17
+123,"Pater, Walter",1,4,"{(4037, 'Appreciations, with an Essay on Style'): 4}",4,male,English,6
+124,"Potter, Margaret Horton",1,4,"{(22004, 'The Genius'): 4}",4,female,American,3
+125,"Maugham, W. Somerset (William Somerset)",4,4,"{(351, 'Of Human Bondage'): 1, (27063, 'The Hero'): 1, (47229, 'The Merry-go-round'): 1, (47470, 'Mrs. Craddock'): 1}",1,male,English,17
+126,"Shorter, Clement King",1,4,"{(21869, 'Immortal Memories'): 4}",4,female,"English, British",3
+127,"Millet, Francis Davis",1,4,"{(62030, 'A Capillary Crime, and Other Stories'): 4}",4,male,American,1
+128,"Snaith, J. C. (John Collis)",2,4,"{(73096, 'William Jordan, Junior'): 2, (73110, 'Henry Northcote'): 2}",2,male,English,12
+129,"Phillips, David Graham",1,4,"{(7832, 'The Deluge'): 4}",4,female,American,17
+130,"Fisher, Dorothy Canfield",1,4,"{(11221, 'The Bent Twig'): 4}",4,female,American,2
+131,"Brooks, Virginia",1,4,"{(25772, 'Little Lost Sister'): 4}",4,female,United States,1
+132,"Evans, Augusta J. (Augusta Jane)",2,4,"{(4553, 'St. Elmo'): 1, (17718, 'Infelice'): 3}",3,female,American,4
+133,"Beach, Rex",2,4,"{(5143, 'The Auction Block'): 2, (6017, 'The Silver Horde'): 2}",2,male,American,14
+134,"Christie, Agatha",1,4,"{(863, 'The Mysterious Affair at Styles'): 4}",4,female,English,2
+135,"Alcott, Louisa May",3,4,"{(2726, 'Eight Cousins'): 2, (52900, ""Little Men: Life at Plumfield with Jo's Boys""): 1, (54212, 'A Modern Mephistopheles, and A Whisper in the Dark'): 1}",2,female,American,4
+136,"Caine, Hall, Sir",3,4,"{(25574, 'Recollections of Dante Gabriel Rossetti'): 2, (35781, 'The Deemster'): 1, (51950, 'The Prodigal Son'): 1}",2,male,British,15
+137,"Young, F. E. Mills (Florence Ethel Mills)",2,4,"{(38170, 'Grit Lawless'): 1, (38176, 'The Stronger Influence'): 3}",3,female,English,4
+138,"Adcock, Arthur St. John",1,4,"{(44269, 'Famous Houses and Literary Shrines of London'): 4}",4,male,English,1
+139,"Malet, Lucas",1,3,"{(34619, 'The Gateless Barrier'): 3}",3,female,English,5
+140,"James, Henry",3,3,"{(8080, 'A Passionate Pilgrim'): 1, (26115, 'A Small Boy and Others'): 1, (38424, 'Notes of a Son and Brother'): 1}",1,male,"American, British, American-British, English",66
+141,"Repplier, Agnes",3,3,"{(59018, 'Points of View'): 1, (71362, 'Counter-currents'): 1, (73041, 'Compromises'): 1}",1,female,American,8
+142,"Moore, Frank Frankfort",2,3,"{(2155, 'Phyllis of Philistia'): 2, (51951, 'The Jessamy Bride'): 1}",2,male,Irish,13
+143,"Curwood, James Oliver",1,3,"{(10696, 'The Danger Trail'): 3}",3,male,American,20
+144,"Milne, A. A. (Alan Alexander)",2,3,"{(13441, 'The sunny side'): 2, (26098, 'Happy Days'): 1}",2,male,British,9
+145,"Holt-White, W. (William)",1,3,"{(46566, 'The Crime Club'): 3}",3,male,United Kingdom,1
+146,"Ward, Adolphus William, Sir",1,3,"{(36714, 'Dickens'): 3}",3,male,English,1
+147,Saki,2,3,"{(555, 'The Unbearable Bassington'): 2, (14540, 'When William Came'): 1}",2,male,British,6
+148,"Rideout, Henry Milner",1,3,"{(10321, ""Dragon's blood""): 3}",3,male,American,1
+149,"Webster, Jean",2,3,"{(238, 'Dear Enemy'): 2, (46761, 'The Wheat Princess'): 1}",2,female,American,7
+150,"Ingleby, Leonard Cresswell",1,3,"{(38251, 'Oscar Wilde'): 3}",3,male,English,1
+151,"Brontë, Charlotte",1,3,"{(30486, 'Shirley'): 3}",3,female,English,1
+152,"Stevenson, Robert Louis",2,3,"{(425, 'Familiar Studies of Men and Books'): 2, (534, 'An Inland Voyage'): 1}",2,male,Scottish,31
+153,"Brown, Alice",2,3,"{(24540, 'Country Neighbors'): 2, (29366, 'The Prisoner'): 1}",2,female,United States,7
+154,"Warner, Charles Dudley",3,3,"{(3103, 'A Little Journey in the World'): 1, (3106, 'As We Were Saying'): 1, (3122, 'England'): 1}",1,male,American,26
+155,"Eggleston, George Cary",1,3,"{(51883, 'Evelyn Byrd'): 3}",3,male,American,5
+156,"Bower, B. M.",2,3,"{(1204, 'Cabin Fever'): 1, (14486, 'The Thunder Bird'): 2}",2,female,American,24
+157,"Masters, Edgar Lee",3,3,"{(1280, 'Spoon River Anthology'): 1, (21910, 'Mitch Miller'): 1, (36149, 'Songs and Satires'): 1}",1,male,American,6
+158,"Hughes, Rupert",2,3,"{(29561, 'In a Little Town'): 2, (60037, 'Clipped Wings'): 1}",2,male,American,9
+159,"Deland, Margaret Wade Campbell",3,3,"{(6474, 'The Iron Woman'): 1, (34427, ""Dr. Lavendar's People""): 1, (54910, 'The Rising Tide'): 1}",1,female,American,8
+160,"Bates, Arlo",2,3,"{(8671, 'The Pagans'): 1, (48396, ""Patty's Perversities""): 2}",2,male,American,10
+161,"Braddon, M. E. (Mary Elizabeth)",1,3,"{(54247, 'Beyond These Voices'): 3}",3,female,English,13
+162,"Wallace, Edgar",2,3,"{(2688, 'The Clue of the Twisted Candle'): 1, (24933, 'The Man Who Knew'): 2}",2,male,British,13
+163,"Cather, Willa",3,3,"{(44, 'The Song of the Lark'): 1, (242, 'My Ántonia'): 1, (19810, 'My Ántonia'): 1}",1,female,American,7
+164,"Gribble, Francis Henry",1,3,"{(41701, 'The Love Affairs of Lord Byron'): 3}",3,male,British,1
+165,"Von Hutten, Bettina",1,3,"{(16909, 'The Halo'): 3}",3,female,"American, German",1
+166,"Whitlock, Brand",1,3,"{(40398, 'The Turn of the Balance'): 3}",3,male,American,5
+167,"Pollock, Frank Lillie",1,3,"{(67627, 'The Treasure Trail'): 3}",3,male,Canadian,1
+168,"Neihardt, John G.",1,3,"{(53667, 'The Song of Hugh Glass'): 3}",3,male,American,1
+169,"Ficke, Arthur Davison",1,3,"{(24556, 'Mr. Faust'): 3}",3,male,American,1
+170,"Garland, Hamlin",3,3,"{(20697, 'Prairie Folks'): 1, (20714, 'Other Main-Travelled Roads'): 1, (24220, 'The Tyranny of the Dark'): 1}",1,male,American,11
+171,"Falkner, John Meade",2,3,"{(14107, 'The Lost Stradivarius'): 1, (22943, 'The Nebuly Coat'): 2}",2,male,English,2
+172,"Pain, Barry",1,3,"{(35148, 'Here and Hereafter'): 3}",3,male,"British, English",6
+173,"Fletcher, Robert Huntington",1,3,"{(7201, 'A History of English Literature'): 3}",3,,,1
+174,"Wright, Mabel Osgood",2,3,"{(41440, 'Poppea of the Post-Office'): 1, (42437, ""Aunt Jimmy's Will""): 2}",2,female,American,5
+175,"Barr, Robert",2,3,"{(8681, 'The Face and the Mask'): 1, (9312, 'From Whose Bourne'): 2}",2,male,"Canadian, British",18
+176,"Macauley, C. R. (Charles Raymond)",1,2,"{(44182, 'The Red Tavern'): 2}",2,male,United States,1
+177,"Sheehan, Patrick Augustine",1,2,"{(20295, 'My New Curate'): 2}",2,male,Irish,1
+178,"Sherwood, Margaret Pollock",1,2,"{(67432, 'An Experiment in Altruism'): 2}",2,female,"American, English",3
+179,"Calverley, Charles Stuart",1,2,"{(4739, 'Fly Leaves'): 2}",2,male,English,1
+180,"Rossetti, Lucy Madox Brown",1,2,"{(6705, 'Mrs. Shelley'): 2}",2,female,British,1
+181,"Luther, Mark Lee",1,2,"{(19148, 'The Henchman'): 2}",2,,,1
+182,"Ruskin, John",1,2,"{(1293, 'Sesame and Lilies'): 2}",2,male,English,6
+183,"Fuller, Alvarado M. (Alvarado Mortimer)",1,2,"{(44307, 'A. D. 2000'): 2}",2,male,United States,1
+184,"Sharp, William",1,2,"{(14476, 'Life of Robert Browning'): 2}",2,male,United Kingdom,5
+185,"Russell, George William Erskine",2,2,"{(12994, 'Sydney Smith'): 1, (46821, 'Seeing and Hearing'): 1}",1,male,United Kingdom of Great Britain and Ireland,3
+186,"Burgess, Gelett",1,2,"{(48084, 'The White Cat'): 2}",2,male,"American, French",7
+187,"Saintsbury, George",2,2,"{(14469, 'The English Novel'): 1, (16284, 'Matthew Arnold'): 1}",1,male,English,2
+188,"Lear, Edward",2,2,"{(13647, 'Nonsense Songs'): 1, (13650, 'Nonsense Books'): 1}",1,male,"British, English",1
+189,"Leverage, Henry",1,2,"{(34046, 'Whispering Wires'): 2}",2,male,American,2
+190,"Lewis, Wyndham",1,2,"{(58340, 'Tarr'): 2}",2,male,"English, Canadian, British",1
+191,"Freeman, Mary Eleanor Wilkins",1,2,"{(18011, 'The Portion of Labor'): 2}",2,female,American,18
+192,"Mearns, Hughes",1,2,"{(71263, 'Richard Richard'): 2}",2,male,American,2
+193,"Robertson, Morgan",1,2,"{(69268, 'Over the border'): 2}",2,male,American,3
+194,"Roberts, William James",1,2,"{(72028, 'Mary Russell Mitford'): 2}",2,male,,1
+195,"Phelps, William Lyon",2,2,"{(7930, 'The Advance of English Poetry in the Twentieth Century'): 1, (9067, 'Robert Browning: How to Know Him'): 1}",1,male,American,2
+196,"Poe, Edgar Allan",1,2,"{(932, 'The Fall of the House of Usher'): 2}",2,male,American,1
+197,"Parker, Gilbert",2,2,"{(3746, 'The Judgment House'): 1, (26905, 'Northern Lights'): 1}",1,male,"Canadian, British",131
+198,"Yonge, Charlotte M. (Charlotte Mary)",2,2,"{(2573, 'The Caged Lion'): 1, (7378, 'Chantry House'): 1}",1,female,English,24
+199,"Yeats, W. B. (William Butler)",1,2,"{(32884, 'Ideas of Good and Evil'): 2}",2,male,Irish,25
+200,"Orczy, Emmuska Orczy, Baroness",2,2,"{(10556, 'The Old Man in the Corner'): 1, (32730, 'The Heart of a Woman'): 1}",1,female,"British, English, French",21
+201,"Atherton, Gertrude Franklin Horn",1,2,"{(21903, 'The Californians'): 2}",2,female,American,19
+202,"Nicholson, Meredith",2,2,"{(15138, 'A Hoosier Chronicle'): 1, (66455, 'The Lords of High Decision'): 1}",1,male,American,18
+203,"Bangs, John Kendrick",2,2,"{(3236, 'Mr. Bonaparte of Corsica'): 1, (35374, 'The Dreamers: A Club'): 1}",1,male,American,23
+204,"Munro, Neil",1,2,"{(21333, 'Doom Castle'): 2}",2,male,"United Kingdom, United Kingdom of Great Britain and Ireland",7
+205,"Barr, Amelia E.",2,2,"{(16222, 'Winter Evening Tales'): 1, (36538, 'Playing With Fire'): 1}",1,female,English,20
+206,"Morison, James Cotter",1,2,"{(18851, 'Gibbon'): 2}",2,male,English,1
+207,"Becke, Louis",1,2,"{(24270, 'Tom Gerrard'): 2}",2,male,Australian,34
+208,"Riis, Jacob A. (Jacob August)",2,2,"{(21583, 'Children of the Tenements'): 1, (61300, 'Christmas Stories'): 1}",1,male,American,3
+209,"Miller, Alex. McVeigh, Mrs.",2,2,"{(43037, ""Guy Kenmore's Wife, and The Rose and the Lily""): 1, (54570, ""An Old Man's Darling""): 1}",1,female,American,12
+210,"Beerbohm, Max, Sir",2,2,"{(1859, 'The Works of Max Beerbohm'): 1, (2292, 'Yet Again'): 1}",1,male,English,7
+211,"Merwin, Samuel",1,2,"{(52507, 'Anthony the Absolute'): 2}",2,male,United States,7
+212,"Merritt, Abraham",1,2,"{(765, 'The Moon Pool'): 2}",2,male,American,2
+213,"Carey, Rosa Nouchette",2,2,"{(16080, 'Uncle Max'): 1, (22883, ""Doctor Luttrell's First Patient""): 1}",1,female,English,7
+214,"McIntyre, John T. (John Thomas)",1,2,"{(12314, 'Ashton-Kirk, Investigator'): 2}",2,male,American,6
+215,"McCutcheon, George Barr",2,2,"{(6325, 'A Fool and His Money'): 1, (14818, 'The Daughter of Anderson Crow'): 1}",1,male,American,30
+216,"Wodehouse, P. G. (Pelham Grenville)",2,2,"{(6753, 'Psmith in the City'): 1, (6880, 'The Coming of Bill'): 1}",1,male,English,17
+217,"Blackwood, Algernon",1,2,"{(45964, 'Day and Night Stories'): 2}",2,male,English,16
+218,"Wilson, Harry Leon",2,2,"{(9151, 'Ruggles of Red Gap'): 1, (14376, 'Somewhere in Red Gap'): 1}",1,male,American,9
+219,"Marzials, Frank T. (Frank Thomas), Sir",1,2,"{(16787, 'Life of Charles Dickens'): 2}",2,male,"French, British",1
+220,"Lathrop, Rose Hawthorne",1,2,"{(6926, 'Memories of Hawthorne'): 2}",2,female,American,2
+221,"Haggard, H. Rider (Henry Rider)",2,2,"{(1724, 'Finished'): 1, (66528, 'Joan Haste'): 1}",1,male,"English, British",44
+222,"White, William Allen",2,2,"{(26207, 'In Our Town'): 1, (30627, 'In the Heart of a Fool'): 1}",1,male,American,3
+223,"Herbert, A. P. (Alan Patrick)",1,2,"{(35164, 'The Secret Battle'): 2}",2,male,English,2
+224,"Swinburne, Algernon Charles",2,2,"{(14252, 'The Age of Shakespeare'): 1, (16412, 'A Study of Shakespeare'): 1}",1,male,English,11
+225,"Harrison, Burton, Mrs.",1,2,"{(49494, 'Latter-Day Sweethearts'): 2}",2,female,American,1
+226,"Harrison, Henry Sydnor",1,2,"{(9993, 'Captivating Mary Carstairs'): 2}",2,male,American,4
+227,"Durham, Robert Lee",1,2,"{(45206, 'The Call of the South'): 2}",2,male,American,1
+228,"Hay, Ian",1,2,"{(41574, ""A Man's Man""): 2}",2,male,British,7
+229,"Hearn, Lafcadio",2,2,"{(717, 'Chita: A Memory of Last Island'): 1, (16261, 'Some Chinese Ghosts'): 1}",1,male,Irish,5
+230,"Wason, Robert Alexander",1,2,"{(3705, 'Happy Hawkins'): 2}",2,male,American,2
+231,"Stockton, Frank R.",1,2,"{(10948, 'The Stories of the Three Burglars'): 2}",2,male,American,18
+232,"Dickens, Charles",1,2,"{(967, 'Nicholas Nickleby'): 2}",2,male,English,11
+233,"Stratton-Porter, Gene",1,2,"{(349, 'The Harvester'): 2}",2,female,American,3
+234,"Hocking, Silas K. (Silas Kitto)",1,2,"{(39417, 'A Gamble with Life'): 2}",2,male,British,1
+235,"Daggett, Mary Stewart",1,2,"{(36509, 'The Higher Court'): 2}",2,female,,2
+236,"Stowe, Harriet Beecher",1,2,"{(67383, 'Little Foxes'): 2}",2,female,American,12
+237,"Hornung, E. W. (Ernest William)",2,2,"{(33971, 'Witching Hill'): 1, (38388, 'A Bride from the Bush'): 1}",1,male,"British, English, Australian",25
+238,"Hardy, Thomas",1,2,"{(3044, 'Desperate Remedies'): 2}",2,male,English,19
+239,"Symonds, John Addington",1,2,"{(4555, 'Percy Bysshe Shelley'): 2}",2,male,English,1
+240,"Hall, Eliza Calvert",2,2,"{(26728, 'Aunt Jane of Kentucky'): 1, (32203, 'The Land of Long Ago'): 1}",1,female,American,3
+241,"Hadden, J. Cuthbert (James Cuthbert)",1,2,"{(53898, 'Thomas Campbell'): 2}",2,male,Scottish,1
+242,"Habberton, John",2,2,"{(4281, ""Helen's Babies""): 1, (51085, ""Helen's Babies""): 1}",1,male,American,9
+243,"Grier, Sydney C.",2,2,"{(66229, 'The Warden of the Marches'): 1, (66471, 'Like Another Helen'): 1}",1,female,English,7
+244,"Thompson, Francis",1,2,"{(30730, 'The Hound of Heaven'): 2}",2,male,English,6
+245,"Green, Anna Katharine",1,2,"{(10083, 'The House of the Whispering Pines'): 2}",2,female,American,32
+246,"Grant, Robert",2,2,"{(14645, 'Unleavened Bread'): 1, (56310, 'The Undercurrent'): 1}",1,male,"Kingdom of Great Britain, United Kingdom of Great Britain and Ireland",7
+247,"Thorne, Guy",2,2,"{(40571, 'The Angel'): 1, (41829, 'The Serf'): 1}",1,male,English,8
+248,"Von Arnim, Elizabeth",1,2,"{(5991, 'The Solitary Summer'): 2}",2,female,"Australian, English, German, New Zealand",9
+249,"Fletcher, John Gould",1,2,"{(38856, 'Goblins and Pagodas'): 2}",2,male,American,2
+250,"Gibson, George Herbert",1,2,"{(45391, 'Southerly Busters'): 2}",2,male,,1
+251,"Gibbs, George",2,2,"{(41844, 'The Golden Bough'): 1, (54544, 'The Silent Battle'): 1}",1,male,United Kingdom,11
+252,"Forster, E. M. (Edward Morgan)",2,2,"{(2891, 'Howards End'): 1, (2946, 'Howards End'): 1}",1,male,English,4
+253,"Gallizier, Nathan",1,2,"{(39970, 'The Hill of Venus'): 2}",2,male,,3
+254,"Futrelle, Jacques",2,2,"{(10943, 'Elusive Isabel'): 1, (38981, 'The Chase of the Golden Plate'): 1}",1,male,American,4
+255,"Cullum, Ridgwell",1,2,"{(23662, 'The Heart of Unaga'): 2}",2,male,British,12
+256,"Douglas, James",1,2,"{(41792, 'Theodore Watts-Dunton: Poet, Novelist, Critic'): 2}",2,male,American,1
+257,"Comfort, Will Levington",2,2,"{(34825, 'She Buildeth Her House'): 1, (73334, 'Routledge rides alone'): 1}",1,male,American,9
+258,"Whitaker, Herman",1,2,"{(43450, 'The Settler'): 2}",2,male,English,3
+259,"Crosby, Ernest",1,2,"{(19353, 'Captain Jinks, Hero'): 2}",2,male,American,1
+260,"Johnson, Owen",2,2,"{(36355, 'The Salamander'): 1, (37113, 'The Sixty-First Second'): 1}",1,male,United States,7
+261,"Jewett, Sarah Orne",1,2,"{(32382, 'Old Friends and New'): 2}",2,female,American,5
+262,"Southworth, Emma Dorothy Eliza Nevitte",1,2,"{(16094, ""For Woman's Love""): 2}",2,female,American,6
+263,"Stephen, Leslie",2,2,"{(11031, 'Samuel Johnson'): 1, (19654, 'Alexander Pope'): 1}",1,male,English,5
+264,"Cooke, Marjorie Benton",2,2,"{(11197, 'Bambi'): 1, (33209, 'The Dual Alliance'): 1}",1,female,American,4
+265,"Colvin, Sidney",1,2,"{(41688, 'Keats'): 2}",2,male,"United Kingdom, United Kingdom of Great Britain and Ireland",2
+266,"Hutton, Richard Holt",1,2,"{(18124, 'Sir Walter Scott'): 2}",2,male,English,1
+267,"Isham, Frederic Stewart",2,2,"{(10402, 'A Man and His Money'): 1, (29726, 'The Strollers'): 1}",1,male,American,6
+268,"King, Charles",2,2,"{(16557, 'The Deserter'): 1, (37244, ""Kitty's Conquest""): 1}",1,male,American,22
+269,"Kingsley, Charles",1,2,"{(7032, 'Prose Idylls, New and Old'): 2}",2,male,English,3
+270,"Van Vorst, Marie",1,1,"{(71500, 'His love story'): 1}",1,female,American,3
+271,"Tynan, Katharine",1,1,"{(20201, 'Mary Gray'): 1}",1,female,Irish,4
+272,"Wood, Henry, Mrs.",1,1,"{(15627, ""Verner's Pride""): 1}",1,female,,12
+273,"Upward, Allen",1,1,"{(26677, 'Athelstane Ford'): 1}",1,male,British,5
+274,"Pickthall, Marmaduke William",1,1,"{(57297, 'Veiled Women'): 1}",1,male,English,2
+275,"Serviss, Garrett Putman",1,1,"{(8673, 'A Columbus of Space'): 1}",1,male,American,5
+276,"Woods, Katharine Pearson",1,1,"{(67671, 'Metzerott, Shoemaker'): 1}",1,female,American,1
+277,"Setoun, Gabriel",1,1,"{(30721, 'Robert Burns'): 1}",1,male,Scottish,1
+278,"Pinero, Arthur Wing",1,1,"{(15357, 'The Notorious Mrs. Ebbsmith'): 1}",1,male,"British, English",12
+279,"Woolf, Virginia",1,1,"{(1245, 'Night and Day'): 1}",1,female,English,2
+280,"Young, Rose E. (Rose Emmet)",1,1,"{(23391, 'Sally of Missouri'): 1}",1,female,American,1
+281,"Ray, Anna Chapin",1,1,"{(29760, 'The Dominant Strain'): 1}",1,female,American,4
+282,"Raleigh, Walter Alexander, Sir",1,1,"{(333, 'Robert Louis Stevenson'): 1}",1,male,"British, English",3
+283,"Trollope, Anthony",1,1,"{(27067, 'The Fixed Period'): 1}",1,male,English,25
+284,"Sharp, Evelyn",1,1,"{(42153, 'The Making of a Prig'): 1}",1,female,"United Kingdom, United Kingdom of Great Britain and Ireland",2
+285,Vera,1,1,"{(6809, ""The Doctor's Daughter""): 1}",1,female,Russian,2
+286,"Wylie, I. A. R. (Ida Alexa Ross)",1,1,"{(49460, 'Dividing Waters'): 1}",1,female,"Australian, British, British-American",2
+287,"Train, Arthur Cheney",1,1,"{(11987, 'By Advice of Counsel'): 1}",1,male,American,2
+288,"Seawell, Molly Elliot",1,1,"{(67280, 'The History of the Lady Betty Stair'): 1}",1,female,"American, English",16
+289,"Wyllarde, Dolf",1,1,"{(69777, 'The rat-trap'): 1}",1,female,"English, British",1
+290,"Smith, Logan Pearsall",1,1,"{(8544, 'Trivia'): 1}",1,male,"American, British, English",2
+291,"Poole, Ernest",1,1,"{(14396, 'His Family'): 1}",1,male,American,3
+292,"Weyman, Stanley John",1,1,"{(39138, 'Starvecrow Farm'): 1}",1,male,English,24
+293,"Sedgwick, Anne Douglas",1,1,"{(8087, 'A Fountain Sealed'): 1}",1,female,"British, American",11
+294,"Ross, Albert",1,1,"{(40937, 'A New Sensation'): 1}",1,male,United States,1
+295,"Terhune, Albert Payson",1,1,"{(66697, 'The Fighter'): 1}",1,male,American,1
+296,"Reid, Mayne",1,1,"{(36604, 'The White Squaw'): 1}",1,male,"British, Irish, American",4
+297,"Stoddard, John L. (John Lawson)",1,1,"{(11091, 'Poems'): 1}",1,male,American,1
+298,"Wilder, Marshall P. (Marshall Pinckney)",1,1,"{(65520, 'The Sunny Side of the Street'): 1}",1,male,United States,1
+299,"Robinson, Edwin Arlington",1,1,"{(313, 'Children of the Night'): 1}",1,male,American,4
+300,"Royle, Edwin Milton",1,1,"{(51611, 'The Silent Call'): 1}",1,male,American,1
+301,"Robins, Elizabeth",1,1,"{(26420, 'The Convert'): 1}",1,female,American,8
+302,"Webb, Mary Gladys Meredith",1,1,"{(7055, 'Gone to Earth'): 1}",1,female,English,1
+303,"Webster, Henry Kitchell",1,1,"{(15384, 'The Real Adventure'): 1}",1,male,American,2
+304,"Wilkinson, William Cleaver",1,1,"{(43247, 'The Epic of Saul'): 1}",1,male,"German, English",2
+305,"Wilcox, Ella Wheeler",1,1,"{(27336, 'Three Women'): 1}",1,female,American,16
+306,"Roberts, Charles G. D., Sir",1,1,"{(6956, 'In Divers Tones'): 1}",1,male,Canadian,10
+307,"Stretton, Hesba",1,1,"{(59094, 'Half Brothers'): 1}",1,female,English,4
+308,"Whitney, A. D. T. (Adeline Dutton Train)",1,1,"{(16329, 'The Other Girls'): 1}",1,female,American,1
+309,"Russell, George William",1,1,"{(8105, 'Imaginations and Reveries'): 1}",1,male,Irish,4
+310,"White, Grace Miller",1,1,"{(22064, 'Tess of the Storm Country'): 1}",1,female,American,4
+311,"Warman, Cy",1,1,"{(71261, 'The White Mail'): 1}",1,male,American,2
+312,"Strobridge, Idah Meacham",1,1,"{(67347, 'The Loom of the Desert'): 1}",1,female,American,1
+313,"Rittenhouse, Jessie Belle",1,1,"{(55447, 'The Younger American Poets'): 1}",1,female,American,1
+314,Sui Sin Far,1,1,"{(62940, 'Mrs. Spring Fragrance'): 1}",1,female,"Canadian, American",1
+315,"Swan, Annie S.",1,1,"{(42926, 'The Last of Their Race'): 1}",1,female,Scottish,2
+316,"Ryan, Marah Ellis",1,1,"{(29581, 'The Bondwoman'): 1}",1,female,American,5
+317,"Whitman, Walt",1,1,"{(8388, 'Poems by Walt Whitman'): 1}",1,male,American,2
+318,"Walpole, Hugh",1,1,"{(7887, 'Fortitude'): 1}",1,male,English,9
+319,"Reynolds, Baillie, Mrs.",1,1,"{(35591, 'The Daughter Pays'): 1}",1,female,British,4
+320,"Wood, Eugene",1,1,"{(2642, 'Back Home'): 1}",1,male,,1
+321,"Saltus, Edgar",1,1,"{(47061, ""Mr. Incoul's Misadventure""): 1}",1,male,American,10
+322,"Schreiner, Olive",1,1,"{(1441, 'The Story of an African Farm'): 1}",1,female,South Africa,4
+323,"Scott, Leroy",1,1,"{(41180, 'To Him That Hath'): 1}",1,male,American,6
+324,"Shaw, Bernard",1,1,"{(3543, 'Heartbreak House'): 1}",1,male,Irish,28
+325,"Abbott, Edwin Abbott",1,1,"{(56843, 'Silanus the Christian'): 1}",1,male,"British, English",1
+326,"Phelps, Elizabeth Stuart",1,1,"{(33393, 'Avery'): 1}",1,female,American,7
+327,"Elliott, Francis Perry",1,1,"{(33780, 'The Haunted Pajamas'): 1}",1,male,American,1
+328,"Foote, Mary Hallock",1,1,"{(8219, 'The Desert and the Sown'): 1}",1,female,American,4
+329,"Ferber, Edna",1,1,"{(350, 'Fanny Herself'): 1}",1,female,American,10
+330,"Farjeon, B. L. (Benjamin Leopold)",1,1,"{(53263, 'The Mystery of M. Felix'): 1}",1,male,English,16
+331,"Falconer, Lanoe",1,1,"{(15258, 'Cecilia de Noël'): 1}",1,female,United Kingdom of Great Britain and Ireland,1
+332,"Emerson, Willis George",1,1,"{(52461, 'The Treasure of Hidden Valley'): 1}",1,male,American,5
+333,"Elliott, Maud Howe",1,1,"{(42283, 'The San Rosario Ranch'): 1}",1,female,American,2
+334,"Eggleston, Edward",1,1,"{(25661, 'Duffels'): 1}",1,male,American,6
+335,"Pertwee, Roland",1,1,"{(69114, 'Our Wonderful Selves'): 1}",1,male,"British, English",2
+336,"Edwards, Albert",1,1,"{(38860, 'Comrade Yetta'): 1}",1,male,"Australia, United Kingdom of Great Britain and Ireland",2
+337,"Doyle, C. W. (Charles William)",1,1,"{(35644, 'The Taming of the Jungle'): 1}",1,male,"Kingdom of Great Britain, United Kingdom of Great Britain and Ireland, Kingdom of Ireland",1
+338,"Dowden, Edward",1,1,"{(61983, 'Southey'): 1}",1,male,Irish,1
+339,"Douglas, Amanda M.",1,1,"{(24376, ""Floyd Grandon's Honor""): 1}",1,female,American,2
+340,"Dixon, Thomas, Jr.",1,1,"{(24093, 'The Root of Evil'): 1}",1,male,American,9
+341,"Dawson, Coningsby",1,1,"{(55470, 'Slaves of Freedom'): 1}",1,male,"American, Anglo-American, Canadian",8
+342,"Fowler, Ellen Thorneycroft",1,1,"{(19798, 'The Farringdons'): 1}",1,female,English,1
+343,"Frederic, Harold",1,1,"{(133, 'The Damnation of Theron Ware'): 1}",1,male,American,11
+344,"Fuller, Henry Blake",1,1,"{(8891, 'With the Procession'): 1}",1,male,American,5
+345,"Furst, Clyde",1,1,"{(65249, 'The Observations of Professor Maturin'): 1}",1,,,1
+346,"Gardener, Helen H. (Helen Hamilton)",1,1,"{(37355, 'Pray You, Sir, Whose Daughter?'): 1}",1,female,American,2
+347,"Garnett, Richard",1,1,"{(39817, 'The Age of Dryden'): 1}",1,male,English,2
+348,"Glasgow, Ellen Anderson Gholson",1,1,"{(16505, 'The Voice of the People'): 1}",1,female,American,9
+349,"Gosse, Edmund",1,1,"{(11628, 'Gossip in a Library'): 1}",1,male,English,4
+350,"Graham, Harry",1,1,"{(35059, 'Familiar Faces'): 1}",1,male,"Australia, New Zealand",8
+351,"Grahame, Kenneth",1,1,"{(5319, 'Pagan Papers'): 1}",1,male,Scottish,7
+352,"Gregory, Eliot",1,1,"{(319, 'The Ways of Men'): 1}",1,female,English,2
+353,"Gregory, Lady",1,1,"{(41653, 'Seven Short Plays'): 1}",1,female,,4
+354,"Gunnison, Charles A.",1,1,"{(18660, 'The Beautiful Eyes of Ysidria'): 1}",1,male,,2
+355,"Hapgood, Hutchins",1,1,"{(26719, 'An Anarchist Woman'): 1}",1,male,American,1
+356,"Harris, Corra",1,1,"{(23607, ""A Circuit Rider's Wife""): 1}",1,female,American,2
+357,"Hawthorne, Julian",1,1,"{(7344, 'Archibald Malmaison'): 1}",1,male,American,9
+358,"Hawthorne, Nathaniel",1,1,"{(25344, 'The Scarlet Letter'): 1}",1,male,American,4
+359,"Craddock, Charles Egbert",1,1,"{(35619, 'The Prophet of the Great Smoky Mountains'): 1}",1,female,American,28
+360,"Corelli, Marie",1,1,"{(69600, 'A Christmas greeting'): 1}",1,female,English,17
+361,"Coolidge, Dane",1,1,"{(29642, 'Hidden Water'): 1}",1,male,American,7
+362,"Boldrewood, Rolf",1,1,"{(34240, 'Nevermore'): 1}",1,male,Australia,8
+363,"Adams, Henry",1,1,"{(14409, 'Esther'): 1}",1,male,"American, English",1
+364,"Ade, George",1,1,"{(19829, 'Knocking the Neighbors'): 1}",1,male,American,7
+365,"Alcott, Amos Bronson",1,1,"{(48067, 'Sonnets and Canzonets'): 1}",1,male,American,3
+366,"Allen, Grant",1,1,"{(38575, 'Strange Stories'): 1}",1,male,Canadian,15
+367,"Altsheler, Joseph A. (Joseph Alexander)",1,1,"{(1078, 'The Scouts of the Valley'): 1}",1,male,"American, French",6
+368,"Anstey, F.",1,1,"{(28459, 'In Brief Authority'): 1}",1,male,English,13
+369,"Arnold, Matthew",1,1,"{(12628, 'Selections from the Prose Works of Matthew Arnold'): 1}",1,male,English,2
+370,"Austin, Mary",1,1,"{(9913, 'The Trail Book'): 1}",1,female,United States,4
+371,"Bacon, Josephine Daskam",1,1,"{(60496, 'Whom the Gods Destroyed'): 1}",1,female,American,6
+372,"Bailey, Temple",1,1,"{(22292, 'Glory of Youth'): 1}",1,female,American,7
+373,"Barbour, Ralph Henry",1,1,"{(60612, 'A Maid in Arcady'): 1}",1,male,American,4
+374,"Bates, Oric",1,1,"{(55950, 'A Madcap Cruise'): 1}",1,male,American,1
+375,"Biggers, Earl Derr",1,1,"{(1814, 'The Agony Column'): 1}",1,male,American,3
+376,"Birrell, Augustine",1,1,"{(64985, 'Men, Women, and Books'): 1}",1,male,"British, Irish",4
+377,"Boothby, Guy",1,1,"{(39731, 'The Marriage of Esther'): 1}",1,male,Australian,12
+378,"Converse, Florence",1,1,"{(42176, 'Long Will'): 1}",1,female,American,1
+379,"Broughton, Rhoda",1,1,"{(72772, 'Lavinia'): 1}",1,female,Welsh,5
+380,"Brown, Ivor John Carnegie",1,1,"{(33096, 'Years of Plenty'): 1}",1,male,British,1
+381,"Brownell, Gertrude Hall",1,1,"{(30642, 'Aurora the Magnificent'): 1}",1,female,"American, French",2
+382,"Buchan, John",1,1,"{(560, 'Mr. Standfast'): 1}",1,male,"Scottish, British, Canadian",10
+383,"Butler, Samuel",1,1,"{(6138, 'Life and Habit'): 1}",1,male,"English, Italian",5
+384,"Camp, Wadsworth",1,1,"{(33230, 'The Gray Mask'): 1}",1,male,American,1
+385,"Carr, J. Comyns (Joseph Comyns)",1,1,"{(66838, 'Coasting Bohemia'): 1}",1,,"British, English",1
+386,"Carroll, Lewis",1,1,"{(620, 'Sylvie and Bruno'): 1}",1,male,"British, English",3
+387,"Cawein, Madison Julius",1,1,"{(7796, 'Poems'): 1}",1,male,American,12
+388,"Chatfield-Taylor, H. C. (Hobart Chatfield)",1,1,"{(33528, 'With Edge Tools'): 1}",1,male,American,1
+389,"Cholmondeley, Mary",1,1,"{(14885, 'Red Pottage'): 1}",1,female,English,7
+390,"Clay, Bertha M.",1,1,"{(74956, 'Margery Daw'): 1}",1,,,3
+391,"Cobban, J. Maclaren (James Maclaren)",1,1,"{(13931, 'Master of His Fate'): 1}",1,male,"Kingdom of England, Kingdom of Scotland",1
+392,"Connolly, James B. (James Brendan)",1,1,"{(55654, ""The Deep Sea's Toll""): 1}",1,male,American,5
+393,"Hayward, Rachel",1,1,"{(19943, 'The Hippodrome'): 1}",1,female,Canadian,1
+394,"Hensley, Sophia Margaretta",1,1,"{(17936, 'Poems'): 1}",1,female,Canadian,2
+395,"Hewlett, Maurice",1,1,"{(8934, 'The Forest Lovers'): 1}",1,male,English,13
+396,"Miller, Joaquin",1,1,"{(33220, ""First Fam'lies of the Sierras""): 1}",1,male,American,6
+397,"MacGowan, Alice",1,1,"{(26527, 'Judith of the Cumberlands'): 1}",1,female,American,2
+398,"MacKenzie, Compton",1,1,"{(33012, 'Carnival'): 1}",1,male,Scottish,9
+399,"MacKeracher, William M. (William Mackay)",1,1,"{(37366, 'Vacation Verse'): 1}",1,male,Canada,1
+400,"MacLane, Mary",1,1,"{(43696, 'The Story of Mary MacLane'): 1}",1,female,"American, Canadian",3
+401,"Macaulay, Rose",1,1,"{(33482, 'The Furnace'): 1}",1,female,English,6
+402,"Macpherson, Hector",1,1,"{(32626, 'Thomas Carlyle'): 1}",1,male,Scottish,1
+403,"Maher, Richard Aumerle",1,1,"{(46852, 'The Hills of Desire'): 1}",1,male,,2
+404,"Mair, G. H. (George Herbert)",1,1,"{(11327, 'English Literature: Modern'): 1}",1,male,British,1
+405,"Manning, Frederic",1,1,"{(60537, 'Scenes and Portraits'): 1}",1,male,Australian,2
+406,"Martin, Benjamin Ellis",1,1,"{(56140, 'In the Footprints of Charles Lamb'): 1}",1,,,1
+407,"Martin, George Madden",1,1,"{(31806, 'The House of Fulfilment'): 1}",1,female,American,2
+408,"Maxwell, W. B. (William Babington)",1,1,"{(14605, ""The Devil's Garden""): 1}",1,male,British,2
+409,"Mencken, H. L. (Henry Louis)",1,1,"{(22145, 'A Book of Burlesques'): 1}",1,male,"American, English",3
+410,"Meynell, Alice",1,1,"{(1434, 'Essays'): 1}",1,female,"English, British",10
+411,"Miller, John",1,1,"{(16366, ""The Workingman's Paradise: An Australian Labour Novel""): 1}",1,male,British,1
+412,"Lowndes, Marie Belloc",1,1,"{(52055, 'The Heart of Penelope'): 1}",1,female,English,12
+413,"Mills, Weymer Jay",1,1,"{(47702, 'Through the Gates of Old Romance'): 1}",1,,,2
+414,"Mitford, Bertram",1,1,"{(32895, 'A Veldt Vendetta'): 1}",1,male,British,10
+415,"Moore, Frederick Ferdinand",1,1,"{(10988, ""The Devil's Admiral""): 1}",1,male,American,2
+416,"Morley, Christopher",1,1,"{(172, 'The Haunted Bookshop'): 1}",1,male,American,7
+417,"Munthe, Axel",1,1,"{(38894, 'Vagaries'): 1}",1,male,Sweden,1
+418,"Nason, Frank Lewis",1,1,"{(31485, 'The Blue Goose'): 1}",1,male,American,2
+419,"Nesbit, E. (Edith)",1,1,"{(9385, 'The Incomplete Amorist'): 1}",1,female,English,8
+420,"Norris, Kathleen Thompson",1,1,"{(4947, 'Sisters'): 1}",1,female,American,6
+421,"Oliphant, Laurence",1,1,"{(36277, 'Piccadilly: A Fragment of Contemporary Biography'): 1}",1,male,United Kingdom of Great Britain and Ireland,2
+422,"Oxenham, John",1,1,"{(66846, '""1914""'): 1}",1,male,English,8
+423,"Paternoster, G. Sidney",1,1,"{(71516, 'The master criminal'): 1}",1,female,"Irish-American, Irish, American",1
+424,"Patterson, Joseph Medill",1,1,"{(56455, 'Rebellion'): 1}",1,male,American,1
+425,"Payn, James",1,1,"{(13410, 'Some Private Views'): 1}",1,male,English,2
+426,"Peattie, Elia Wilkinson",1,1,"{(1877, 'A Mountain Woman'): 1}",1,female,American,5
+427,"MacDonald, Ronald",1,1,"{(59873, 'The Sword of the King'): 1}",1,male,Canada,1
+428,"Lowell, Amy",1,1,"{(68156, ""Can Grande's castle""): 1}",1,female,American,3
+429,"Hocking, Joseph",1,1,"{(27591, 'The Birthright'): 1}",1,male,British,7
+430,"Kummer, Frederic Arnold",1,1,"{(33019, 'The Green God'): 1}",1,male,American,4
+431,"Holmes, Oliver Wendell",1,1,"{(2698, 'A Mortal Antipathy'): 1}",1,male,United States,15
+432,"Hopper, James",1,1,"{(37250, 'Caybigan'): 1}",1,male,United States,2
+433,"Hough, Emerson",1,1,"{(14362, 'The Way of a Man'): 1}",1,male,American,14
+434,"Hueston, Ethel",1,1,"{(18413, 'Prudence of the Parsonage'): 1}",1,,,4
+435,"Hutchinson, A. S. M. (Arthur Stuart-Menteth)",1,1,"{(38325, 'The Happy Warrior'): 1}",1,male,,2
+436,"Huxley, Aldous",1,1,"{(47912, 'The Burning Wheel'): 1}",1,male,English,4
+437,"Jefferies, Richard",1,1,"{(13944, 'After London; Or, Wild England'): 1}",1,male,English,6
+438,"Jenkins, Herbert George",1,1,"{(3481, 'The Life of George Borrow'): 1}",1,male,British,5
+439,"Jerome, Jerome K. (Jerome Klapka)",1,1,"{(2231, 'All Roads Lead to Calvary'): 1}",1,male,English,20
+440,"Johnson, James Weldon",1,1,"{(11012, 'The Autobiography of an Ex-Colored Man'): 1}",1,male,American,1
+441,"Johnston, Mary",1,1,"{(16554, 'Foes'): 1}",1,female,American,11
+442,"Jones, Henry, Sir",1,1,"{(13561, 'Browning as a Philosophical and Religious Teacher'): 1}",1,male,Irish,1
+443,"King, Basil",1,1,"{(14394, 'The Street Called Straight'): 1}",1,male,Canadian,7
+444,"Knowles, Robert E. (Robert Edward)",1,1,"{(22008, ""St. Cuthbert's""): 1}",1,male,,3
+445,"Lawson, Henry",1,1,"{(1313, 'Over the Sliprails'): 1}",1,male,Australian,6
+446,"Longfellow, Marian",1,1,"{(42076, 'Contrasted Songs'): 1}",1,female,American,1
+447,"Le Fanu, Joseph Sheridan",1,1,"{(10007, 'Carmilla'): 1}",1,male,Irish,6
+448,"Le Queux, William",1,1,"{(40833, 'The Temptress'): 1}",1,male,"French, English, British, Russian, German",43
+449,"Leacock, Stephen",1,1,"{(6340, 'Literary Lapses'): 1}",1,male,"Canadian, English",9
+450,"Lee, Vernon",1,1,"{(8180, 'A Phantom Lover'): 1}",1,female,"French, British",8
+451,"Abbott, Eleanor Hallowell",1,1,"{(14506, 'The White Linen Nurse'): 1}",1,female,American,6
+452,"Leland, Charles Godfrey",1,1,"{(50666, 'Songs of the Sea and Lays of the Land'): 1}",1,male,American,1
+453,"Levy, Amy",1,1,"{(57447, 'The Romance of a Shop'): 1}",1,female,English,2
+454,"Lewis, Alfred Henry",1,1,"{(13709, 'Wolfville Nights'): 1}",1,male,American,11
+455,"Lewis, Sinclair",1,1,"{(543, 'Main Street'): 1}",1,male,American,5
+456,"Lincoln, Joseph Crosby",1,1,"{(3280, ""Cap'n Warren's Wards""): 1}",1,male,American,12
+457,"Lloyd, Nelson",1,1,"{(23741, 'David Malcolm'): 1}",1,male,,3
+458,"Lockhart, Caroline",1,1,"{(23304, 'The Lady Doc'): 1}",1,female,American,4
+459,"Long, John Luther",1,1,"{(33616, 'The Way of the Gods'): 1}",1,male,American,1
+460,"Longfellow, Henry Wadsworth",1,1,"{(5436, 'Hyperion'): 1}",1,male,American,8
+461,"Lefevre, Edwin",1,1,"{(54130, 'Wall Street stories'): 1}",1,male,American,6
