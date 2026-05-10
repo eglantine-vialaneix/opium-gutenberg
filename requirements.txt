@@ -11,3 +11,4 @@ tqdm
 pyarrow
 seaborn
 spacy
+scikit-learn
