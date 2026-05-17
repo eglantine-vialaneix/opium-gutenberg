@@ -11,3 +11,5 @@ tqdm
 pyarrow
 seaborn
 spacygender-guesser
+spacy
+scikit-learn
