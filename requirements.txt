@@ -10,4 +10,4 @@ wikipedia-api
 tqdm
 pyarrow
 seaborn
-spacy
+spacygender-guesser
