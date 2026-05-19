@@ -1,6 +1,6 @@
 # Feminine Narratives of Opium Use in the Long Nineteenth Century​: A Computational Pipeline with Project Gutenberg
 
-This project investigates the depiction and evolution of opium-related themes in 19th and early 20th-century literature (1860–1920) using the Project Gutenberg corpus.
+This project investigates the depiction and evolution of opium-related themes in 19th and early 20th-century literature (1850–1930) using the Project Gutenberg corpus.
 
 ## Project Pipeline & Execution Order
 
@@ -24,10 +24,12 @@ The workflow is organized into distinct phases, moving from raw data collection 
 ### 3. Core Analysis
 *   **Purpose**: The heavy lifting—quantifying gender, agency, and power dynamics in the text.
 *   **Key Files**:
-    - `code/3_analysis/gender_pilot.ipynb`: NLP-driven (SpaCy) gender attribution pipeline.
+    - `code/3_analysis/gender_extraction.ipynb`: NLP-driven (SpaCy) gender attribution pipeline.
+    - `code/3_analysis/word_analysis.ipynb`: Word analysis pipeline extracting gender-skewed themed words (nouns, verbs, adjectives)
+    - `code/3_analysis/connotation_frame.ipynb`: Applying the Connotation Framework to measure agency/power/sentiment scores.
 *   **Pending Features**:
     - **Topic Modeling**: Identifying semantic shifts in opium discourses.
-    - **Connotation Framework**: Measuring agency/power/sentiment scores.
+    - **Temporal Analysis**: Tracing analytic trends over time
     - **Authorial Lens**: Analyzing the convergence/divergence of opium depictions across author demographics (gender, country).
 
 ### Utilities
