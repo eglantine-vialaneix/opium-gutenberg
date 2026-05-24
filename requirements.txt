@@ -14,4 +14,7 @@ spacygender-guesser
 spacy
 scikit-learn
 bertopic
+sentence-transformers
+hdbscan
+umap-learn
 gender-guesser

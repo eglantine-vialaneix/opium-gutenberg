@@ -1,0 +1,5 @@
+n_topics,outlier_documents,outlier_share,largest_topic_documents,largest_topic_share,n_rich_sized_topics,median_topic_size,name,min_cluster_size,min_samples,n_neighbors
+91,9178,0.533077771969565,318,0.01847011674507754,91,71.0,context_leaf_mcs40_ms1_nn10,40,1,10
+126,8512,0.49439507463553467,364,0.021141894639019575,126,53.5,context_leaf_mcs30_ms1_nn8,30,1,8
+58,8806,0.511471220305512,570,0.03310681303362955,57,118.0,context_leaf_mcs60_ms1_nn10,60,1,10
+44,8344,0.4846372771098333,843,0.048963234012894236,41,153.0,context_leaf_mcs80_ms1_nn12,80,1,12
