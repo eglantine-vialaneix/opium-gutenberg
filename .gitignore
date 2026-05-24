@@ -213,3 +213,6 @@ __marimo__/
 
 # DS Store
 .DS_Store
+
+# Intermediate Topic Models
+data/topic_modelling/intermediate_models/

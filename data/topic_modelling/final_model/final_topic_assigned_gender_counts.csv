@@ -1,0 +1,5 @@
+Assigned_Gender_Group,n_sentence_contexts,n_snippets,n_books,outlier_share
+Male,9092,2681,1322,0.47734271887373514
+Unknown,3756,1119,727,0.5098509052183173
+Female,3206,971,616,0.4862757330006238
+Unknown (Proper Noun),1163,345,232,0.45571797076526227

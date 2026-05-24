@@ -1,0 +1,132 @@
+Author_Gender_Group,bertopic_topic,topic_label,n_documents,group_total,topic_share
+Unknown,0,"0: habit, smoking, drug, eater, doc",77,992,0.07762096774193548
+Unknown,8,"8: poetry, poems, literary, book, poet",61,992,0.06149193548387097
+Unknown,2,"2: dream, god, fear, art, church",59,992,0.059475806451612906
+Unknown,1,"1: truth, kai lung, power, kai, story",49,992,0.04939516129032258
+Unknown,10,"10: drink, wine, brandy, poison, drunk",45,992,0.04536290322580645
+Unknown,21,"21: quincey, eater, thomas quincey, confessions, english eater",43,992,0.04334677419354839
+Unknown,18,"18: coleridge, wordsworth, southey, sqq, gillman",37,992,0.037298387096774195
+Unknown,5,"5: doctor, physician, fever, ill, patient",33,992,0.03326612903225806
+Unknown,12,"12: captain, ship, colonel, schooner, ships",33,992,0.03326612903225806
+Unknown,7,"7: diphtheria, died, sloane, death, caused death",31,992,0.03125
+Unknown,6,"6: rita, gretna, mollie, mollie gretna, insane",30,992,0.03024193548387097
+Unknown,3,"3: bottle, dose, drops, doctor, chemist",28,992,0.028225806451612902
+Unknown,4,"4: face, door, eyes, chair, head",28,992,0.028225806451612902
+Unknown,9,"9: sound, trees, atmosphere, forest, air",27,992,0.02721774193548387
+Unknown,24,"24: confessions, english eater, confessions english eater, confessions english, eater",27,992,0.02721774193548387
+Unknown,17,"17: smell, odour, fumes, bowl, pipe",26,992,0.02620967741935484
+Unknown,13,"13: stimulant, powerful, drug, effects, effect",24,992,0.024193548387096774
+Unknown,27,"27: dream, dreams, visions, delirium, ruby",22,992,0.02217741935483871
+Unknown,43,"43: white bees, bees, sweet, love, song",22,992,0.02217741935483871
+Unknown,23,"23: dens, den, scandal, smuggle, smuggling",20,992,0.020161290322580645
+Unknown,16,"16: pain, sorrow, healing, prove, suffering",19,992,0.019153225806451613
+Unknown,31,"31: sleep, possibly accident, tired, horseback, slept",19,992,0.019153225806451613
+Unknown,32,"32: money, business, dollars, revenue, shillings week",19,992,0.019153225806451613
+Unknown,11,"11: eaters, use, years, possible, time temporally",18,992,0.018145161290322582
+Unknown,15,"15: admit, assure, doubt, certina, true got",17,992,0.017137096774193547
+Unknown,22,"22: whispered, tears, lips, helen, eyes",17,992,0.017137096774193547
+Unknown,19,"19: sleep, slept, awake, sleeping, gerald",16,992,0.016129032258064516
+Unknown,33,"33: bottle, esther, vial, suicide, belt",15,992,0.015120967741935484
+Unknown,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",13,992,0.01310483870967742
+Unknown,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",12,992,0.012096774193548387
+Unknown,40,"40: william, dickens, classics, thomas, english",12,992,0.012096774193548387
+Unknown,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",11,992,0.011088709677419355
+Unknown,26,"26: chinaman, chang, chinatown, chinese, manchu",11,992,0.011088709677419355
+Unknown,28,"28: pure food law, food law, pure food, got sort, tablets",11,992,0.011088709677419355
+Unknown,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",11,992,0.011088709677419355
+Unknown,34,"34: burned, music, silence, burning, operas",11,992,0.011088709677419355
+Unknown,29,"29: fiend, bobus, owen, hope, secret fiend years",9,992,0.009072580645161291
+Unknown,14,"14: bliss, evidence, witness, examination, case",6,992,0.006048387096774193
+Unknown,35,"35: sleep, asleep, sleepy, clock, slept",6,992,0.006048387096774193
+Unknown,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",6,992,0.006048387096774193
+Unknown,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",5,992,0.005040322580645161
+Unknown,36,"36: poisoning, poisonous dose, poisonous, administered, death",3,992,0.0030241935483870967
+Unknown,42,"42: alkaloids, drugs, drug, patent, presence drug",3,992,0.0030241935483870967
+Male,0,"0: habit, smoking, drug, eater, doc",590,6037,0.09773066092430015
+Male,1,"1: truth, kai lung, power, kai, story",331,6037,0.05482855723041246
+Male,2,"2: dream, god, fear, art, church",305,6037,0.05052178234222296
+Male,4,"4: face, door, eyes, chair, head",260,6037,0.043067748881894984
+Male,5,"5: doctor, physician, fever, ill, patient",232,6037,0.038429683617690905
+Male,3,"3: bottle, dose, drops, doctor, chemist",221,6037,0.036607586549610736
+Male,9,"9: sound, trees, atmosphere, forest, air",216,6037,0.03577936060957429
+Male,12,"12: captain, ship, colonel, schooner, ships",202,6037,0.033460327977472254
+Male,7,"7: diphtheria, died, sloane, death, caused death",199,6037,0.032963392413450386
+Male,10,"10: drink, wine, brandy, poison, drunk",196,6037,0.032466456849428525
+Male,8,"8: poetry, poems, literary, book, poet",191,6037,0.03163823090939208
+Male,6,"6: rita, gretna, mollie, mollie gretna, insane",184,6037,0.030478714593341064
+Male,11,"11: eaters, use, years, possible, time temporally",174,6037,0.02882226271326818
+Male,14,"14: bliss, evidence, witness, examination, case",165,6037,0.027331456021202585
+Male,13,"13: stimulant, powerful, drug, effects, effect",156,6037,0.02584064932913699
+Male,15,"15: admit, assure, doubt, certina, true got",142,6037,0.023521616697034953
+Male,17,"17: smell, odour, fumes, bowl, pipe",136,6037,0.02252774556899122
+Male,16,"16: pain, sorrow, healing, prove, suffering",128,6037,0.021202584064932913
+Male,18,"18: coleridge, wordsworth, southey, sqq, gillman",122,6037,0.020208712936889184
+Male,26,"26: chinaman, chang, chinatown, chinese, manchu",109,6037,0.018055325492794434
+Male,21,"21: quincey, eater, thomas quincey, confessions, english eater",107,6037,0.01772403511677986
+Male,19,"19: sleep, slept, awake, sleeping, gerald",106,6037,0.01755838992877257
+Male,23,"23: dens, den, scandal, smuggle, smuggling",104,6037,0.01722709955275799
+Male,29,"29: fiend, bobus, owen, hope, secret fiend years",96,6037,0.015901938048699684
+Male,24,"24: confessions, english eater, confessions english eater, confessions english, eater",94,6037,0.015570647672685109
+Male,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",86,6037,0.014245486168626802
+Male,27,"27: dream, dreams, visions, delirium, ruby",85,6037,0.014079840980619512
+Male,39,"39: jasper, edwin, hag, john jasper, ned",83,6037,0.013748550604604936
+Male,28,"28: pure food law, food law, pure food, got sort, tablets",82,6037,0.013582905416597648
+Male,36,"36: poisoning, poisonous dose, poisonous, administered, death",82,6037,0.013582905416597648
+Male,22,"22: whispered, tears, lips, helen, eyes",79,6037,0.013085969852575782
+Male,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",78,6037,0.012920324664568494
+Male,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",76,6037,0.012589034288553918
+Male,32,"32: money, business, dollars, revenue, shillings week",75,6037,0.012423389100546628
+Male,31,"31: sleep, possibly accident, tired, horseback, slept",73,6037,0.012092098724532053
+Male,34,"34: burned, music, silence, burning, operas",71,6037,0.011760808348517476
+Male,42,"42: alkaloids, drugs, drug, patent, presence drug",69,6037,0.0114295179725029
+Male,40,"40: william, dickens, classics, thomas, english",68,6037,0.01126387278449561
+Male,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",55,6037,0.009110485340400862
+Male,43,"43: white bees, bees, sweet, love, song",48,6037,0.007950969024349842
+Male,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",47,6037,0.0077853238363425545
+Male,33,"33: bottle, esther, vial, suicide, belt",41,6037,0.006791452708298824
+Male,35,"35: sleep, asleep, sleepy, clock, slept",37,6037,0.00612887195626967
+Male,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",36,6037,0.005963226768262382
+Female,0,"0: habit, smoking, drug, eater, doc",176,1844,0.09544468546637744
+Female,1,"1: truth, kai lung, power, kai, story",97,1844,0.05260303687635575
+Female,6,"6: rita, gretna, mollie, mollie gretna, insane",97,1844,0.05260303687635575
+Female,3,"3: bottle, dose, drops, doctor, chemist",95,1844,0.05151843817787419
+Female,2,"2: dream, god, fear, art, church",75,1844,0.04067245119305857
+Female,7,"7: diphtheria, died, sloane, death, caused death",75,1844,0.04067245119305857
+Female,11,"11: eaters, use, years, possible, time temporally",66,1844,0.03579175704989154
+Female,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",64,1844,0.03470715835140998
+Female,5,"5: doctor, physician, fever, ill, patient",62,1844,0.033622559652928416
+Female,9,"9: sound, trees, atmosphere, forest, air",57,1844,0.03091106290672451
+Female,22,"22: whispered, tears, lips, helen, eyes",55,1844,0.02982646420824295
+Female,13,"13: stimulant, powerful, drug, effects, effect",51,1844,0.027657266811279828
+Female,15,"15: admit, assure, doubt, certina, true got",51,1844,0.027657266811279828
+Female,8,"8: poetry, poems, literary, book, poet",50,1844,0.027114967462039046
+Female,35,"35: sleep, asleep, sleepy, clock, slept",49,1844,0.026572668112798264
+Female,4,"4: face, door, eyes, chair, head",47,1844,0.0254880694143167
+Female,33,"33: bottle, esther, vial, suicide, belt",46,1844,0.024945770065075923
+Female,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",45,1844,0.02440347071583514
+Female,16,"16: pain, sorrow, healing, prove, suffering",43,1844,0.023318872017353578
+Female,14,"14: bliss, evidence, witness, examination, case",41,1844,0.022234273318872018
+Female,19,"19: sleep, slept, awake, sleeping, gerald",40,1844,0.021691973969631236
+Female,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",38,1844,0.020607375271149676
+Female,10,"10: drink, wine, brandy, poison, drunk",36,1844,0.019522776572668113
+Female,28,"28: pure food law, food law, pure food, got sort, tablets",36,1844,0.019522776572668113
+Female,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",36,1844,0.019522776572668113
+Female,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",35,1844,0.01898047722342733
+Female,31,"31: sleep, possibly accident, tired, horseback, slept",29,1844,0.015726681127982648
+Female,23,"23: dens, den, scandal, smuggle, smuggling",25,1844,0.013557483731019523
+Female,27,"27: dream, dreams, visions, delirium, ruby",23,1844,0.012472885032537961
+Female,29,"29: fiend, bobus, owen, hope, secret fiend years",23,1844,0.012472885032537961
+Female,32,"32: money, business, dollars, revenue, shillings week",23,1844,0.012472885032537961
+Female,12,"12: captain, ship, colonel, schooner, ships",22,1844,0.01193058568329718
+Female,17,"17: smell, odour, fumes, bowl, pipe",22,1844,0.01193058568329718
+Female,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",22,1844,0.01193058568329718
+Female,34,"34: burned, music, silence, burning, operas",19,1844,0.010303687635574838
+Female,24,"24: confessions, english eater, confessions english eater, confessions english, eater",17,1844,0.009219088937093275
+Female,26,"26: chinaman, chang, chinatown, chinese, manchu",12,1844,0.006507592190889371
+Female,43,"43: white bees, bees, sweet, love, song",11,1844,0.00596529284164859
+Female,18,"18: coleridge, wordsworth, southey, sqq, gillman",9,1844,0.004880694143167028
+Female,42,"42: alkaloids, drugs, drug, patent, presence drug",9,1844,0.004880694143167028
+Female,36,"36: poisoning, poisonous dose, poisonous, administered, death",6,1844,0.0032537960954446853
+Female,21,"21: quincey, eater, thomas quincey, confessions, english eater",5,1844,0.0027114967462039045
+Female,40,"40: william, dickens, classics, thomas, english",3,1844,0.0016268980477223427
+Female,39,"39: jasper, edwin, hag, john jasper, ned",1,1844,0.0005422993492407809
