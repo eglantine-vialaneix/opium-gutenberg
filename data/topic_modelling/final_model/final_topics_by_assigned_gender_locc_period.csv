@@ -1,109 +1,143 @@
 Assigned_Gender_Group,LoCC_Display,Period,bertopic_topic,topic_label,n_documents,group_total,topic_share
-Male,PZ; PS,1881-1911,9,An illegal marchandise,3,4,0.75
-Male,PZ; PS,1881-1911,1,Opium as a smoking habit,1,4,0.25
-Male,PS,1912-1930,1,Opium as a smoking habit,77,214,0.3598130841121495
-Male,PS,1912-1930,9,An illegal marchandise,49,214,0.22897196261682243
-Male,PS,1912-1930,6,The power of the stimulant,28,214,0.1308411214953271
-Male,PS,1912-1930,13,Through olfaction,24,214,0.11214953271028037
-Male,PS,1912-1930,8,Pain and sorrow,16,214,0.07476635514018691
-Male,PS,1912-1930,15,De Quincey's book as a reference,9,214,0.04205607476635514
-Male,PS,1912-1930,19,Poison,8,214,0.037383177570093455
-Male,PS,1912-1930,16,Refering to Coleridge himself,3,214,0.014018691588785047
-Male,PS,1881-1911,1,Opium as a smoking habit,54,158,0.34177215189873417
-Male,PS,1881-1911,6,The power of the stimulant,26,158,0.16455696202531644
-Male,PS,1881-1911,9,An illegal marchandise,23,158,0.14556962025316456
-Male,PS,1881-1911,8,Pain and sorrow,17,158,0.10759493670886076
-Male,PS,1881-1911,19,Poison,17,158,0.10759493670886076
-Male,PS,1881-1911,13,Through olfaction,14,158,0.08860759493670886
-Male,PS,1881-1911,15,De Quincey's book as a reference,6,158,0.0379746835443038
-Male,PS,1881-1911,16,Refering to Coleridge himself,1,158,0.006329113924050633
-Male,PS,1850-1880,1,Opium as a smoking habit,11,43,0.2558139534883721
-Male,PS,1850-1880,9,An illegal marchandise,11,43,0.2558139534883721
-Male,PS,1850-1880,8,Pain and sorrow,6,43,0.13953488372093023
-Male,PS,1850-1880,19,Poison,5,43,0.11627906976744186
-Male,PS,1850-1880,6,The power of the stimulant,4,43,0.09302325581395349
-Male,PS,1850-1880,13,Through olfaction,4,43,0.09302325581395349
-Male,PS,1850-1880,15,De Quincey's book as a reference,2,43,0.046511627906976744
-Male,PR; PZ,1881-1911,1,Opium as a smoking habit,1,3,0.3333333333333333
-Male,PR; PZ,1881-1911,6,The power of the stimulant,1,3,0.3333333333333333
-Male,PR; PZ,1881-1911,9,An illegal marchandise,1,3,0.3333333333333333
-Male,PR; PZ,1850-1880,9,An illegal marchandise,4,6,0.6666666666666666
-Male,PR; PZ,1850-1880,6,The power of the stimulant,1,6,0.16666666666666666
-Male,PR; PZ,1850-1880,19,Poison,1,6,0.16666666666666666
-Male,PR; PS,1912-1930,15,De Quincey's book as a reference,5,7,0.7142857142857143
-Male,PR; PS,1912-1930,1,Opium as a smoking habit,1,7,0.14285714285714285
-Male,PR; PS,1912-1930,16,Refering to Coleridge himself,1,7,0.14285714285714285
-Male,PR; PS,1881-1911,1,Opium as a smoking habit,4,7,0.5714285714285714
-Male,PR; PS,1881-1911,16,Refering to Coleridge himself,3,7,0.42857142857142855
-Male,PR,1912-1930,1,Opium as a smoking habit,82,239,0.34309623430962344
-Male,PR,1912-1930,15,De Quincey's book as a reference,41,239,0.17154811715481172
-Male,PR,1912-1930,16,Refering to Coleridge himself,34,239,0.14225941422594143
-Male,PR,1912-1930,8,Pain and sorrow,24,239,0.100418410041841
-Male,PR,1912-1930,13,Through olfaction,19,239,0.0794979079497908
-Male,PR,1912-1930,6,The power of the stimulant,18,239,0.07531380753138076
-Male,PR,1912-1930,9,An illegal marchandise,13,239,0.05439330543933055
-Male,PR,1912-1930,19,Poison,8,239,0.03347280334728033
-Male,PR,1881-1911,1,Opium as a smoking habit,94,278,0.3381294964028777
-Male,PR,1881-1911,6,The power of the stimulant,50,278,0.17985611510791366
-Male,PR,1881-1911,16,Refering to Coleridge himself,38,278,0.1366906474820144
-Male,PR,1881-1911,8,Pain and sorrow,24,278,0.08633093525179857
-Male,PR,1881-1911,15,De Quincey's book as a reference,24,278,0.08633093525179857
-Male,PR,1881-1911,9,An illegal marchandise,23,278,0.08273381294964029
-Male,PR,1881-1911,13,Through olfaction,13,278,0.046762589928057555
-Male,PR,1881-1911,19,Poison,12,278,0.04316546762589928
-Male,PR,1850-1880,1,Opium as a smoking habit,40,116,0.3448275862068966
-Male,PR,1850-1880,16,Refering to Coleridge himself,31,116,0.2672413793103448
-Male,PR,1850-1880,6,The power of the stimulant,20,116,0.1724137931034483
-Male,PR,1850-1880,8,Pain and sorrow,8,116,0.06896551724137931
-Male,PR,1850-1880,9,An illegal marchandise,5,116,0.04310344827586207
-Male,PR,1850-1880,13,Through olfaction,4,116,0.034482758620689655
-Male,PR,1850-1880,15,De Quincey's book as a reference,4,116,0.034482758620689655
-Male,PR,1850-1880,19,Poison,4,116,0.034482758620689655
-Male,PQ; PR,1912-1930,8,Pain and sorrow,3,3,1.0
-Male,PN; PR,1881-1911,16,Refering to Coleridge himself,3,5,0.6
-Male,PN; PR,1881-1911,1,Opium as a smoking habit,1,5,0.2
-Male,PN; PR,1881-1911,8,Pain and sorrow,1,5,0.2
-Male,F850.5; PS,1850-1880,19,Poison,1,1,1.0
-Male,E151; PS,1912-1930,16,Refering to Coleridge himself,2,2,1.0
-Male,DS; PR,1881-1911,13,Through olfaction,1,1,1.0
-Male,AC; PS,1850-1880,1,Opium as a smoking habit,1,1,1.0
-Male,AC; PR,1912-1930,6,The power of the stimulant,1,1,1.0
-Female,PS,1912-1930,8,Pain and sorrow,10,31,0.3225806451612903
-Female,PS,1912-1930,9,An illegal marchandise,7,31,0.22580645161290322
-Female,PS,1912-1930,13,Through olfaction,7,31,0.22580645161290322
-Female,PS,1912-1930,6,The power of the stimulant,6,31,0.1935483870967742
-Female,PS,1912-1930,19,Poison,1,31,0.03225806451612903
-Female,PS,1881-1911,9,An illegal marchandise,15,45,0.3333333333333333
-Female,PS,1881-1911,8,Pain and sorrow,14,45,0.3111111111111111
-Female,PS,1881-1911,13,Through olfaction,5,45,0.1111111111111111
-Female,PS,1881-1911,19,Poison,5,45,0.1111111111111111
-Female,PS,1881-1911,1,Opium as a smoking habit,3,45,0.06666666666666667
-Female,PS,1881-1911,6,The power of the stimulant,3,45,0.06666666666666667
-Female,PS,1850-1880,8,Pain and sorrow,6,9,0.6666666666666666
-Female,PS,1850-1880,6,The power of the stimulant,2,9,0.2222222222222222
-Female,PS,1850-1880,9,An illegal marchandise,1,9,0.1111111111111111
-Female,PR; PZ,1881-1911,6,The power of the stimulant,2,2,1.0
-Female,PR; PZ,1850-1880,6,The power of the stimulant,1,3,0.3333333333333333
-Female,PR; PZ,1850-1880,8,Pain and sorrow,1,3,0.3333333333333333
-Female,PR; PZ,1850-1880,9,An illegal marchandise,1,3,0.3333333333333333
-Female,PR,1912-1930,8,Pain and sorrow,16,30,0.5333333333333333
-Female,PR,1912-1930,1,Opium as a smoking habit,4,30,0.13333333333333333
-Female,PR,1912-1930,13,Through olfaction,4,30,0.13333333333333333
-Female,PR,1912-1930,15,De Quincey's book as a reference,3,30,0.1
-Female,PR,1912-1930,9,An illegal marchandise,2,30,0.06666666666666667
-Female,PR,1912-1930,6,The power of the stimulant,1,30,0.03333333333333333
-Female,PR,1881-1911,8,Pain and sorrow,24,43,0.5581395348837209
-Female,PR,1881-1911,9,An illegal marchandise,5,43,0.11627906976744186
-Female,PR,1881-1911,13,Through olfaction,5,43,0.11627906976744186
-Female,PR,1881-1911,6,The power of the stimulant,4,43,0.09302325581395349
-Female,PR,1881-1911,1,Opium as a smoking habit,2,43,0.046511627906976744
-Female,PR,1881-1911,19,Poison,2,43,0.046511627906976744
-Female,PR,1881-1911,16,Refering to Coleridge himself,1,43,0.023255813953488372
-Female,PR,1850-1880,9,An illegal marchandise,6,12,0.5
-Female,PR,1850-1880,8,Pain and sorrow,4,12,0.3333333333333333
-Female,PR,1850-1880,6,The power of the stimulant,1,12,0.08333333333333333
-Female,PR,1850-1880,19,Poison,1,12,0.08333333333333333
-Female,AC; PS,1850-1880,6,The power of the stimulant,2,4,0.5
-Female,AC; PS,1850-1880,8,Pain and sorrow,1,4,0.25
-Female,AC; PS,1850-1880,19,Poison,1,4,0.25
-Female,AC; PR,1912-1930,9,An illegal marchandise,1,1,1.0
+Male,PZ; PS,1912-1930,0,Topic 0: Opium and self-conscience,1,1,1.0
+Male,PZ; PS,1881-1911,9,Topic 9: An illegal marchandise,3,5,0.6
+Male,PZ; PS,1881-1911,0,Topic 0: Opium and self-conscience,1,5,0.2
+Male,PZ; PS,1881-1911,1,Topic 1: Opium as a smoking habit,1,5,0.2
+Male,PS,1912-1930,1,Topic 1: Opium as a smoking habit,77,287,0.2682926829268293
+Male,PS,1912-1930,0,Topic 0: Opium and self-conscience,65,287,0.2264808362369338
+Male,PS,1912-1930,9,Topic 9: An illegal marchandise,49,287,0.17073170731707318
+Male,PS,1912-1930,6,Topic 6: The power of the stimulant,28,287,0.0975609756097561
+Male,PS,1912-1930,13,Topic 13: Through olfaction,24,287,0.08362369337979095
+Male,PS,1912-1930,8,Topic 8: Pain and sorrow,16,287,0.05574912891986063
+Male,PS,1912-1930,15,Topic 15: De Quincey's book as a reference,9,287,0.0313588850174216
+Male,PS,1912-1930,4,Topic 4: Opium as a dream/vision inducer,8,287,0.027874564459930314
+Male,PS,1912-1930,19,Topic 19: Poison,8,287,0.027874564459930314
+Male,PS,1912-1930,16,Topic 16: Refering to Coleridge himself,3,287,0.010452961672473868
+Male,PS,1881-1911,0,Topic 0: Opium and self-conscience,64,238,0.2689075630252101
+Male,PS,1881-1911,1,Topic 1: Opium as a smoking habit,54,238,0.226890756302521
+Male,PS,1881-1911,6,Topic 6: The power of the stimulant,26,238,0.1092436974789916
+Male,PS,1881-1911,9,Topic 9: An illegal marchandise,23,238,0.09663865546218488
+Male,PS,1881-1911,8,Topic 8: Pain and sorrow,17,238,0.07142857142857142
+Male,PS,1881-1911,19,Topic 19: Poison,17,238,0.07142857142857142
+Male,PS,1881-1911,4,Topic 4: Opium as a dream/vision inducer,16,238,0.06722689075630252
+Male,PS,1881-1911,13,Topic 13: Through olfaction,14,238,0.058823529411764705
+Male,PS,1881-1911,15,Topic 15: De Quincey's book as a reference,6,238,0.025210084033613446
+Male,PS,1881-1911,16,Topic 16: Refering to Coleridge himself,1,238,0.004201680672268907
+Male,PS,1850-1880,0,Topic 0: Opium and self-conscience,16,68,0.23529411764705882
+Male,PS,1850-1880,1,Topic 1: Opium as a smoking habit,11,68,0.16176470588235295
+Male,PS,1850-1880,9,Topic 9: An illegal marchandise,11,68,0.16176470588235295
+Male,PS,1850-1880,4,Topic 4: Opium as a dream/vision inducer,9,68,0.1323529411764706
+Male,PS,1850-1880,8,Topic 8: Pain and sorrow,6,68,0.08823529411764706
+Male,PS,1850-1880,19,Topic 19: Poison,5,68,0.07352941176470588
+Male,PS,1850-1880,6,Topic 6: The power of the stimulant,4,68,0.058823529411764705
+Male,PS,1850-1880,13,Topic 13: Through olfaction,4,68,0.058823529411764705
+Male,PS,1850-1880,15,Topic 15: De Quincey's book as a reference,2,68,0.029411764705882353
+Male,PR; PZ,1881-1911,0,Topic 0: Opium and self-conscience,2,7,0.2857142857142857
+Male,PR; PZ,1881-1911,4,Topic 4: Opium as a dream/vision inducer,2,7,0.2857142857142857
+Male,PR; PZ,1881-1911,1,Topic 1: Opium as a smoking habit,1,7,0.14285714285714285
+Male,PR; PZ,1881-1911,6,Topic 6: The power of the stimulant,1,7,0.14285714285714285
+Male,PR; PZ,1881-1911,9,Topic 9: An illegal marchandise,1,7,0.14285714285714285
+Male,PR; PZ,1850-1880,9,Topic 9: An illegal marchandise,4,8,0.5
+Male,PR; PZ,1850-1880,0,Topic 0: Opium and self-conscience,2,8,0.25
+Male,PR; PZ,1850-1880,6,Topic 6: The power of the stimulant,1,8,0.125
+Male,PR; PZ,1850-1880,19,Topic 19: Poison,1,8,0.125
+Male,PR; PS,1912-1930,15,Topic 15: De Quincey's book as a reference,5,9,0.5555555555555556
+Male,PR; PS,1912-1930,4,Topic 4: Opium as a dream/vision inducer,2,9,0.2222222222222222
+Male,PR; PS,1912-1930,1,Topic 1: Opium as a smoking habit,1,9,0.1111111111111111
+Male,PR; PS,1912-1930,16,Topic 16: Refering to Coleridge himself,1,9,0.1111111111111111
+Male,PR; PS,1881-1911,1,Topic 1: Opium as a smoking habit,4,8,0.5
+Male,PR; PS,1881-1911,16,Topic 16: Refering to Coleridge himself,3,8,0.375
+Male,PR; PS,1881-1911,0,Topic 0: Opium and self-conscience,1,8,0.125
+Male,PR,1912-1930,1,Topic 1: Opium as a smoking habit,82,325,0.2523076923076923
+Male,PR,1912-1930,0,Topic 0: Opium and self-conscience,68,325,0.20923076923076922
+Male,PR,1912-1930,15,Topic 15: De Quincey's book as a reference,41,325,0.12615384615384614
+Male,PR,1912-1930,16,Topic 16: Refering to Coleridge himself,34,325,0.10461538461538461
+Male,PR,1912-1930,8,Topic 8: Pain and sorrow,24,325,0.07384615384615385
+Male,PR,1912-1930,13,Topic 13: Through olfaction,19,325,0.05846153846153846
+Male,PR,1912-1930,4,Topic 4: Opium as a dream/vision inducer,18,325,0.055384615384615386
+Male,PR,1912-1930,6,Topic 6: The power of the stimulant,18,325,0.055384615384615386
+Male,PR,1912-1930,9,Topic 9: An illegal marchandise,13,325,0.04
+Male,PR,1912-1930,19,Topic 19: Poison,8,325,0.024615384615384615
+Male,PR,1881-1911,1,Topic 1: Opium as a smoking habit,94,399,0.23558897243107768
+Male,PR,1881-1911,0,Topic 0: Opium and self-conscience,91,399,0.22807017543859648
+Male,PR,1881-1911,6,Topic 6: The power of the stimulant,50,399,0.12531328320802004
+Male,PR,1881-1911,16,Topic 16: Refering to Coleridge himself,38,399,0.09523809523809523
+Male,PR,1881-1911,4,Topic 4: Opium as a dream/vision inducer,30,399,0.07518796992481203
+Male,PR,1881-1911,8,Topic 8: Pain and sorrow,24,399,0.06015037593984962
+Male,PR,1881-1911,15,Topic 15: De Quincey's book as a reference,24,399,0.06015037593984962
+Male,PR,1881-1911,9,Topic 9: An illegal marchandise,23,399,0.05764411027568922
+Male,PR,1881-1911,13,Topic 13: Through olfaction,13,399,0.03258145363408521
+Male,PR,1881-1911,19,Topic 19: Poison,12,399,0.03007518796992481
+Male,PR,1850-1880,1,Topic 1: Opium as a smoking habit,40,154,0.2597402597402597
+Male,PR,1850-1880,16,Topic 16: Refering to Coleridge himself,31,154,0.2012987012987013
+Male,PR,1850-1880,0,Topic 0: Opium and self-conscience,24,154,0.15584415584415584
+Male,PR,1850-1880,6,Topic 6: The power of the stimulant,20,154,0.12987012987012986
+Male,PR,1850-1880,4,Topic 4: Opium as a dream/vision inducer,14,154,0.09090909090909091
+Male,PR,1850-1880,8,Topic 8: Pain and sorrow,8,154,0.05194805194805195
+Male,PR,1850-1880,9,Topic 9: An illegal marchandise,5,154,0.032467532467532464
+Male,PR,1850-1880,13,Topic 13: Through olfaction,4,154,0.025974025974025976
+Male,PR,1850-1880,15,Topic 15: De Quincey's book as a reference,4,154,0.025974025974025976
+Male,PR,1850-1880,19,Topic 19: Poison,4,154,0.025974025974025976
+Male,PQ; PR,1912-1930,8,Topic 8: Pain and sorrow,3,3,1.0
+Male,PN; PR,1881-1911,16,Topic 16: Refering to Coleridge himself,3,5,0.6
+Male,PN; PR,1881-1911,1,Topic 1: Opium as a smoking habit,1,5,0.2
+Male,PN; PR,1881-1911,8,Topic 8: Pain and sorrow,1,5,0.2
+Male,F850.5; PS,1850-1880,0,Topic 0: Opium and self-conscience,1,2,0.5
+Male,F850.5; PS,1850-1880,19,Topic 19: Poison,1,2,0.5
+Male,E456; PS,1850-1880,4,Topic 4: Opium as a dream/vision inducer,1,1,1.0
+Male,E151; PS,1912-1930,16,Topic 16: Refering to Coleridge himself,2,2,1.0
+Male,DS; PR,1881-1911,13,Topic 13: Through olfaction,1,1,1.0
+Male,BR; PR,1881-1911,0,Topic 0: Opium and self-conscience,1,1,1.0
+Male,AC; PS,1850-1880,0,Topic 0: Opium and self-conscience,1,2,0.5
+Male,AC; PS,1850-1880,1,Topic 1: Opium as a smoking habit,1,2,0.5
+Male,AC; PR,1912-1930,6,Topic 6: The power of the stimulant,1,1,1.0
+Female,PS,1912-1930,8,Topic 8: Pain and sorrow,10,40,0.25
+Female,PS,1912-1930,9,Topic 9: An illegal marchandise,7,40,0.175
+Female,PS,1912-1930,13,Topic 13: Through olfaction,7,40,0.175
+Female,PS,1912-1930,6,Topic 6: The power of the stimulant,6,40,0.15
+Female,PS,1912-1930,4,Topic 4: Opium as a dream/vision inducer,5,40,0.125
+Female,PS,1912-1930,0,Topic 0: Opium and self-conscience,4,40,0.1
+Female,PS,1912-1930,19,Topic 19: Poison,1,40,0.025
+Female,PS,1881-1911,9,Topic 9: An illegal marchandise,15,62,0.24193548387096775
+Female,PS,1881-1911,8,Topic 8: Pain and sorrow,14,62,0.22580645161290322
+Female,PS,1881-1911,4,Topic 4: Opium as a dream/vision inducer,12,62,0.1935483870967742
+Female,PS,1881-1911,0,Topic 0: Opium and self-conscience,5,62,0.08064516129032258
+Female,PS,1881-1911,13,Topic 13: Through olfaction,5,62,0.08064516129032258
+Female,PS,1881-1911,19,Topic 19: Poison,5,62,0.08064516129032258
+Female,PS,1881-1911,1,Topic 1: Opium as a smoking habit,3,62,0.04838709677419355
+Female,PS,1881-1911,6,Topic 6: The power of the stimulant,3,62,0.04838709677419355
+Female,PS,1850-1880,4,Topic 4: Opium as a dream/vision inducer,7,17,0.4117647058823529
+Female,PS,1850-1880,8,Topic 8: Pain and sorrow,6,17,0.35294117647058826
+Female,PS,1850-1880,6,Topic 6: The power of the stimulant,2,17,0.11764705882352941
+Female,PS,1850-1880,0,Topic 0: Opium and self-conscience,1,17,0.058823529411764705
+Female,PS,1850-1880,9,Topic 9: An illegal marchandise,1,17,0.058823529411764705
+Female,PR; PZ,1881-1911,6,Topic 6: The power of the stimulant,2,2,1.0
+Female,PR; PZ,1850-1880,6,Topic 6: The power of the stimulant,1,3,0.3333333333333333
+Female,PR; PZ,1850-1880,8,Topic 8: Pain and sorrow,1,3,0.3333333333333333
+Female,PR; PZ,1850-1880,9,Topic 9: An illegal marchandise,1,3,0.3333333333333333
+Female,PR,1912-1930,8,Topic 8: Pain and sorrow,16,42,0.38095238095238093
+Female,PR,1912-1930,0,Topic 0: Opium and self-conscience,7,42,0.16666666666666666
+Female,PR,1912-1930,4,Topic 4: Opium as a dream/vision inducer,5,42,0.11904761904761904
+Female,PR,1912-1930,1,Topic 1: Opium as a smoking habit,4,42,0.09523809523809523
+Female,PR,1912-1930,13,Topic 13: Through olfaction,4,42,0.09523809523809523
+Female,PR,1912-1930,15,Topic 15: De Quincey's book as a reference,3,42,0.07142857142857142
+Female,PR,1912-1930,9,Topic 9: An illegal marchandise,2,42,0.047619047619047616
+Female,PR,1912-1930,6,Topic 6: The power of the stimulant,1,42,0.023809523809523808
+Female,PR,1881-1911,8,Topic 8: Pain and sorrow,24,53,0.4528301886792453
+Female,PR,1881-1911,4,Topic 4: Opium as a dream/vision inducer,6,53,0.11320754716981132
+Female,PR,1881-1911,9,Topic 9: An illegal marchandise,5,53,0.09433962264150944
+Female,PR,1881-1911,13,Topic 13: Through olfaction,5,53,0.09433962264150944
+Female,PR,1881-1911,0,Topic 0: Opium and self-conscience,4,53,0.07547169811320754
+Female,PR,1881-1911,6,Topic 6: The power of the stimulant,4,53,0.07547169811320754
+Female,PR,1881-1911,1,Topic 1: Opium as a smoking habit,2,53,0.03773584905660377
+Female,PR,1881-1911,19,Topic 19: Poison,2,53,0.03773584905660377
+Female,PR,1881-1911,16,Topic 16: Refering to Coleridge himself,1,53,0.018867924528301886
+Female,PR,1850-1880,4,Topic 4: Opium as a dream/vision inducer,6,18,0.3333333333333333
+Female,PR,1850-1880,9,Topic 9: An illegal marchandise,6,18,0.3333333333333333
+Female,PR,1850-1880,8,Topic 8: Pain and sorrow,4,18,0.2222222222222222
+Female,PR,1850-1880,6,Topic 6: The power of the stimulant,1,18,0.05555555555555555
+Female,PR,1850-1880,19,Topic 19: Poison,1,18,0.05555555555555555
+Female,AC; PS,1850-1880,6,Topic 6: The power of the stimulant,2,4,0.5
+Female,AC; PS,1850-1880,8,Topic 8: Pain and sorrow,1,4,0.25
+Female,AC; PS,1850-1880,19,Topic 19: Poison,1,4,0.25
+Female,AC; PR,1912-1930,9,Topic 9: An illegal marchandise,1,1,1.0

@@ -1,17 +1,21 @@
 LoCC_Display,bertopic_topic,topic_label,n_documents,group_total,topic_share
-PS,1,Opium as a smoking habit,153,688,0.22238372093023256
-PS,9,An illegal marchandise,131,688,0.19040697674418605
-PS,6,The power of the stimulant,99,688,0.1438953488372093
-PS,8,Pain and sorrow,97,688,0.14098837209302326
-PS,13,Through olfaction,96,688,0.13953488372093023
-PS,19,Poison,78,688,0.11337209302325581
-PS,15,De Quincey's book as a reference,28,688,0.040697674418604654
-PS,16,Refering to Coleridge himself,6,688,0.00872093023255814
-PR,1,Opium as a smoking habit,246,1011,0.2433234421364985
-PR,15,De Quincey's book as a reference,138,1011,0.13649851632047477
-PR,16,Refering to Coleridge himself,138,1011,0.13649851632047477
-PR,6,The power of the stimulant,134,1011,0.13254203758654798
-PR,8,Pain and sorrow,132,1011,0.13056379821958458
-PR,13,Through olfaction,88,1011,0.08704253214638971
-PR,9,An illegal marchandise,82,1011,0.08110781404549951
-PR,19,Poison,53,1011,0.05242334322453017
+PS,0,Topic 0: Opium and self-conscience,182,986,0.1845841784989858
+PS,1,Topic 1: Opium as a smoking habit,153,986,0.15517241379310345
+PS,9,Topic 9: An illegal marchandise,131,986,0.1328600405679513
+PS,4,Topic 4: Opium as a dream/vision inducer,116,986,0.11764705882352941
+PS,6,Topic 6: The power of the stimulant,99,986,0.10040567951318459
+PS,8,Topic 8: Pain and sorrow,97,986,0.09837728194726167
+PS,13,Topic 13: Through olfaction,96,986,0.0973630831643002
+PS,19,Topic 19: Poison,78,986,0.07910750507099391
+PS,15,Topic 15: De Quincey's book as a reference,28,986,0.028397565922920892
+PS,16,Topic 16: Refering to Coleridge himself,6,986,0.006085192697768763
+PR,1,Topic 1: Opium as a smoking habit,246,1405,0.17508896797153026
+PR,0,Topic 0: Opium and self-conscience,226,1405,0.1608540925266904
+PR,4,Topic 4: Opium as a dream/vision inducer,168,1405,0.1195729537366548
+PR,15,Topic 15: De Quincey's book as a reference,138,1405,0.09822064056939502
+PR,16,Topic 16: Refering to Coleridge himself,138,1405,0.09822064056939502
+PR,6,Topic 6: The power of the stimulant,134,1405,0.09537366548042704
+PR,8,Topic 8: Pain and sorrow,132,1405,0.09395017793594305
+PR,13,Topic 13: Through olfaction,88,1405,0.06263345195729537
+PR,9,Topic 9: An illegal marchandise,82,1405,0.058362989323843414
+PR,19,Topic 19: Poison,53,1405,0.03772241992882562

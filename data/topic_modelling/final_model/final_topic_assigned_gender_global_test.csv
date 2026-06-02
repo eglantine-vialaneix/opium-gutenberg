@@ -1,0 +1,2 @@
+test,n_groups,n_topics,n_observations,chi2,dof,p_value,cramers_v
+global_chi_square,2,10,1769,259.300642827298,9,1.0825187365273216e-50,0.3828581357092258

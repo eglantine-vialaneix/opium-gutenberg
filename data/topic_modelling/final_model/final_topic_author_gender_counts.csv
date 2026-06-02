@@ -1,3 +1,4 @@
 Author_Gender_Group,n_sentence_contexts,n_snippets,n_books,outlier_share
-Male,1268,1003,569,0.0
-Female,259,240,165,0.0
+Male,1754,1321,739,0.0
+Female,406,340,219,0.0
+Unknown,328,225,106,0.0

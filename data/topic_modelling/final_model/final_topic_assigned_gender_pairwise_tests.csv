@@ -1,0 +1,2 @@
+group_a,group_b,n_observations,chi2,dof,p_value,cramers_v,p_adjusted_bh
+Female,Male,1769,259.300642827298,9,1.0825187365273216e-50,0.3828581357092258,1.0825187365273216e-50

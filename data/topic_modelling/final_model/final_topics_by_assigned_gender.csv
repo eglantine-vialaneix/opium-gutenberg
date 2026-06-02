@@ -1,17 +1,21 @@
 Assigned_Gender_Group,bertopic_topic,topic_label,n_documents,group_total,topic_share
-Male,1,Opium as a smoking habit,367,1089,0.3370064279155188
-Male,6,The power of the stimulant,149,1089,0.13682277318640956
-Male,9,An illegal marchandise,132,1089,0.12121212121212122
-Male,16,Refering to Coleridge himself,116,1089,0.10651974288337925
-Male,8,Pain and sorrow,99,1089,0.09090909090909091
-Male,15,De Quincey's book as a reference,91,1089,0.08356290174471992
-Male,13,Through olfaction,79,1089,0.07254361799816346
-Male,19,Poison,56,1089,0.051423324150596875
-Female,8,Pain and sorrow,76,180,0.4222222222222222
-Female,9,An illegal marchandise,38,180,0.2111111111111111
-Female,6,The power of the stimulant,22,180,0.12222222222222222
-Female,13,Through olfaction,21,180,0.11666666666666667
-Female,19,Poison,10,180,0.05555555555555555
-Female,1,Opium as a smoking habit,9,180,0.05
-Female,15,De Quincey's book as a reference,3,180,0.016666666666666666
-Female,16,Refering to Coleridge himself,1,180,0.005555555555555556
+Male,1,Topic 1: Opium as a smoking habit,367,1527,0.24034053700065489
+Male,0,Topic 0: Opium and self-conscience,338,1527,0.22134905042567124
+Male,6,Topic 6: The power of the stimulant,149,1527,0.09757694826457106
+Male,9,Topic 9: An illegal marchandise,132,1527,0.08644400785854617
+Male,16,Topic 16: Refering to Coleridge himself,116,1527,0.07596594629993451
+Male,4,Topic 4: Opium as a dream/vision inducer,100,1527,0.06548788474132286
+Male,8,Topic 8: Pain and sorrow,99,1527,0.06483300589390963
+Male,15,Topic 15: De Quincey's book as a reference,91,1527,0.0595939751146038
+Male,13,Topic 13: Through olfaction,79,1527,0.051735428945645055
+Male,19,Topic 19: Poison,56,1527,0.0366732154551408
+Female,8,Topic 8: Pain and sorrow,76,242,0.3140495867768595
+Female,4,Topic 4: Opium as a dream/vision inducer,41,242,0.16942148760330578
+Female,9,Topic 9: An illegal marchandise,38,242,0.15702479338842976
+Female,6,Topic 6: The power of the stimulant,22,242,0.09090909090909091
+Female,0,Topic 0: Opium and self-conscience,21,242,0.08677685950413223
+Female,13,Topic 13: Through olfaction,21,242,0.08677685950413223
+Female,19,Topic 19: Poison,10,242,0.04132231404958678
+Female,1,Topic 1: Opium as a smoking habit,9,242,0.0371900826446281
+Female,15,Topic 15: De Quincey's book as a reference,3,242,0.012396694214876033
+Female,16,Topic 16: Refering to Coleridge himself,1,242,0.004132231404958678
