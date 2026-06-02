@@ -238,12 +238,18 @@ def add_period_column(
     start_year: int = 1850,
     period_years: int = 20,
     n_periods: int = 4,
+    period_bins: Sequence[tuple[int, int]] | None = None,
 ) -> pd.DataFrame:
-    """Add four fixed 20-year period labels such as 1850-1869."""
+    """Add fixed period labels, inclusive of both period endpoints."""
     out = df.copy()
     years = pd.to_numeric(out[year_col], errors="coerce")
-    bins = [start_year + period_years * i for i in range(n_periods + 1)]
-    labels = [f"{bins[i]}-{bins[i + 1] - 1}" for i in range(n_periods)]
+    if period_bins is None:
+        period_bins = [
+            (start_year + period_years * i, start_year + period_years * (i + 1) - 1)
+            for i in range(n_periods)
+        ]
+    bins = [period_bins[0][0]] + [end_year + 1 for _, end_year in period_bins]
+    labels = [f"{start_year}-{end_year}" for start_year, end_year in period_bins]
     out[output_col] = pd.cut(
         years,
         bins=bins,
@@ -363,7 +369,7 @@ def lda_topic_summary(
 def run_lda_topic_model(
     docs: pd.DataFrame,
     stop_words: Iterable[str],
-    candidate_topic_counts: Iterable[int] = range(2, 10),
+    candidate_topic_counts: Iterable[int] = range(2, 70, 2),
     selected_n_topics: int | None = None,
     group_label: str = "all",
     text_col: str = "document",

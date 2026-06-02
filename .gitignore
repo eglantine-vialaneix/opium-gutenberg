@@ -216,3 +216,7 @@ __marimo__/
 
 # Intermediate Topic Models
 data/topic_modelling/intermediate_models/
+data/topic_modelling/final_model/segregated/
+
+# sentence_context_embedding
+data/topic_modelling/final_model/sentence_context_embeddings_all_MiniLM_L6_v2.npy

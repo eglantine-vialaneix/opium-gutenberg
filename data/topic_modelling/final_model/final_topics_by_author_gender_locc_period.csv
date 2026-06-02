@@ -1,969 +1,118 @@
 Author_Gender_Group,LoCC_Display,Period,bertopic_topic,topic_label,n_documents,group_total,topic_share
-Unknown,PZ; PS,1910-1929,0,"0: habit, smoking, drug, eater, doc",2,4,0.5
-Unknown,PZ; PS,1910-1929,1,"1: truth, kai lung, power, kai, story",1,4,0.25
-Unknown,PZ; PS,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",1,4,0.25
-Unknown,PS,1910-1929,2,"2: dream, god, fear, art, church",23,276,0.08333333333333333
-Unknown,PS,1910-1929,4,"4: face, door, eyes, chair, head",22,276,0.07971014492753623
-Unknown,PS,1910-1929,0,"0: habit, smoking, drug, eater, doc",21,276,0.07608695652173914
-Unknown,PS,1910-1929,12,"12: captain, ship, colonel, schooner, ships",18,276,0.06521739130434782
-Unknown,PS,1910-1929,17,"17: smell, odour, fumes, bowl, pipe",17,276,0.06159420289855073
-Unknown,PS,1910-1929,1,"1: truth, kai lung, power, kai, story",15,276,0.05434782608695652
-Unknown,PS,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",15,276,0.05434782608695652
-Unknown,PS,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",10,276,0.036231884057971016
-Unknown,PS,1910-1929,9,"9: sound, trees, atmosphere, forest, air",9,276,0.03260869565217391
-Unknown,PS,1910-1929,10,"10: drink, wine, brandy, poison, drunk",9,276,0.03260869565217391
-Unknown,PS,1910-1929,26,"26: chinaman, chang, chinatown, chinese, manchu",8,276,0.028985507246376812
-Unknown,PS,1910-1929,29,"29: fiend, bobus, owen, hope, secret fiend years",8,276,0.028985507246376812
-Unknown,PS,1910-1929,8,"8: poetry, poems, literary, book, poet",7,276,0.025362318840579712
-Unknown,PS,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",7,276,0.025362318840579712
-Unknown,PS,1910-1929,27,"27: dream, dreams, visions, delirium, ruby",7,276,0.025362318840579712
-Unknown,PS,1910-1929,28,"28: pure food law, food law, pure food, got sort, tablets",7,276,0.025362318840579712
-Unknown,PS,1910-1929,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",7,276,0.025362318840579712
-Unknown,PS,1910-1929,23,"23: dens, den, scandal, smuggle, smuggling",6,276,0.021739130434782608
-Unknown,PS,1910-1929,15,"15: admit, assure, doubt, certina, true got",5,276,0.018115942028985508
-Unknown,PS,1910-1929,5,"5: doctor, physician, fever, ill, patient",4,276,0.014492753623188406
-Unknown,PS,1910-1929,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",4,276,0.014492753623188406
-Unknown,PS,1910-1929,22,"22: whispered, tears, lips, helen, eyes",4,276,0.014492753623188406
-Unknown,PS,1910-1929,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",4,276,0.014492753623188406
-Unknown,PS,1910-1929,31,"31: sleep, possibly accident, tired, horseback, slept",4,276,0.014492753623188406
-Unknown,PS,1910-1929,32,"32: money, business, dollars, revenue, shillings week",4,276,0.014492753623188406
-Unknown,PS,1910-1929,11,"11: eaters, use, years, possible, time temporally",3,276,0.010869565217391304
-Unknown,PS,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",3,276,0.010869565217391304
-Unknown,PS,1910-1929,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",3,276,0.010869565217391304
-Unknown,PS,1910-1929,35,"35: sleep, asleep, sleepy, clock, slept",3,276,0.010869565217391304
-Unknown,PS,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",2,276,0.007246376811594203
-Unknown,PS,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",2,276,0.007246376811594203
-Unknown,PS,1910-1929,34,"34: burned, music, silence, burning, operas",2,276,0.007246376811594203
-Unknown,PS,1910-1929,40,"40: william, dickens, classics, thomas, english",2,276,0.007246376811594203
-Unknown,PS,1910-1929,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",2,276,0.007246376811594203
-Unknown,PS,1910-1929,43,"43: white bees, bees, sweet, love, song",2,276,0.007246376811594203
-Unknown,PS,1910-1929,14,"14: bliss, evidence, witness, examination, case",1,276,0.0036231884057971015
-Unknown,PS,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",1,276,0.0036231884057971015
-Unknown,PS,1910-1929,24,"24: confessions, english eater, confessions english eater, confessions english, eater",1,276,0.0036231884057971015
-Unknown,PS,1910-1929,33,"33: bottle, esther, vial, suicide, belt",1,276,0.0036231884057971015
-Unknown,PS,1910-1929,36,"36: poisoning, poisonous dose, poisonous, administered, death",1,276,0.0036231884057971015
-Unknown,PS,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",1,276,0.0036231884057971015
-Unknown,PS,1910-1929,42,"42: alkaloids, drugs, drug, patent, presence drug",1,276,0.0036231884057971015
-Unknown,PS,1890-1909,4,"4: face, door, eyes, chair, head",3,25,0.12
-Unknown,PS,1890-1909,10,"10: drink, wine, brandy, poison, drunk",3,25,0.12
-Unknown,PS,1890-1909,0,"0: habit, smoking, drug, eater, doc",2,25,0.08
-Unknown,PS,1890-1909,6,"6: rita, gretna, mollie, mollie gretna, insane",2,25,0.08
-Unknown,PS,1890-1909,13,"13: stimulant, powerful, drug, effects, effect",2,25,0.08
-Unknown,PS,1890-1909,19,"19: sleep, slept, awake, sleeping, gerald",2,25,0.08
-Unknown,PS,1890-1909,31,"31: sleep, possibly accident, tired, horseback, slept",2,25,0.08
-Unknown,PS,1890-1909,32,"32: money, business, dollars, revenue, shillings week",2,25,0.08
-Unknown,PS,1890-1909,1,"1: truth, kai lung, power, kai, story",1,25,0.04
-Unknown,PS,1890-1909,2,"2: dream, god, fear, art, church",1,25,0.04
-Unknown,PS,1890-1909,22,"22: whispered, tears, lips, helen, eyes",1,25,0.04
-Unknown,PS,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",1,25,0.04
-Unknown,PS,1890-1909,27,"27: dream, dreams, visions, delirium, ruby",1,25,0.04
-Unknown,PS,1890-1909,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",1,25,0.04
-Unknown,PS,1890-1909,36,"36: poisoning, poisonous dose, poisonous, administered, death",1,25,0.04
-Unknown,PS,1870-1889,27,"27: dream, dreams, visions, delirium, ruby",1,1,1.0
-Unknown,PS,1850-1869,10,"10: drink, wine, brandy, poison, drunk",10,103,0.0970873786407767
-Unknown,PS,1850-1869,2,"2: dream, god, fear, art, church",8,103,0.07766990291262135
-Unknown,PS,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",8,103,0.07766990291262135
-Unknown,PS,1850-1869,1,"1: truth, kai lung, power, kai, story",6,103,0.05825242718446602
-Unknown,PS,1850-1869,5,"5: doctor, physician, fever, ill, patient",6,103,0.05825242718446602
-Unknown,PS,1850-1869,7,"7: diphtheria, died, sloane, death, caused death",6,103,0.05825242718446602
-Unknown,PS,1850-1869,22,"22: whispered, tears, lips, helen, eyes",6,103,0.05825242718446602
-Unknown,PS,1850-1869,0,"0: habit, smoking, drug, eater, doc",4,103,0.038834951456310676
-Unknown,PS,1850-1869,15,"15: admit, assure, doubt, certina, true got",4,103,0.038834951456310676
-Unknown,PS,1850-1869,19,"19: sleep, slept, awake, sleeping, gerald",4,103,0.038834951456310676
-Unknown,PS,1850-1869,34,"34: burned, music, silence, burning, operas",4,103,0.038834951456310676
-Unknown,PS,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",3,103,0.02912621359223301
-Unknown,PS,1850-1869,9,"9: sound, trees, atmosphere, forest, air",3,103,0.02912621359223301
-Unknown,PS,1850-1869,16,"16: pain, sorrow, healing, prove, suffering",3,103,0.02912621359223301
-Unknown,PS,1850-1869,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",3,103,0.02912621359223301
-Unknown,PS,1850-1869,27,"27: dream, dreams, visions, delirium, ruby",3,103,0.02912621359223301
-Unknown,PS,1850-1869,17,"17: smell, odour, fumes, bowl, pipe",2,103,0.019417475728155338
-Unknown,PS,1850-1869,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",2,103,0.019417475728155338
-Unknown,PS,1850-1869,31,"31: sleep, possibly accident, tired, horseback, slept",2,103,0.019417475728155338
-Unknown,PS,1850-1869,32,"32: money, business, dollars, revenue, shillings week",2,103,0.019417475728155338
-Unknown,PS,1850-1869,33,"33: bottle, esther, vial, suicide, belt",2,103,0.019417475728155338
-Unknown,PS,1850-1869,40,"40: william, dickens, classics, thomas, english",2,103,0.019417475728155338
-Unknown,PS,1850-1869,8,"8: poetry, poems, literary, book, poet",1,103,0.009708737864077669
-Unknown,PS,1850-1869,11,"11: eaters, use, years, possible, time temporally",1,103,0.009708737864077669
-Unknown,PS,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",1,103,0.009708737864077669
-Unknown,PS,1850-1869,14,"14: bliss, evidence, witness, examination, case",1,103,0.009708737864077669
-Unknown,PS,1850-1869,23,"23: dens, den, scandal, smuggle, smuggling",1,103,0.009708737864077669
-Unknown,PS,1850-1869,24,"24: confessions, english eater, confessions english eater, confessions english, eater",1,103,0.009708737864077669
-Unknown,PS,1850-1869,28,"28: pure food law, food law, pure food, got sort, tablets",1,103,0.009708737864077669
-Unknown,PS,1850-1869,35,"35: sleep, asleep, sleepy, clock, slept",1,103,0.009708737864077669
-Unknown,PS,1850-1869,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",1,103,0.009708737864077669
-Unknown,PS,1850-1869,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",1,103,0.009708737864077669
-Unknown,PR; SB,1870-1889,9,"9: sound, trees, atmosphere, forest, air",1,1,1.0
-Unknown,PR; PZ,1850-1869,12,"12: captain, ship, colonel, schooner, ships",1,2,0.5
-Unknown,PR; PZ,1850-1869,23,"23: dens, den, scandal, smuggle, smuggling",1,2,0.5
-Unknown,PR; PS,1910-1929,0,"0: habit, smoking, drug, eater, doc",7,19,0.3684210526315789
-Unknown,PR; PS,1910-1929,8,"8: poetry, poems, literary, book, poet",4,19,0.21052631578947367
-Unknown,PR; PS,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",4,19,0.21052631578947367
-Unknown,PR; PS,1910-1929,24,"24: confessions, english eater, confessions english eater, confessions english, eater",2,19,0.10526315789473684
-Unknown,PR; PS,1910-1929,1,"1: truth, kai lung, power, kai, story",1,19,0.05263157894736842
-Unknown,PR; PS,1910-1929,3,"3: bottle, dose, drops, doctor, chemist",1,19,0.05263157894736842
-Unknown,PR; D501,1910-1929,2,"2: dream, god, fear, art, church",1,2,0.5
-Unknown,PR; D501,1910-1929,43,"43: white bees, bees, sweet, love, song",1,2,0.5
-Unknown,PR,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",37,357,0.10364145658263306
-Unknown,PR,1910-1929,8,"8: poetry, poems, literary, book, poet",32,357,0.0896358543417367
-Unknown,PR,1910-1929,0,"0: habit, smoking, drug, eater, doc",31,357,0.08683473389355742
-Unknown,PR,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",26,357,0.07282913165266107
-Unknown,PR,1910-1929,1,"1: truth, kai lung, power, kai, story",17,357,0.047619047619047616
-Unknown,PR,1910-1929,24,"24: confessions, english eater, confessions english eater, confessions english, eater",17,357,0.047619047619047616
-Unknown,PR,1910-1929,2,"2: dream, god, fear, art, church",15,357,0.04201680672268908
-Unknown,PR,1910-1929,5,"5: doctor, physician, fever, ill, patient",14,357,0.0392156862745098
-Unknown,PR,1910-1929,43,"43: white bees, bees, sweet, love, song",13,357,0.036414565826330535
-Unknown,PR,1910-1929,3,"3: bottle, dose, drops, doctor, chemist",12,357,0.03361344537815126
-Unknown,PR,1910-1929,10,"10: drink, wine, brandy, poison, drunk",11,357,0.03081232492997199
-Unknown,PR,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",9,357,0.025210084033613446
-Unknown,PR,1910-1929,31,"31: sleep, possibly accident, tired, horseback, slept",9,357,0.025210084033613446
-Unknown,PR,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",8,357,0.022408963585434174
-Unknown,PR,1910-1929,9,"9: sound, trees, atmosphere, forest, air",8,357,0.022408963585434174
-Unknown,PR,1910-1929,32,"32: money, business, dollars, revenue, shillings week",8,357,0.022408963585434174
-Unknown,PR,1910-1929,17,"17: smell, odour, fumes, bowl, pipe",7,357,0.0196078431372549
-Unknown,PR,1910-1929,11,"11: eaters, use, years, possible, time temporally",6,357,0.01680672268907563
-Unknown,PR,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",6,357,0.01680672268907563
-Unknown,PR,1910-1929,40,"40: william, dickens, classics, thomas, english",6,357,0.01680672268907563
-Unknown,PR,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",5,357,0.014005602240896359
-Unknown,PR,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",5,357,0.014005602240896359
-Unknown,PR,1910-1929,15,"15: admit, assure, doubt, certina, true got",5,357,0.014005602240896359
-Unknown,PR,1910-1929,27,"27: dream, dreams, visions, delirium, ruby",5,357,0.014005602240896359
-Unknown,PR,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",5,357,0.014005602240896359
-Unknown,PR,1910-1929,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",4,357,0.011204481792717087
-Unknown,PR,1910-1929,22,"22: whispered, tears, lips, helen, eyes",4,357,0.011204481792717087
-Unknown,PR,1910-1929,23,"23: dens, den, scandal, smuggle, smuggling",4,357,0.011204481792717087
-Unknown,PR,1910-1929,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",4,357,0.011204481792717087
-Unknown,PR,1910-1929,12,"12: captain, ship, colonel, schooner, ships",3,357,0.008403361344537815
-Unknown,PR,1910-1929,14,"14: bliss, evidence, witness, examination, case",3,357,0.008403361344537815
-Unknown,PR,1910-1929,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",3,357,0.008403361344537815
-Unknown,PR,1910-1929,34,"34: burned, music, silence, burning, operas",3,357,0.008403361344537815
-Unknown,PR,1910-1929,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",3,357,0.008403361344537815
-Unknown,PR,1910-1929,28,"28: pure food law, food law, pure food, got sort, tablets",2,357,0.0056022408963585435
-Unknown,PR,1910-1929,35,"35: sleep, asleep, sleepy, clock, slept",2,357,0.0056022408963585435
-Unknown,PR,1910-1929,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",2,357,0.0056022408963585435
-Unknown,PR,1910-1929,26,"26: chinaman, chang, chinatown, chinese, manchu",1,357,0.0028011204481792717
-Unknown,PR,1910-1929,29,"29: fiend, bobus, owen, hope, secret fiend years",1,357,0.0028011204481792717
-Unknown,PR,1910-1929,33,"33: bottle, esther, vial, suicide, belt",1,357,0.0028011204481792717
-Unknown,PR,1890-1909,3,"3: bottle, dose, drops, doctor, chemist",9,89,0.10112359550561797
-Unknown,PR,1890-1909,23,"23: dens, den, scandal, smuggle, smuggling",8,89,0.0898876404494382
-Unknown,PR,1890-1909,33,"33: bottle, esther, vial, suicide, belt",8,89,0.0898876404494382
-Unknown,PR,1890-1909,0,"0: habit, smoking, drug, eater, doc",7,89,0.07865168539325842
-Unknown,PR,1890-1909,12,"12: captain, ship, colonel, schooner, ships",7,89,0.07865168539325842
-Unknown,PR,1890-1909,11,"11: eaters, use, years, possible, time temporally",4,89,0.0449438202247191
-Unknown,PR,1890-1909,2,"2: dream, god, fear, art, church",3,89,0.033707865168539325
-Unknown,PR,1890-1909,4,"4: face, door, eyes, chair, head",3,89,0.033707865168539325
-Unknown,PR,1890-1909,5,"5: doctor, physician, fever, ill, patient",3,89,0.033707865168539325
-Unknown,PR,1890-1909,6,"6: rita, gretna, mollie, mollie gretna, insane",3,89,0.033707865168539325
-Unknown,PR,1890-1909,10,"10: drink, wine, brandy, poison, drunk",3,89,0.033707865168539325
-Unknown,PR,1890-1909,13,"13: stimulant, powerful, drug, effects, effect",3,89,0.033707865168539325
-Unknown,PR,1890-1909,15,"15: admit, assure, doubt, certina, true got",3,89,0.033707865168539325
-Unknown,PR,1890-1909,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",3,89,0.033707865168539325
-Unknown,PR,1890-1909,32,"32: money, business, dollars, revenue, shillings week",3,89,0.033707865168539325
-Unknown,PR,1890-1909,1,"1: truth, kai lung, power, kai, story",2,89,0.02247191011235955
-Unknown,PR,1890-1909,8,"8: poetry, poems, literary, book, poet",2,89,0.02247191011235955
-Unknown,PR,1890-1909,9,"9: sound, trees, atmosphere, forest, air",2,89,0.02247191011235955
-Unknown,PR,1890-1909,22,"22: whispered, tears, lips, helen, eyes",2,89,0.02247191011235955
-Unknown,PR,1890-1909,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",2,89,0.02247191011235955
-Unknown,PR,1890-1909,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",2,89,0.02247191011235955
-Unknown,PR,1890-1909,43,"43: white bees, bees, sweet, love, song",2,89,0.02247191011235955
-Unknown,PR,1890-1909,14,"14: bliss, evidence, witness, examination, case",1,89,0.011235955056179775
-Unknown,PR,1890-1909,18,"18: coleridge, wordsworth, southey, sqq, gillman",1,89,0.011235955056179775
-Unknown,PR,1890-1909,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",1,89,0.011235955056179775
-Unknown,PR,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",1,89,0.011235955056179775
-Unknown,PR,1890-1909,34,"34: burned, music, silence, burning, operas",1,89,0.011235955056179775
-Unknown,PR,1870-1889,33,"33: bottle, esther, vial, suicide, belt",3,7,0.42857142857142855
-Unknown,PR,1870-1889,0,"0: habit, smoking, drug, eater, doc",1,7,0.14285714285714285
-Unknown,PR,1870-1889,3,"3: bottle, dose, drops, doctor, chemist",1,7,0.14285714285714285
-Unknown,PR,1870-1889,10,"10: drink, wine, brandy, poison, drunk",1,7,0.14285714285714285
-Unknown,PR,1870-1889,40,"40: william, dickens, classics, thomas, english",1,7,0.14285714285714285
-Unknown,PR,1850-1869,8,"8: poetry, poems, literary, book, poet",14,86,0.16279069767441862
-Unknown,PR,1850-1869,2,"2: dream, god, fear, art, church",8,86,0.09302325581395349
-Unknown,PR,1850-1869,10,"10: drink, wine, brandy, poison, drunk",7,86,0.08139534883720931
-Unknown,PR,1850-1869,1,"1: truth, kai lung, power, kai, story",5,86,0.05813953488372093
-Unknown,PR,1850-1869,5,"5: doctor, physician, fever, ill, patient",5,86,0.05813953488372093
-Unknown,PR,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",5,86,0.05813953488372093
-Unknown,PR,1850-1869,9,"9: sound, trees, atmosphere, forest, air",4,86,0.046511627906976744
-Unknown,PR,1850-1869,12,"12: captain, ship, colonel, schooner, ships",4,86,0.046511627906976744
-Unknown,PR,1850-1869,18,"18: coleridge, wordsworth, southey, sqq, gillman",4,86,0.046511627906976744
-Unknown,PR,1850-1869,21,"21: quincey, eater, thomas quincey, confessions, english eater",4,86,0.046511627906976744
-Unknown,PR,1850-1869,24,"24: confessions, english eater, confessions english eater, confessions english, eater",4,86,0.046511627906976744
-Unknown,PR,1850-1869,43,"43: white bees, bees, sweet, love, song",4,86,0.046511627906976744
-Unknown,PR,1850-1869,11,"11: eaters, use, years, possible, time temporally",3,86,0.03488372093023256
-Unknown,PR,1850-1869,16,"16: pain, sorrow, healing, prove, suffering",3,86,0.03488372093023256
-Unknown,PR,1850-1869,27,"27: dream, dreams, visions, delirium, ruby",3,86,0.03488372093023256
-Unknown,PR,1850-1869,0,"0: habit, smoking, drug, eater, doc",2,86,0.023255813953488372
-Unknown,PR,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",2,86,0.023255813953488372
-Unknown,PR,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",2,86,0.023255813953488372
-Unknown,PR,1850-1869,7,"7: diphtheria, died, sloane, death, caused death",1,86,0.011627906976744186
-Unknown,PR,1850-1869,28,"28: pure food law, food law, pure food, got sort, tablets",1,86,0.011627906976744186
-Unknown,PR,1850-1869,42,"42: alkaloids, drugs, drug, patent, presence drug",1,86,0.011627906976744186
-Unknown,F850.5; PS,1850-1869,1,"1: truth, kai lung, power, kai, story",1,3,0.3333333333333333
-Unknown,F850.5; PS,1850-1869,10,"10: drink, wine, brandy, poison, drunk",1,3,0.3333333333333333
-Unknown,F850.5; PS,1850-1869,36,"36: poisoning, poisonous dose, poisonous, administered, death",1,3,0.3333333333333333
-Unknown,F1001; PS,1870-1889,5,"5: doctor, physician, fever, ill, patient",1,1,1.0
-Unknown,E456; PS,1850-1869,34,"34: burned, music, silence, burning, operas",1,1,1.0
-Unknown,DR; PS,1910-1929,31,"31: sleep, possibly accident, tired, horseback, slept",2,2,1.0
-Unknown,DA; PR,1890-1909,19,"19: sleep, slept, awake, sleeping, gerald",1,1,1.0
-Unknown,CT; PR,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",1,1,1.0
-Unknown,CT; PR,1870-1889,24,"24: confessions, english eater, confessions english eater, confessions english, eater",2,4,0.5
-Unknown,CT; PR,1870-1889,8,"8: poetry, poems, literary, book, poet",1,4,0.25
-Unknown,CT; PR,1870-1889,40,"40: william, dickens, classics, thomas, english",1,4,0.25
-Unknown,BF; PR,1870-1889,27,"27: dream, dreams, visions, delirium, ruby",1,1,1.0
-Unknown,BF; E151; PS,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",1,6,0.16666666666666666
-Unknown,BF; E151; PS,1910-1929,11,"11: eaters, use, years, possible, time temporally",1,6,0.16666666666666666
-Unknown,BF; E151; PS,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",1,6,0.16666666666666666
-Unknown,BF; E151; PS,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",1,6,0.16666666666666666
-Unknown,BF; E151; PS,1910-1929,27,"27: dream, dreams, visions, delirium, ruby",1,6,0.16666666666666666
-Unknown,BF; E151; PS,1910-1929,42,"42: alkaloids, drugs, drug, patent, presence drug",1,6,0.16666666666666666
-Male,PZ; PS,1910-1929,4,"4: face, door, eyes, chair, head",2,4,0.5
-Male,PZ; PS,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",1,4,0.25
-Male,PZ; PS,1910-1929,23,"23: dens, den, scandal, smuggle, smuggling",1,4,0.25
-Male,PZ; PS,1850-1869,1,"1: truth, kai lung, power, kai, story",2,2,1.0
-Male,PS,1910-1929,0,"0: habit, smoking, drug, eater, doc",148,1166,0.1269296740994854
-Male,PS,1910-1929,12,"12: captain, ship, colonel, schooner, ships",70,1166,0.060034305317324184
-Male,PS,1910-1929,1,"1: truth, kai lung, power, kai, story",60,1166,0.051457975986277875
-Male,PS,1910-1929,4,"4: face, door, eyes, chair, head",58,1166,0.04974271012006861
-Male,PS,1910-1929,29,"29: fiend, bobus, owen, hope, secret fiend years",54,1166,0.04631217838765009
-Male,PS,1910-1929,5,"5: doctor, physician, fever, ill, patient",40,1166,0.03430531732418525
-Male,PS,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",39,1166,0.03344768439108062
-Male,PS,1910-1929,28,"28: pure food law, food law, pure food, got sort, tablets",38,1166,0.032590051457975985
-Male,PS,1910-1929,2,"2: dream, god, fear, art, church",37,1166,0.03173241852487135
-Male,PS,1910-1929,15,"15: admit, assure, doubt, certina, true got",37,1166,0.03173241852487135
-Male,PS,1910-1929,17,"17: smell, odour, fumes, bowl, pipe",34,1166,0.029159519725557463
-Male,PS,1910-1929,26,"26: chinaman, chang, chinatown, chinese, manchu",34,1166,0.029159519725557463
-Male,PS,1910-1929,10,"10: drink, wine, brandy, poison, drunk",33,1166,0.02830188679245283
-Male,PS,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",32,1166,0.0274442538593482
-Male,PS,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",32,1166,0.0274442538593482
-Male,PS,1910-1929,23,"23: dens, den, scandal, smuggle, smuggling",31,1166,0.026586620926243566
-Male,PS,1910-1929,9,"9: sound, trees, atmosphere, forest, air",29,1166,0.024871355060034305
-Male,PS,1910-1929,8,"8: poetry, poems, literary, book, poet",25,1166,0.02144082332761578
-Male,PS,1910-1929,22,"22: whispered, tears, lips, helen, eyes",25,1166,0.02144082332761578
-Male,PS,1910-1929,32,"32: money, business, dollars, revenue, shillings week",25,1166,0.02144082332761578
-Male,PS,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",24,1166,0.02058319039451115
-Male,PS,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",23,1166,0.01972555746140652
-Male,PS,1910-1929,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",21,1166,0.018010291595197257
-Male,PS,1910-1929,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",21,1166,0.018010291595197257
-Male,PS,1910-1929,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",19,1166,0.016295025728987993
-Male,PS,1910-1929,3,"3: bottle, dose, drops, doctor, chemist",18,1166,0.015437392795883362
-Male,PS,1910-1929,11,"11: eaters, use, years, possible, time temporally",17,1166,0.014579759862778732
-Male,PS,1910-1929,31,"31: sleep, possibly accident, tired, horseback, slept",17,1166,0.014579759862778732
-Male,PS,1910-1929,42,"42: alkaloids, drugs, drug, patent, presence drug",16,1166,0.0137221269296741
-Male,PS,1910-1929,14,"14: bliss, evidence, witness, examination, case",15,1166,0.012864493996569469
-Male,PS,1910-1929,43,"43: white bees, bees, sweet, love, song",13,1166,0.011149228130360206
-Male,PS,1910-1929,24,"24: confessions, english eater, confessions english eater, confessions english, eater",12,1166,0.010291595197255575
-Male,PS,1910-1929,34,"34: burned, music, silence, burning, operas",11,1166,0.009433962264150943
-Male,PS,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",9,1166,0.007718696397941681
-Male,PS,1910-1929,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",8,1166,0.00686106346483705
-Male,PS,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",7,1166,0.006003430531732418
-Male,PS,1910-1929,35,"35: sleep, asleep, sleepy, clock, slept",7,1166,0.006003430531732418
-Male,PS,1910-1929,27,"27: dream, dreams, visions, delirium, ruby",5,1166,0.004288164665523156
-Male,PS,1910-1929,33,"33: bottle, esther, vial, suicide, belt",5,1166,0.004288164665523156
-Male,PS,1910-1929,36,"36: poisoning, poisonous dose, poisonous, administered, death",5,1166,0.004288164665523156
-Male,PS,1910-1929,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",5,1166,0.004288164665523156
-Male,PS,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",3,1166,0.002572898799313894
-Male,PS,1910-1929,40,"40: william, dickens, classics, thomas, english",3,1166,0.002572898799313894
-Male,PS,1910-1929,39,"39: jasper, edwin, hag, john jasper, ned",1,1166,0.0008576329331046312
-Male,PS,1890-1909,7,"7: diphtheria, died, sloane, death, caused death",115,1006,0.1143141153081511
-Male,PS,1890-1909,14,"14: bliss, evidence, witness, examination, case",75,1006,0.07455268389662027
-Male,PS,1890-1909,0,"0: habit, smoking, drug, eater, doc",68,1006,0.06759443339960239
-Male,PS,1890-1909,5,"5: doctor, physician, fever, ill, patient",53,1006,0.05268389662027833
-Male,PS,1890-1909,36,"36: poisoning, poisonous dose, poisonous, administered, death",53,1006,0.05268389662027833
-Male,PS,1890-1909,2,"2: dream, god, fear, art, church",44,1006,0.0437375745526839
-Male,PS,1890-1909,9,"9: sound, trees, atmosphere, forest, air",43,1006,0.042743538767395624
-Male,PS,1890-1909,4,"4: face, door, eyes, chair, head",41,1006,0.040755467196819085
-Male,PS,1890-1909,12,"12: captain, ship, colonel, schooner, ships",39,1006,0.03876739562624255
-Male,PS,1890-1909,10,"10: drink, wine, brandy, poison, drunk",29,1006,0.02882703777335984
-Male,PS,1890-1909,19,"19: sleep, slept, awake, sleeping, gerald",28,1006,0.027833001988071572
-Male,PS,1890-1909,1,"1: truth, kai lung, power, kai, story",24,1006,0.02385685884691849
-Male,PS,1890-1909,15,"15: admit, assure, doubt, certina, true got",24,1006,0.02385685884691849
-Male,PS,1890-1909,28,"28: pure food law, food law, pure food, got sort, tablets",23,1006,0.02286282306163022
-Male,PS,1890-1909,42,"42: alkaloids, drugs, drug, patent, presence drug",23,1006,0.02286282306163022
-Male,PS,1890-1909,11,"11: eaters, use, years, possible, time temporally",22,1006,0.02186878727634195
-Male,PS,1890-1909,16,"16: pain, sorrow, healing, prove, suffering",22,1006,0.02186878727634195
-Male,PS,1890-1909,13,"13: stimulant, powerful, drug, effects, effect",21,1006,0.020874751491053677
-Male,PS,1890-1909,6,"6: rita, gretna, mollie, mollie gretna, insane",20,1006,0.019880715705765408
-Male,PS,1890-1909,27,"27: dream, dreams, visions, delirium, ruby",20,1006,0.019880715705765408
-Male,PS,1890-1909,8,"8: poetry, poems, literary, book, poet",19,1006,0.018886679920477135
-Male,PS,1890-1909,17,"17: smell, odour, fumes, bowl, pipe",19,1006,0.018886679920477135
-Male,PS,1890-1909,3,"3: bottle, dose, drops, doctor, chemist",18,1006,0.017892644135188866
-Male,PS,1890-1909,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",15,1006,0.014910536779324055
-Male,PS,1890-1909,29,"29: fiend, bobus, owen, hope, secret fiend years",15,1006,0.014910536779324055
-Male,PS,1890-1909,24,"24: confessions, english eater, confessions english eater, confessions english, eater",14,1006,0.013916500994035786
-Male,PS,1890-1909,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",13,1006,0.012922465208747515
-Male,PS,1890-1909,23,"23: dens, den, scandal, smuggle, smuggling",12,1006,0.011928429423459244
-Male,PS,1890-1909,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",10,1006,0.009940357852882704
-Male,PS,1890-1909,33,"33: bottle, esther, vial, suicide, belt",10,1006,0.009940357852882704
-Male,PS,1890-1909,22,"22: whispered, tears, lips, helen, eyes",9,1006,0.008946322067594433
-Male,PS,1890-1909,32,"32: money, business, dollars, revenue, shillings week",9,1006,0.008946322067594433
-Male,PS,1890-1909,43,"43: white bees, bees, sweet, love, song",9,1006,0.008946322067594433
-Male,PS,1890-1909,21,"21: quincey, eater, thomas quincey, confessions, english eater",8,1006,0.007952286282306162
-Male,PS,1890-1909,34,"34: burned, music, silence, burning, operas",8,1006,0.007952286282306162
-Male,PS,1890-1909,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",8,1006,0.007952286282306162
-Male,PS,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",5,1006,0.004970178926441352
-Male,PS,1890-1909,31,"31: sleep, possibly accident, tired, horseback, slept",4,1006,0.003976143141153081
-Male,PS,1890-1909,35,"35: sleep, asleep, sleepy, clock, slept",4,1006,0.003976143141153081
-Male,PS,1890-1909,40,"40: william, dickens, classics, thomas, english",4,1006,0.003976143141153081
-Male,PS,1890-1909,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",3,1006,0.002982107355864811
-Male,PS,1890-1909,18,"18: coleridge, wordsworth, southey, sqq, gillman",1,1006,0.0009940357852882703
-Male,PS,1890-1909,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",1,1006,0.0009940357852882703
-Male,PS,1890-1909,39,"39: jasper, edwin, hag, john jasper, ned",1,1006,0.0009940357852882703
-Male,PS,1870-1889,0,"0: habit, smoking, drug, eater, doc",54,426,0.1267605633802817
-Male,PS,1870-1889,1,"1: truth, kai lung, power, kai, story",41,426,0.09624413145539906
-Male,PS,1870-1889,2,"2: dream, god, fear, art, church",30,426,0.07042253521126761
-Male,PS,1870-1889,5,"5: doctor, physician, fever, ill, patient",25,426,0.05868544600938967
-Male,PS,1870-1889,3,"3: bottle, dose, drops, doctor, chemist",23,426,0.0539906103286385
-Male,PS,1870-1889,10,"10: drink, wine, brandy, poison, drunk",21,426,0.04929577464788732
-Male,PS,1870-1889,11,"11: eaters, use, years, possible, time temporally",18,426,0.04225352112676056
-Male,PS,1870-1889,4,"4: face, door, eyes, chair, head",16,426,0.03755868544600939
-Male,PS,1870-1889,8,"8: poetry, poems, literary, book, poet",16,426,0.03755868544600939
-Male,PS,1870-1889,12,"12: captain, ship, colonel, schooner, ships",16,426,0.03755868544600939
-Male,PS,1870-1889,9,"9: sound, trees, atmosphere, forest, air",14,426,0.03286384976525822
-Male,PS,1870-1889,6,"6: rita, gretna, mollie, mollie gretna, insane",11,426,0.025821596244131457
-Male,PS,1870-1889,29,"29: fiend, bobus, owen, hope, secret fiend years",11,426,0.025821596244131457
-Male,PS,1870-1889,32,"32: money, business, dollars, revenue, shillings week",9,426,0.02112676056338028
-Male,PS,1870-1889,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",9,426,0.02112676056338028
-Male,PS,1870-1889,7,"7: diphtheria, died, sloane, death, caused death",8,426,0.018779342723004695
-Male,PS,1870-1889,36,"36: poisoning, poisonous dose, poisonous, administered, death",8,426,0.018779342723004695
-Male,PS,1870-1889,15,"15: admit, assure, doubt, certina, true got",7,426,0.01643192488262911
-Male,PS,1870-1889,24,"24: confessions, english eater, confessions english eater, confessions english, eater",7,426,0.01643192488262911
-Male,PS,1870-1889,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",7,426,0.01643192488262911
-Male,PS,1870-1889,13,"13: stimulant, powerful, drug, effects, effect",6,426,0.014084507042253521
-Male,PS,1870-1889,17,"17: smell, odour, fumes, bowl, pipe",6,426,0.014084507042253521
-Male,PS,1870-1889,19,"19: sleep, slept, awake, sleeping, gerald",6,426,0.014084507042253521
-Male,PS,1870-1889,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",6,426,0.014084507042253521
-Male,PS,1870-1889,14,"14: bliss, evidence, witness, examination, case",5,426,0.011737089201877934
-Male,PS,1870-1889,31,"31: sleep, possibly accident, tired, horseback, slept",5,426,0.011737089201877934
-Male,PS,1870-1889,16,"16: pain, sorrow, healing, prove, suffering",4,426,0.009389671361502348
-Male,PS,1870-1889,22,"22: whispered, tears, lips, helen, eyes",4,426,0.009389671361502348
-Male,PS,1870-1889,34,"34: burned, music, silence, burning, operas",4,426,0.009389671361502348
-Male,PS,1870-1889,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",4,426,0.009389671361502348
-Male,PS,1870-1889,26,"26: chinaman, chang, chinatown, chinese, manchu",3,426,0.007042253521126761
-Male,PS,1870-1889,27,"27: dream, dreams, visions, delirium, ruby",3,426,0.007042253521126761
-Male,PS,1870-1889,28,"28: pure food law, food law, pure food, got sort, tablets",3,426,0.007042253521126761
-Male,PS,1870-1889,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",3,426,0.007042253521126761
-Male,PS,1870-1889,33,"33: bottle, esther, vial, suicide, belt",3,426,0.007042253521126761
-Male,PS,1870-1889,42,"42: alkaloids, drugs, drug, patent, presence drug",3,426,0.007042253521126761
-Male,PS,1870-1889,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",2,426,0.004694835680751174
-Male,PS,1870-1889,43,"43: white bees, bees, sweet, love, song",2,426,0.004694835680751174
-Male,PS,1870-1889,23,"23: dens, den, scandal, smuggle, smuggling",1,426,0.002347417840375587
-Male,PS,1870-1889,35,"35: sleep, asleep, sleepy, clock, slept",1,426,0.002347417840375587
-Male,PS,1870-1889,39,"39: jasper, edwin, hag, john jasper, ned",1,426,0.002347417840375587
-Male,PS,1850-1869,5,"5: doctor, physician, fever, ill, patient",8,104,0.07692307692307693
-Male,PS,1850-1869,2,"2: dream, god, fear, art, church",7,104,0.0673076923076923
-Male,PS,1850-1869,8,"8: poetry, poems, literary, book, poet",7,104,0.0673076923076923
-Male,PS,1850-1869,9,"9: sound, trees, atmosphere, forest, air",7,104,0.0673076923076923
-Male,PS,1850-1869,4,"4: face, door, eyes, chair, head",6,104,0.057692307692307696
-Male,PS,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",5,104,0.04807692307692308
-Male,PS,1850-1869,11,"11: eaters, use, years, possible, time temporally",5,104,0.04807692307692308
-Male,PS,1850-1869,12,"12: captain, ship, colonel, schooner, ships",5,104,0.04807692307692308
-Male,PS,1850-1869,28,"28: pure food law, food law, pure food, got sort, tablets",5,104,0.04807692307692308
-Male,PS,1850-1869,0,"0: habit, smoking, drug, eater, doc",4,104,0.038461538461538464
-Male,PS,1850-1869,1,"1: truth, kai lung, power, kai, story",4,104,0.038461538461538464
-Male,PS,1850-1869,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",4,104,0.038461538461538464
-Male,PS,1850-1869,31,"31: sleep, possibly accident, tired, horseback, slept",4,104,0.038461538461538464
-Male,PS,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",3,104,0.028846153846153848
-Male,PS,1850-1869,16,"16: pain, sorrow, healing, prove, suffering",3,104,0.028846153846153848
-Male,PS,1850-1869,19,"19: sleep, slept, awake, sleeping, gerald",3,104,0.028846153846153848
-Male,PS,1850-1869,42,"42: alkaloids, drugs, drug, patent, presence drug",3,104,0.028846153846153848
-Male,PS,1850-1869,15,"15: admit, assure, doubt, certina, true got",2,104,0.019230769230769232
-Male,PS,1850-1869,21,"21: quincey, eater, thomas quincey, confessions, english eater",2,104,0.019230769230769232
-Male,PS,1850-1869,24,"24: confessions, english eater, confessions english eater, confessions english, eater",2,104,0.019230769230769232
-Male,PS,1850-1869,27,"27: dream, dreams, visions, delirium, ruby",2,104,0.019230769230769232
-Male,PS,1850-1869,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",2,104,0.019230769230769232
-Male,PS,1850-1869,40,"40: william, dickens, classics, thomas, english",2,104,0.019230769230769232
-Male,PS,1850-1869,10,"10: drink, wine, brandy, poison, drunk",1,104,0.009615384615384616
-Male,PS,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",1,104,0.009615384615384616
-Male,PS,1850-1869,14,"14: bliss, evidence, witness, examination, case",1,104,0.009615384615384616
-Male,PS,1850-1869,34,"34: burned, music, silence, burning, operas",1,104,0.009615384615384616
-Male,PS,1850-1869,35,"35: sleep, asleep, sleepy, clock, slept",1,104,0.009615384615384616
-Male,PS,1850-1869,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",1,104,0.009615384615384616
-Male,PS,1850-1869,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",1,104,0.009615384615384616
-Male,PS,1850-1869,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",1,104,0.009615384615384616
-Male,PS,1850-1869,43,"43: white bees, bees, sweet, love, song",1,104,0.009615384615384616
-Male,PR; Z,1890-1909,2,"2: dream, god, fear, art, church",3,3,1.0
-Male,PR; QH,1870-1889,9,"9: sound, trees, atmosphere, forest, air",1,1,1.0
-Male,PR; PZ,1910-1929,1,"1: truth, kai lung, power, kai, story",1,2,0.5
-Male,PR; PZ,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",1,2,0.5
-Male,PR; PZ,1890-1909,3,"3: bottle, dose, drops, doctor, chemist",3,16,0.1875
-Male,PR; PZ,1890-1909,0,"0: habit, smoking, drug, eater, doc",1,16,0.0625
-Male,PR; PZ,1890-1909,2,"2: dream, god, fear, art, church",1,16,0.0625
-Male,PR; PZ,1890-1909,9,"9: sound, trees, atmosphere, forest, air",1,16,0.0625
-Male,PR; PZ,1890-1909,10,"10: drink, wine, brandy, poison, drunk",1,16,0.0625
-Male,PR; PZ,1890-1909,11,"11: eaters, use, years, possible, time temporally",1,16,0.0625
-Male,PR; PZ,1890-1909,12,"12: captain, ship, colonel, schooner, ships",1,16,0.0625
-Male,PR; PZ,1890-1909,14,"14: bliss, evidence, witness, examination, case",1,16,0.0625
-Male,PR; PZ,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",1,16,0.0625
-Male,PR; PZ,1890-1909,27,"27: dream, dreams, visions, delirium, ruby",1,16,0.0625
-Male,PR; PZ,1890-1909,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",1,16,0.0625
-Male,PR; PZ,1890-1909,31,"31: sleep, possibly accident, tired, horseback, slept",1,16,0.0625
-Male,PR; PZ,1890-1909,33,"33: bottle, esther, vial, suicide, belt",1,16,0.0625
-Male,PR; PZ,1890-1909,34,"34: burned, music, silence, burning, operas",1,16,0.0625
-Male,PR; PZ,1870-1889,10,"10: drink, wine, brandy, poison, drunk",3,12,0.25
-Male,PR; PZ,1870-1889,9,"9: sound, trees, atmosphere, forest, air",2,12,0.16666666666666666
-Male,PR; PZ,1870-1889,13,"13: stimulant, powerful, drug, effects, effect",2,12,0.16666666666666666
-Male,PR; PZ,1870-1889,15,"15: admit, assure, doubt, certina, true got",2,12,0.16666666666666666
-Male,PR; PZ,1870-1889,4,"4: face, door, eyes, chair, head",1,12,0.08333333333333333
-Male,PR; PZ,1870-1889,12,"12: captain, ship, colonel, schooner, ships",1,12,0.08333333333333333
-Male,PR; PZ,1870-1889,42,"42: alkaloids, drugs, drug, patent, presence drug",1,12,0.08333333333333333
-Male,PR; PZ,1850-1869,12,"12: captain, ship, colonel, schooner, ships",5,26,0.19230769230769232
-Male,PR; PZ,1850-1869,34,"34: burned, music, silence, burning, operas",4,26,0.15384615384615385
-Male,PR; PZ,1850-1869,2,"2: dream, god, fear, art, church",3,26,0.11538461538461539
-Male,PR; PZ,1850-1869,1,"1: truth, kai lung, power, kai, story",2,26,0.07692307692307693
-Male,PR; PZ,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",2,26,0.07692307692307693
-Male,PR; PZ,1850-1869,9,"9: sound, trees, atmosphere, forest, air",2,26,0.07692307692307693
-Male,PR; PZ,1850-1869,0,"0: habit, smoking, drug, eater, doc",1,26,0.038461538461538464
-Male,PR; PZ,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",1,26,0.038461538461538464
-Male,PR; PZ,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",1,26,0.038461538461538464
-Male,PR; PZ,1850-1869,15,"15: admit, assure, doubt, certina, true got",1,26,0.038461538461538464
-Male,PR; PZ,1850-1869,16,"16: pain, sorrow, healing, prove, suffering",1,26,0.038461538461538464
-Male,PR; PZ,1850-1869,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",1,26,0.038461538461538464
-Male,PR; PZ,1850-1869,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",1,26,0.038461538461538464
-Male,PR; PZ,1850-1869,42,"42: alkaloids, drugs, drug, patent, presence drug",1,26,0.038461538461538464
-Male,PR; PS,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",7,15,0.4666666666666667
-Male,PR; PS,1910-1929,40,"40: william, dickens, classics, thomas, english",5,15,0.3333333333333333
-Male,PR; PS,1910-1929,0,"0: habit, smoking, drug, eater, doc",1,15,0.06666666666666667
-Male,PR; PS,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",1,15,0.06666666666666667
-Male,PR; PS,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",1,15,0.06666666666666667
-Male,PR,1910-1929,0,"0: habit, smoking, drug, eater, doc",130,1232,0.10551948051948051
-Male,PR,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",69,1232,0.056006493506493504
-Male,PR,1910-1929,4,"4: face, door, eyes, chair, head",65,1232,0.052759740259740256
-Male,PR,1910-1929,1,"1: truth, kai lung, power, kai, story",57,1232,0.04626623376623377
-Male,PR,1910-1929,11,"11: eaters, use, years, possible, time temporally",52,1232,0.04220779220779221
-Male,PR,1910-1929,17,"17: smell, odour, fumes, bowl, pipe",49,1232,0.03977272727272727
-Male,PR,1910-1929,26,"26: chinaman, chang, chinatown, chinese, manchu",49,1232,0.03977272727272727
-Male,PR,1910-1929,2,"2: dream, god, fear, art, church",47,1232,0.03814935064935065
-Male,PR,1910-1929,8,"8: poetry, poems, literary, book, poet",42,1232,0.03409090909090909
-Male,PR,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",42,1232,0.03409090909090909
-Male,PR,1910-1929,9,"9: sound, trees, atmosphere, forest, air",40,1232,0.032467532467532464
-Male,PR,1910-1929,5,"5: doctor, physician, fever, ill, patient",38,1232,0.030844155844155844
-Male,PR,1910-1929,15,"15: admit, assure, doubt, certina, true got",38,1232,0.030844155844155844
-Male,PR,1910-1929,14,"14: bliss, evidence, witness, examination, case",37,1232,0.030032467532467532
-Male,PR,1910-1929,3,"3: bottle, dose, drops, doctor, chemist",35,1232,0.028409090909090908
-Male,PR,1910-1929,10,"10: drink, wine, brandy, poison, drunk",35,1232,0.028409090909090908
-Male,PR,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",30,1232,0.024350649350649352
-Male,PR,1910-1929,23,"23: dens, den, scandal, smuggle, smuggling",28,1232,0.022727272727272728
-Male,PR,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",25,1232,0.020292207792207792
-Male,PR,1910-1929,12,"12: captain, ship, colonel, schooner, ships",23,1232,0.018668831168831168
-Male,PR,1910-1929,24,"24: confessions, english eater, confessions english eater, confessions english, eater",22,1232,0.017857142857142856
-Male,PR,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",21,1232,0.017045454545454544
-Male,PR,1910-1929,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",20,1232,0.016233766233766232
-Male,PR,1910-1929,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",18,1232,0.01461038961038961
-Male,PR,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",17,1232,0.013798701298701298
-Male,PR,1910-1929,22,"22: whispered, tears, lips, helen, eyes",16,1232,0.012987012987012988
-Male,PR,1910-1929,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",16,1232,0.012987012987012988
-Male,PR,1910-1929,40,"40: william, dickens, classics, thomas, english",16,1232,0.012987012987012988
-Male,PR,1910-1929,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",15,1232,0.012175324675324676
-Male,PR,1910-1929,32,"32: money, business, dollars, revenue, shillings week",13,1232,0.010551948051948052
-Male,PR,1910-1929,34,"34: burned, music, silence, burning, operas",13,1232,0.010551948051948052
-Male,PR,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",11,1232,0.008928571428571428
-Male,PR,1910-1929,31,"31: sleep, possibly accident, tired, horseback, slept",11,1232,0.008928571428571428
-Male,PR,1910-1929,36,"36: poisoning, poisonous dose, poisonous, administered, death",11,1232,0.008928571428571428
-Male,PR,1910-1929,27,"27: dream, dreams, visions, delirium, ruby",10,1232,0.008116883116883116
-Male,PR,1910-1929,28,"28: pure food law, food law, pure food, got sort, tablets",10,1232,0.008116883116883116
-Male,PR,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",10,1232,0.008116883116883116
-Male,PR,1910-1929,29,"29: fiend, bobus, owen, hope, secret fiend years",9,1232,0.007305194805194805
-Male,PR,1910-1929,33,"33: bottle, esther, vial, suicide, belt",8,1232,0.006493506493506494
-Male,PR,1910-1929,43,"43: white bees, bees, sweet, love, song",8,1232,0.006493506493506494
-Male,PR,1910-1929,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",7,1232,0.005681818181818182
-Male,PR,1910-1929,39,"39: jasper, edwin, hag, john jasper, ned",7,1232,0.005681818181818182
-Male,PR,1910-1929,42,"42: alkaloids, drugs, drug, patent, presence drug",7,1232,0.005681818181818182
-Male,PR,1910-1929,35,"35: sleep, asleep, sleepy, clock, slept",5,1232,0.004058441558441558
-Male,PR,1890-1909,0,"0: habit, smoking, drug, eater, doc",102,1128,0.09042553191489362
-Male,PR,1890-1909,1,"1: truth, kai lung, power, kai, story",83,1128,0.07358156028368794
-Male,PR,1890-1909,2,"2: dream, god, fear, art, church",70,1128,0.06205673758865248
-Male,PR,1890-1909,39,"39: jasper, edwin, hag, john jasper, ned",70,1128,0.06205673758865248
-Male,PR,1890-1909,3,"3: bottle, dose, drops, doctor, chemist",69,1128,0.061170212765957445
-Male,PR,1890-1909,9,"9: sound, trees, atmosphere, forest, air",57,1128,0.05053191489361702
-Male,PR,1890-1909,10,"10: drink, wine, brandy, poison, drunk",50,1128,0.044326241134751775
-Male,PR,1890-1909,4,"4: face, door, eyes, chair, head",44,1128,0.03900709219858156
-Male,PR,1890-1909,8,"8: poetry, poems, literary, book, poet",44,1128,0.03900709219858156
-Male,PR,1890-1909,13,"13: stimulant, powerful, drug, effects, effect",37,1128,0.03280141843971631
-Male,PR,1890-1909,5,"5: doctor, physician, fever, ill, patient",29,1128,0.025709219858156027
-Male,PR,1890-1909,21,"21: quincey, eater, thomas quincey, confessions, english eater",29,1128,0.025709219858156027
-Male,PR,1890-1909,16,"16: pain, sorrow, healing, prove, suffering",27,1128,0.023936170212765957
-Male,PR,1890-1909,6,"6: rita, gretna, mollie, mollie gretna, insane",25,1128,0.022163120567375887
-Male,PR,1890-1909,12,"12: captain, ship, colonel, schooner, ships",25,1128,0.022163120567375887
-Male,PR,1890-1909,27,"27: dream, dreams, visions, delirium, ruby",24,1128,0.02127659574468085
-Male,PR,1890-1909,11,"11: eaters, use, years, possible, time temporally",23,1128,0.020390070921985817
-Male,PR,1890-1909,15,"15: admit, assure, doubt, certina, true got",23,1128,0.020390070921985817
-Male,PR,1890-1909,34,"34: burned, music, silence, burning, operas",22,1128,0.01950354609929078
-Male,PR,1890-1909,40,"40: william, dickens, classics, thomas, english",20,1128,0.01773049645390071
-Male,PR,1890-1909,14,"14: bliss, evidence, witness, examination, case",17,1128,0.015070921985815602
-Male,PR,1890-1909,19,"19: sleep, slept, awake, sleeping, gerald",17,1128,0.015070921985815602
-Male,PR,1890-1909,17,"17: smell, odour, fumes, bowl, pipe",15,1128,0.013297872340425532
-Male,PR,1890-1909,24,"24: confessions, english eater, confessions english eater, confessions english, eater",15,1128,0.013297872340425532
-Male,PR,1890-1909,31,"31: sleep, possibly accident, tired, horseback, slept",15,1128,0.013297872340425532
-Male,PR,1890-1909,23,"23: dens, den, scandal, smuggle, smuggling",14,1128,0.012411347517730497
-Male,PR,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",14,1128,0.012411347517730497
-Male,PR,1890-1909,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",14,1128,0.012411347517730497
-Male,PR,1890-1909,32,"32: money, business, dollars, revenue, shillings week",13,1128,0.01152482269503546
-Male,PR,1890-1909,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",13,1128,0.01152482269503546
-Male,PR,1890-1909,18,"18: coleridge, wordsworth, southey, sqq, gillman",12,1128,0.010638297872340425
-Male,PR,1890-1909,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",12,1128,0.010638297872340425
-Male,PR,1890-1909,7,"7: diphtheria, died, sloane, death, caused death",11,1128,0.00975177304964539
-Male,PR,1890-1909,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",11,1128,0.00975177304964539
-Male,PR,1890-1909,22,"22: whispered, tears, lips, helen, eyes",11,1128,0.00975177304964539
-Male,PR,1890-1909,33,"33: bottle, esther, vial, suicide, belt",9,1128,0.007978723404255319
-Male,PR,1890-1909,35,"35: sleep, asleep, sleepy, clock, slept",8,1128,0.0070921985815602835
-Male,PR,1890-1909,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",8,1128,0.0070921985815602835
-Male,PR,1890-1909,43,"43: white bees, bees, sweet, love, song",8,1128,0.0070921985815602835
-Male,PR,1890-1909,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",7,1128,0.0062056737588652485
-Male,PR,1890-1909,42,"42: alkaloids, drugs, drug, patent, presence drug",6,1128,0.005319148936170213
-Male,PR,1890-1909,29,"29: fiend, bobus, owen, hope, secret fiend years",4,1128,0.0035460992907801418
-Male,PR,1890-1909,28,"28: pure food law, food law, pure food, got sort, tablets",1,1128,0.0008865248226950354
-Male,PR,1870-1889,0,"0: habit, smoking, drug, eater, doc",45,429,0.1048951048951049
-Male,PR,1870-1889,2,"2: dream, god, fear, art, church",37,429,0.08624708624708624
-Male,PR,1870-1889,18,"18: coleridge, wordsworth, southey, sqq, gillman",36,429,0.08391608391608392
-Male,PR,1870-1889,1,"1: truth, kai lung, power, kai, story",27,429,0.06293706293706294
-Male,PR,1870-1889,3,"3: bottle, dose, drops, doctor, chemist",21,429,0.04895104895104895
-Male,PR,1870-1889,5,"5: doctor, physician, fever, ill, patient",19,429,0.04428904428904429
-Male,PR,1870-1889,8,"8: poetry, poems, literary, book, poet",17,429,0.039627039627039624
-Male,PR,1870-1889,13,"13: stimulant, powerful, drug, effects, effect",16,429,0.037296037296037296
-Male,PR,1870-1889,4,"4: face, door, eyes, chair, head",15,429,0.03496503496503497
-Male,PR,1870-1889,6,"6: rita, gretna, mollie, mollie gretna, insane",15,429,0.03496503496503497
-Male,PR,1870-1889,10,"10: drink, wine, brandy, poison, drunk",14,429,0.03263403263403263
-Male,PR,1870-1889,40,"40: william, dickens, classics, thomas, english",13,429,0.030303030303030304
-Male,PR,1870-1889,22,"22: whispered, tears, lips, helen, eyes",12,429,0.027972027972027972
-Male,PR,1870-1889,24,"24: confessions, english eater, confessions english eater, confessions english, eater",11,429,0.02564102564102564
-Male,PR,1870-1889,27,"27: dream, dreams, visions, delirium, ruby",11,429,0.02564102564102564
-Male,PR,1870-1889,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",11,429,0.02564102564102564
-Male,PR,1870-1889,21,"21: quincey, eater, thomas quincey, confessions, english eater",10,429,0.023310023310023312
-Male,PR,1870-1889,23,"23: dens, den, scandal, smuggle, smuggling",10,429,0.023310023310023312
-Male,PR,1870-1889,9,"9: sound, trees, atmosphere, forest, air",9,429,0.02097902097902098
-Male,PR,1870-1889,14,"14: bliss, evidence, witness, examination, case",9,429,0.02097902097902098
-Male,PR,1870-1889,11,"11: eaters, use, years, possible, time temporally",8,429,0.018648018648018648
-Male,PR,1870-1889,12,"12: captain, ship, colonel, schooner, ships",8,429,0.018648018648018648
-Male,PR,1870-1889,31,"31: sleep, possibly accident, tired, horseback, slept",8,429,0.018648018648018648
-Male,PR,1870-1889,19,"19: sleep, slept, awake, sleeping, gerald",5,429,0.011655011655011656
-Male,PR,1870-1889,35,"35: sleep, asleep, sleepy, clock, slept",5,429,0.011655011655011656
-Male,PR,1870-1889,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",4,429,0.009324009324009324
-Male,PR,1870-1889,15,"15: admit, assure, doubt, certina, true got",3,429,0.006993006993006993
-Male,PR,1870-1889,16,"16: pain, sorrow, healing, prove, suffering",3,429,0.006993006993006993
-Male,PR,1870-1889,17,"17: smell, odour, fumes, bowl, pipe",3,429,0.006993006993006993
-Male,PR,1870-1889,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",3,429,0.006993006993006993
-Male,PR,1870-1889,39,"39: jasper, edwin, hag, john jasper, ned",3,429,0.006993006993006993
-Male,PR,1870-1889,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",2,429,0.004662004662004662
-Male,PR,1870-1889,26,"26: chinaman, chang, chinatown, chinese, manchu",2,429,0.004662004662004662
-Male,PR,1870-1889,32,"32: money, business, dollars, revenue, shillings week",2,429,0.004662004662004662
-Male,PR,1870-1889,33,"33: bottle, esther, vial, suicide, belt",2,429,0.004662004662004662
-Male,PR,1870-1889,34,"34: burned, music, silence, burning, operas",2,429,0.004662004662004662
-Male,PR,1870-1889,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",2,429,0.004662004662004662
-Male,PR,1870-1889,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",2,429,0.004662004662004662
-Male,PR,1870-1889,43,"43: white bees, bees, sweet, love, song",2,429,0.004662004662004662
-Male,PR,1870-1889,29,"29: fiend, bobus, owen, hope, secret fiend years",1,429,0.002331002331002331
-Male,PR,1870-1889,42,"42: alkaloids, drugs, drug, patent, presence drug",1,429,0.002331002331002331
-Male,PR,1850-1869,18,"18: coleridge, wordsworth, southey, sqq, gillman",46,350,0.13142857142857142
-Male,PR,1850-1869,0,"0: habit, smoking, drug, eater, doc",30,350,0.08571428571428572
-Male,PR,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",26,350,0.07428571428571429
-Male,PR,1850-1869,11,"11: eaters, use, years, possible, time temporally",25,350,0.07142857142857142
-Male,PR,1850-1869,2,"2: dream, god, fear, art, church",23,350,0.06571428571428571
-Male,PR,1850-1869,1,"1: truth, kai lung, power, kai, story",22,350,0.06285714285714286
-Male,PR,1850-1869,5,"5: doctor, physician, fever, ill, patient",11,350,0.03142857142857143
-Male,PR,1850-1869,8,"8: poetry, poems, literary, book, poet",11,350,0.03142857142857143
-Male,PR,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",10,350,0.02857142857142857
-Male,PR,1850-1869,16,"16: pain, sorrow, healing, prove, suffering",10,350,0.02857142857142857
-Male,PR,1850-1869,24,"24: confessions, english eater, confessions english eater, confessions english, eater",10,350,0.02857142857142857
-Male,PR,1850-1869,4,"4: face, door, eyes, chair, head",9,350,0.025714285714285714
-Male,PR,1850-1869,9,"9: sound, trees, atmosphere, forest, air",9,350,0.025714285714285714
-Male,PR,1850-1869,12,"12: captain, ship, colonel, schooner, ships",8,350,0.022857142857142857
-Male,PR,1850-1869,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",7,350,0.02
-Male,PR,1850-1869,31,"31: sleep, possibly accident, tired, horseback, slept",7,350,0.02
-Male,PR,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",6,350,0.017142857142857144
-Male,PR,1850-1869,17,"17: smell, odour, fumes, bowl, pipe",6,350,0.017142857142857144
-Male,PR,1850-1869,19,"19: sleep, slept, awake, sleeping, gerald",6,350,0.017142857142857144
-Male,PR,1850-1869,27,"27: dream, dreams, visions, delirium, ruby",6,350,0.017142857142857144
-Male,PR,1850-1869,23,"23: dens, den, scandal, smuggle, smuggling",5,350,0.014285714285714285
-Male,PR,1850-1869,34,"34: burned, music, silence, burning, operas",5,350,0.014285714285714285
-Male,PR,1850-1869,10,"10: drink, wine, brandy, poison, drunk",4,350,0.011428571428571429
-Male,PR,1850-1869,14,"14: bliss, evidence, witness, examination, case",4,350,0.011428571428571429
-Male,PR,1850-1869,15,"15: admit, assure, doubt, certina, true got",4,350,0.011428571428571429
-Male,PR,1850-1869,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",4,350,0.011428571428571429
-Male,PR,1850-1869,7,"7: diphtheria, died, sloane, death, caused death",3,350,0.008571428571428572
-Male,PR,1850-1869,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",3,350,0.008571428571428572
-Male,PR,1850-1869,32,"32: money, business, dollars, revenue, shillings week",3,350,0.008571428571428572
-Male,PR,1850-1869,33,"33: bottle, esther, vial, suicide, belt",3,350,0.008571428571428572
-Male,PR,1850-1869,35,"35: sleep, asleep, sleepy, clock, slept",3,350,0.008571428571428572
-Male,PR,1850-1869,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",3,350,0.008571428571428572
-Male,PR,1850-1869,40,"40: william, dickens, classics, thomas, english",3,350,0.008571428571428572
-Male,PR,1850-1869,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",3,350,0.008571428571428572
-Male,PR,1850-1869,42,"42: alkaloids, drugs, drug, patent, presence drug",3,350,0.008571428571428572
-Male,PR,1850-1869,43,"43: white bees, bees, sweet, love, song",3,350,0.008571428571428572
-Male,PR,1850-1869,21,"21: quincey, eater, thomas quincey, confessions, english eater",2,350,0.005714285714285714
-Male,PR,1850-1869,22,"22: whispered, tears, lips, helen, eyes",2,350,0.005714285714285714
-Male,PR,1850-1869,29,"29: fiend, bobus, owen, hope, secret fiend years",1,350,0.002857142857142857
-Male,PR,1850-1869,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",1,350,0.002857142857142857
-Male,PQ; PR,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",2,2,1.0
-Male,PN; PR,1910-1929,40,"40: william, dickens, classics, thomas, english",1,1,1.0
-Male,PN; PR,1890-1909,8,"8: poetry, poems, literary, book, poet",1,2,0.5
-Male,PN; PR,1890-1909,9,"9: sound, trees, atmosphere, forest, air",1,2,0.5
-Male,PN; PR,1870-1889,8,"8: poetry, poems, literary, book, poet",2,3,0.6666666666666666
-Male,PN; PR,1870-1889,31,"31: sleep, possibly accident, tired, horseback, slept",1,3,0.3333333333333333
-Male,PN; PR,1850-1869,8,"8: poetry, poems, literary, book, poet",1,2,0.5
-Male,PN; PR,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",1,2,0.5
-Male,ND; PR,1850-1869,1,"1: truth, kai lung, power, kai, story",1,2,0.5
-Male,ND; PR,1850-1869,2,"2: dream, god, fear, art, church",1,2,0.5
-Male,HV; PS,1870-1889,7,"7: diphtheria, died, sloane, death, caused death",12,32,0.375
-Male,HV; PS,1870-1889,36,"36: poisoning, poisonous dose, poisonous, administered, death",5,32,0.15625
-Male,HV; PS,1870-1889,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",3,32,0.09375
-Male,HV; PS,1870-1889,5,"5: doctor, physician, fever, ill, patient",2,32,0.0625
-Male,HV; PS,1870-1889,10,"10: drink, wine, brandy, poison, drunk",2,32,0.0625
-Male,HV; PS,1870-1889,28,"28: pure food law, food law, pure food, got sort, tablets",2,32,0.0625
-Male,HV; PS,1870-1889,35,"35: sleep, asleep, sleepy, clock, slept",2,32,0.0625
-Male,HV; PS,1870-1889,14,"14: bliss, evidence, witness, examination, case",1,32,0.03125
-Male,HV; PS,1870-1889,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",1,32,0.03125
-Male,HV; PS,1870-1889,29,"29: fiend, bobus, owen, hope, secret fiend years",1,32,0.03125
-Male,HV; PS,1870-1889,32,"32: money, business, dollars, revenue, shillings week",1,32,0.03125
-Male,E151; PS,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",2,2,1.0
-Male,DU; PR,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",1,2,0.5
-Male,DU; PR,1910-1929,35,"35: sleep, asleep, sleepy, clock, slept",1,2,0.5
-Male,DS; PR,1890-1909,23,"23: dens, den, scandal, smuggle, smuggling",2,3,0.6666666666666666
-Male,DS; PR,1890-1909,17,"17: smell, odour, fumes, bowl, pipe",1,3,0.3333333333333333
-Male,DA; PR,1890-1909,17,"17: smell, odour, fumes, bowl, pipe",3,5,0.6
-Male,DA; PR,1890-1909,3,"3: bottle, dose, drops, doctor, chemist",1,5,0.2
-Male,DA; PR,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",1,5,0.2
-Male,BR; PR,1890-1909,1,"1: truth, kai lung, power, kai, story",3,3,1.0
-Male,AC; PS,1850-1869,5,"5: doctor, physician, fever, ill, patient",7,42,0.16666666666666666
-Male,AC; PS,1850-1869,0,"0: habit, smoking, drug, eater, doc",5,42,0.11904761904761904
-Male,AC; PS,1850-1869,42,"42: alkaloids, drugs, drug, patent, presence drug",5,42,0.11904761904761904
-Male,AC; PS,1850-1869,1,"1: truth, kai lung, power, kai, story",4,42,0.09523809523809523
-Male,AC; PS,1850-1869,8,"8: poetry, poems, literary, book, poet",4,42,0.09523809523809523
-Male,AC; PS,1850-1869,11,"11: eaters, use, years, possible, time temporally",3,42,0.07142857142857142
-Male,AC; PS,1850-1869,27,"27: dream, dreams, visions, delirium, ruby",3,42,0.07142857142857142
-Male,AC; PS,1850-1869,2,"2: dream, god, fear, art, church",2,42,0.047619047619047616
-Male,AC; PS,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",2,42,0.047619047619047616
-Male,AC; PS,1850-1869,43,"43: white bees, bees, sweet, love, song",2,42,0.047619047619047616
-Male,AC; PS,1850-1869,4,"4: face, door, eyes, chair, head",1,42,0.023809523809523808
-Male,AC; PS,1850-1869,10,"10: drink, wine, brandy, poison, drunk",1,42,0.023809523809523808
-Male,AC; PS,1850-1869,15,"15: admit, assure, doubt, certina, true got",1,42,0.023809523809523808
-Male,AC; PS,1850-1869,16,"16: pain, sorrow, healing, prove, suffering",1,42,0.023809523809523808
-Male,AC; PS,1850-1869,24,"24: confessions, english eater, confessions english eater, confessions english, eater",1,42,0.023809523809523808
-Male,AC; PR,1910-1929,4,"4: face, door, eyes, chair, head",2,14,0.14285714285714285
-Male,AC; PR,1910-1929,8,"8: poetry, poems, literary, book, poet",2,14,0.14285714285714285
-Male,AC; PR,1910-1929,10,"10: drink, wine, brandy, poison, drunk",2,14,0.14285714285714285
-Male,AC; PR,1910-1929,0,"0: habit, smoking, drug, eater, doc",1,14,0.07142857142857142
-Male,AC; PR,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",1,14,0.07142857142857142
-Male,AC; PR,1910-1929,9,"9: sound, trees, atmosphere, forest, air",1,14,0.07142857142857142
-Male,AC; PR,1910-1929,12,"12: captain, ship, colonel, schooner, ships",1,14,0.07142857142857142
-Male,AC; PR,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",1,14,0.07142857142857142
-Male,AC; PR,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",1,14,0.07142857142857142
-Male,AC; PR,1910-1929,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",1,14,0.07142857142857142
-Male,AC; PR,1910-1929,40,"40: william, dickens, classics, thomas, english",1,14,0.07142857142857142
-Female,PZ; PS,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",2,15,0.13333333333333333
-Female,PZ; PS,1910-1929,11,"11: eaters, use, years, possible, time temporally",2,15,0.13333333333333333
-Female,PZ; PS,1910-1929,29,"29: fiend, bobus, owen, hope, secret fiend years",2,15,0.13333333333333333
-Female,PZ; PS,1910-1929,0,"0: habit, smoking, drug, eater, doc",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,2,"2: dream, god, fear, art, church",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,5,"5: doctor, physician, fever, ill, patient",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,14,"14: bliss, evidence, witness, examination, case",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,15,"15: admit, assure, doubt, certina, true got",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,28,"28: pure food law, food law, pure food, got sort, tablets",1,15,0.06666666666666667
-Female,PZ; PS,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",1,15,0.06666666666666667
-Female,PZ; PS,1890-1909,0,"0: habit, smoking, drug, eater, doc",2,5,0.4
-Female,PZ; PS,1890-1909,4,"4: face, door, eyes, chair, head",1,5,0.2
-Female,PZ; PS,1890-1909,12,"12: captain, ship, colonel, schooner, ships",1,5,0.2
-Female,PZ; PS,1890-1909,23,"23: dens, den, scandal, smuggle, smuggling",1,5,0.2
-Female,PZ; PS,1870-1889,6,"6: rita, gretna, mollie, mollie gretna, insane",1,2,0.5
-Female,PZ; PS,1870-1889,7,"7: diphtheria, died, sloane, death, caused death",1,2,0.5
-Female,PZ; PS,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",1,2,0.5
-Female,PZ; PS,1850-1869,35,"35: sleep, asleep, sleepy, clock, slept",1,2,0.5
-Female,PS,1910-1929,1,"1: truth, kai lung, power, kai, story",18,265,0.06792452830188679
-Female,PS,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",16,265,0.06037735849056604
-Female,PS,1910-1929,9,"9: sound, trees, atmosphere, forest, air",16,265,0.06037735849056604
-Female,PS,1910-1929,0,"0: habit, smoking, drug, eater, doc",15,265,0.05660377358490566
-Female,PS,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",15,265,0.05660377358490566
-Female,PS,1910-1929,22,"22: whispered, tears, lips, helen, eyes",13,265,0.04905660377358491
-Female,PS,1910-1929,4,"4: face, door, eyes, chair, head",11,265,0.04150943396226415
-Female,PS,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",11,265,0.04150943396226415
-Female,PS,1910-1929,28,"28: pure food law, food law, pure food, got sort, tablets",10,265,0.03773584905660377
-Female,PS,1910-1929,17,"17: smell, odour, fumes, bowl, pipe",9,265,0.033962264150943396
-Female,PS,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",8,265,0.03018867924528302
-Female,PS,1910-1929,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",8,265,0.03018867924528302
-Female,PS,1910-1929,29,"29: fiend, bobus, owen, hope, secret fiend years",8,265,0.03018867924528302
-Female,PS,1910-1929,2,"2: dream, god, fear, art, church",7,265,0.026415094339622643
-Female,PS,1910-1929,10,"10: drink, wine, brandy, poison, drunk",7,265,0.026415094339622643
-Female,PS,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",7,265,0.026415094339622643
-Female,PS,1910-1929,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",7,265,0.026415094339622643
-Female,PS,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",7,265,0.026415094339622643
-Female,PS,1910-1929,5,"5: doctor, physician, fever, ill, patient",6,265,0.022641509433962263
-Female,PS,1910-1929,12,"12: captain, ship, colonel, schooner, ships",6,265,0.022641509433962263
-Female,PS,1910-1929,15,"15: admit, assure, doubt, certina, true got",6,265,0.022641509433962263
-Female,PS,1910-1929,27,"27: dream, dreams, visions, delirium, ruby",6,265,0.022641509433962263
-Female,PS,1910-1929,33,"33: bottle, esther, vial, suicide, belt",6,265,0.022641509433962263
-Female,PS,1910-1929,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",6,265,0.022641509433962263
-Female,PS,1910-1929,8,"8: poetry, poems, literary, book, poet",5,265,0.018867924528301886
-Female,PS,1910-1929,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",5,265,0.018867924528301886
-Female,PS,1910-1929,35,"35: sleep, asleep, sleepy, clock, slept",5,265,0.018867924528301886
-Female,PS,1910-1929,23,"23: dens, den, scandal, smuggle, smuggling",4,265,0.01509433962264151
-Female,PS,1910-1929,11,"11: eaters, use, years, possible, time temporally",3,265,0.011320754716981131
-Female,PS,1910-1929,32,"32: money, business, dollars, revenue, shillings week",2,265,0.007547169811320755
-Female,PS,1910-1929,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",2,265,0.007547169811320755
-Female,PS,1910-1929,43,"43: white bees, bees, sweet, love, song",2,265,0.007547169811320755
-Female,PS,1910-1929,3,"3: bottle, dose, drops, doctor, chemist",1,265,0.0037735849056603774
-Female,PS,1910-1929,14,"14: bliss, evidence, witness, examination, case",1,265,0.0037735849056603774
-Female,PS,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",1,265,0.0037735849056603774
-Female,PS,1910-1929,24,"24: confessions, english eater, confessions english eater, confessions english, eater",1,265,0.0037735849056603774
-Female,PS,1910-1929,31,"31: sleep, possibly accident, tired, horseback, slept",1,265,0.0037735849056603774
-Female,PS,1910-1929,34,"34: burned, music, silence, burning, operas",1,265,0.0037735849056603774
-Female,PS,1910-1929,36,"36: poisoning, poisonous dose, poisonous, administered, death",1,265,0.0037735849056603774
-Female,PS,1910-1929,42,"42: alkaloids, drugs, drug, patent, presence drug",1,265,0.0037735849056603774
-Female,PS,1890-1909,0,"0: habit, smoking, drug, eater, doc",28,370,0.07567567567567568
-Female,PS,1890-1909,7,"7: diphtheria, died, sloane, death, caused death",25,370,0.06756756756756757
-Female,PS,1890-1909,1,"1: truth, kai lung, power, kai, story",24,370,0.06486486486486487
-Female,PS,1890-1909,28,"28: pure food law, food law, pure food, got sort, tablets",20,370,0.05405405405405406
-Female,PS,1890-1909,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",18,370,0.04864864864864865
-Female,PS,1890-1909,22,"22: whispered, tears, lips, helen, eyes",16,370,0.043243243243243246
-Female,PS,1890-1909,4,"4: face, door, eyes, chair, head",15,370,0.04054054054054054
-Female,PS,1890-1909,3,"3: bottle, dose, drops, doctor, chemist",14,370,0.03783783783783784
-Female,PS,1890-1909,2,"2: dream, god, fear, art, church",13,370,0.03513513513513514
-Female,PS,1890-1909,5,"5: doctor, physician, fever, ill, patient",13,370,0.03513513513513514
-Female,PS,1890-1909,6,"6: rita, gretna, mollie, mollie gretna, insane",12,370,0.032432432432432434
-Female,PS,1890-1909,9,"9: sound, trees, atmosphere, forest, air",11,370,0.02972972972972973
-Female,PS,1890-1909,13,"13: stimulant, powerful, drug, effects, effect",11,370,0.02972972972972973
-Female,PS,1890-1909,23,"23: dens, den, scandal, smuggle, smuggling",11,370,0.02972972972972973
-Female,PS,1890-1909,8,"8: poetry, poems, literary, book, poet",10,370,0.02702702702702703
-Female,PS,1890-1909,33,"33: bottle, esther, vial, suicide, belt",10,370,0.02702702702702703
-Female,PS,1890-1909,14,"14: bliss, evidence, witness, examination, case",9,370,0.024324324324324326
-Female,PS,1890-1909,35,"35: sleep, asleep, sleepy, clock, slept",9,370,0.024324324324324326
-Female,PS,1890-1909,10,"10: drink, wine, brandy, poison, drunk",8,370,0.021621621621621623
-Female,PS,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",8,370,0.021621621621621623
-Female,PS,1890-1909,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",8,370,0.021621621621621623
-Female,PS,1890-1909,19,"19: sleep, slept, awake, sleeping, gerald",7,370,0.01891891891891892
-Female,PS,1890-1909,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",7,370,0.01891891891891892
-Female,PS,1890-1909,15,"15: admit, assure, doubt, certina, true got",6,370,0.016216216216216217
-Female,PS,1890-1909,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",6,370,0.016216216216216217
-Female,PS,1890-1909,34,"34: burned, music, silence, burning, operas",6,370,0.016216216216216217
-Female,PS,1890-1909,12,"12: captain, ship, colonel, schooner, ships",5,370,0.013513513513513514
-Female,PS,1890-1909,29,"29: fiend, bobus, owen, hope, secret fiend years",5,370,0.013513513513513514
-Female,PS,1890-1909,32,"32: money, business, dollars, revenue, shillings week",5,370,0.013513513513513514
-Female,PS,1890-1909,43,"43: white bees, bees, sweet, love, song",5,370,0.013513513513513514
-Female,PS,1890-1909,17,"17: smell, odour, fumes, bowl, pipe",4,370,0.010810810810810811
-Female,PS,1890-1909,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",4,370,0.010810810810810811
-Female,PS,1890-1909,24,"24: confessions, english eater, confessions english eater, confessions english, eater",3,370,0.008108108108108109
-Female,PS,1890-1909,11,"11: eaters, use, years, possible, time temporally",2,370,0.005405405405405406
-Female,PS,1890-1909,16,"16: pain, sorrow, healing, prove, suffering",2,370,0.005405405405405406
-Female,PS,1890-1909,27,"27: dream, dreams, visions, delirium, ruby",2,370,0.005405405405405406
-Female,PS,1890-1909,31,"31: sleep, possibly accident, tired, horseback, slept",2,370,0.005405405405405406
-Female,PS,1890-1909,40,"40: william, dickens, classics, thomas, english",2,370,0.005405405405405406
-Female,PS,1890-1909,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",2,370,0.005405405405405406
-Female,PS,1890-1909,39,"39: jasper, edwin, hag, john jasper, ned",1,370,0.002702702702702703
-Female,PS,1890-1909,42,"42: alkaloids, drugs, drug, patent, presence drug",1,370,0.002702702702702703
-Female,PS,1870-1889,7,"7: diphtheria, died, sloane, death, caused death",12,107,0.11214953271028037
-Female,PS,1870-1889,6,"6: rita, gretna, mollie, mollie gretna, insane",7,107,0.06542056074766354
-Female,PS,1870-1889,35,"35: sleep, asleep, sleepy, clock, slept",7,107,0.06542056074766354
-Female,PS,1870-1889,5,"5: doctor, physician, fever, ill, patient",6,107,0.056074766355140186
-Female,PS,1870-1889,22,"22: whispered, tears, lips, helen, eyes",6,107,0.056074766355140186
-Female,PS,1870-1889,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",5,107,0.04672897196261682
-Female,PS,1870-1889,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",5,107,0.04672897196261682
-Female,PS,1870-1889,2,"2: dream, god, fear, art, church",4,107,0.037383177570093455
-Female,PS,1870-1889,9,"9: sound, trees, atmosphere, forest, air",4,107,0.037383177570093455
-Female,PS,1870-1889,19,"19: sleep, slept, awake, sleeping, gerald",4,107,0.037383177570093455
-Female,PS,1870-1889,27,"27: dream, dreams, visions, delirium, ruby",4,107,0.037383177570093455
-Female,PS,1870-1889,0,"0: habit, smoking, drug, eater, doc",3,107,0.028037383177570093
-Female,PS,1870-1889,10,"10: drink, wine, brandy, poison, drunk",3,107,0.028037383177570093
-Female,PS,1870-1889,14,"14: bliss, evidence, witness, examination, case",3,107,0.028037383177570093
-Female,PS,1870-1889,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",3,107,0.028037383177570093
-Female,PS,1870-1889,29,"29: fiend, bobus, owen, hope, secret fiend years",3,107,0.028037383177570093
-Female,PS,1870-1889,33,"33: bottle, esther, vial, suicide, belt",3,107,0.028037383177570093
-Female,PS,1870-1889,34,"34: burned, music, silence, burning, operas",3,107,0.028037383177570093
-Female,PS,1870-1889,8,"8: poetry, poems, literary, book, poet",2,107,0.018691588785046728
-Female,PS,1870-1889,13,"13: stimulant, powerful, drug, effects, effect",2,107,0.018691588785046728
-Female,PS,1870-1889,16,"16: pain, sorrow, healing, prove, suffering",2,107,0.018691588785046728
-Female,PS,1870-1889,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",2,107,0.018691588785046728
-Female,PS,1870-1889,31,"31: sleep, possibly accident, tired, horseback, slept",2,107,0.018691588785046728
-Female,PS,1870-1889,1,"1: truth, kai lung, power, kai, story",1,107,0.009345794392523364
-Female,PS,1870-1889,3,"3: bottle, dose, drops, doctor, chemist",1,107,0.009345794392523364
-Female,PS,1870-1889,4,"4: face, door, eyes, chair, head",1,107,0.009345794392523364
-Female,PS,1870-1889,11,"11: eaters, use, years, possible, time temporally",1,107,0.009345794392523364
-Female,PS,1870-1889,12,"12: captain, ship, colonel, schooner, ships",1,107,0.009345794392523364
-Female,PS,1870-1889,15,"15: admit, assure, doubt, certina, true got",1,107,0.009345794392523364
-Female,PS,1870-1889,21,"21: quincey, eater, thomas quincey, confessions, english eater",1,107,0.009345794392523364
-Female,PS,1870-1889,28,"28: pure food law, food law, pure food, got sort, tablets",1,107,0.009345794392523364
-Female,PS,1870-1889,36,"36: poisoning, poisonous dose, poisonous, administered, death",1,107,0.009345794392523364
-Female,PS,1870-1889,40,"40: william, dickens, classics, thomas, english",1,107,0.009345794392523364
-Female,PS,1870-1889,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",1,107,0.009345794392523364
-Female,PS,1870-1889,43,"43: white bees, bees, sweet, love, song",1,107,0.009345794392523364
-Female,PS,1850-1869,2,"2: dream, god, fear, art, church",6,72,0.08333333333333333
-Female,PS,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",6,72,0.08333333333333333
-Female,PS,1850-1869,5,"5: doctor, physician, fever, ill, patient",5,72,0.06944444444444445
-Female,PS,1850-1869,9,"9: sound, trees, atmosphere, forest, air",4,72,0.05555555555555555
-Female,PS,1850-1869,23,"23: dens, den, scandal, smuggle, smuggling",4,72,0.05555555555555555
-Female,PS,1850-1869,0,"0: habit, smoking, drug, eater, doc",3,72,0.041666666666666664
-Female,PS,1850-1869,7,"7: diphtheria, died, sloane, death, caused death",3,72,0.041666666666666664
-Female,PS,1850-1869,15,"15: admit, assure, doubt, certina, true got",3,72,0.041666666666666664
-Female,PS,1850-1869,22,"22: whispered, tears, lips, helen, eyes",3,72,0.041666666666666664
-Female,PS,1850-1869,31,"31: sleep, possibly accident, tired, horseback, slept",3,72,0.041666666666666664
-Female,PS,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",2,72,0.027777777777777776
-Female,PS,1850-1869,4,"4: face, door, eyes, chair, head",2,72,0.027777777777777776
-Female,PS,1850-1869,8,"8: poetry, poems, literary, book, poet",2,72,0.027777777777777776
-Female,PS,1850-1869,11,"11: eaters, use, years, possible, time temporally",2,72,0.027777777777777776
-Female,PS,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",2,72,0.027777777777777776
-Female,PS,1850-1869,16,"16: pain, sorrow, healing, prove, suffering",2,72,0.027777777777777776
-Female,PS,1850-1869,27,"27: dream, dreams, visions, delirium, ruby",2,72,0.027777777777777776
-Female,PS,1850-1869,28,"28: pure food law, food law, pure food, got sort, tablets",2,72,0.027777777777777776
-Female,PS,1850-1869,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",2,72,0.027777777777777776
-Female,PS,1850-1869,33,"33: bottle, esther, vial, suicide, belt",2,72,0.027777777777777776
-Female,PS,1850-1869,35,"35: sleep, asleep, sleepy, clock, slept",2,72,0.027777777777777776
-Female,PS,1850-1869,42,"42: alkaloids, drugs, drug, patent, presence drug",2,72,0.027777777777777776
-Female,PS,1850-1869,1,"1: truth, kai lung, power, kai, story",1,72,0.013888888888888888
-Female,PS,1850-1869,19,"19: sleep, slept, awake, sleeping, gerald",1,72,0.013888888888888888
-Female,PS,1850-1869,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",1,72,0.013888888888888888
-Female,PS,1850-1869,29,"29: fiend, bobus, owen, hope, secret fiend years",1,72,0.013888888888888888
-Female,PS,1850-1869,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",1,72,0.013888888888888888
-Female,PS,1850-1869,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",1,72,0.013888888888888888
-Female,PS,1850-1869,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",1,72,0.013888888888888888
-Female,PS,1850-1869,43,"43: white bees, bees, sweet, love, song",1,72,0.013888888888888888
-Female,PR; PZ,1850-1869,5,"5: doctor, physician, fever, ill, patient",1,3,0.3333333333333333
-Female,PR; PZ,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",1,3,0.3333333333333333
-Female,PR; PZ,1850-1869,11,"11: eaters, use, years, possible, time temporally",1,3,0.3333333333333333
-Female,PR,1910-1929,0,"0: habit, smoking, drug, eater, doc",21,216,0.09722222222222222
-Female,PR,1910-1929,1,"1: truth, kai lung, power, kai, story",17,216,0.0787037037037037
-Female,PR,1910-1929,16,"16: pain, sorrow, healing, prove, suffering",13,216,0.06018518518518518
-Female,PR,1910-1929,3,"3: bottle, dose, drops, doctor, chemist",12,216,0.05555555555555555
-Female,PR,1910-1929,6,"6: rita, gretna, mollie, mollie gretna, insane",12,216,0.05555555555555555
-Female,PR,1910-1929,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",10,216,0.046296296296296294
-Female,PR,1910-1929,2,"2: dream, god, fear, art, church",8,216,0.037037037037037035
-Female,PR,1910-1929,9,"9: sound, trees, atmosphere, forest, air",8,216,0.037037037037037035
-Female,PR,1910-1929,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",8,216,0.037037037037037035
-Female,PR,1910-1929,35,"35: sleep, asleep, sleepy, clock, slept",8,216,0.037037037037037035
-Female,PR,1910-1929,4,"4: face, door, eyes, chair, head",7,216,0.032407407407407406
-Female,PR,1910-1929,5,"5: doctor, physician, fever, ill, patient",7,216,0.032407407407407406
-Female,PR,1910-1929,13,"13: stimulant, powerful, drug, effects, effect",7,216,0.032407407407407406
-Female,PR,1910-1929,8,"8: poetry, poems, literary, book, poet",6,216,0.027777777777777776
-Female,PR,1910-1929,22,"22: whispered, tears, lips, helen, eyes",6,216,0.027777777777777776
-Female,PR,1910-1929,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",6,216,0.027777777777777776
-Female,PR,1910-1929,11,"11: eaters, use, years, possible, time temporally",5,216,0.023148148148148147
-Female,PR,1910-1929,15,"15: admit, assure, doubt, certina, true got",5,216,0.023148148148148147
-Female,PR,1910-1929,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",5,216,0.023148148148148147
-Female,PR,1910-1929,7,"7: diphtheria, died, sloane, death, caused death",4,216,0.018518518518518517
-Female,PR,1910-1929,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",4,216,0.018518518518518517
-Female,PR,1910-1929,14,"14: bliss, evidence, witness, examination, case",3,216,0.013888888888888888
-Female,PR,1910-1929,19,"19: sleep, slept, awake, sleeping, gerald",3,216,0.013888888888888888
-Female,PR,1910-1929,24,"24: confessions, english eater, confessions english eater, confessions english, eater",3,216,0.013888888888888888
-Female,PR,1910-1929,32,"32: money, business, dollars, revenue, shillings week",3,216,0.013888888888888888
-Female,PR,1910-1929,36,"36: poisoning, poisonous dose, poisonous, administered, death",3,216,0.013888888888888888
-Female,PR,1910-1929,42,"42: alkaloids, drugs, drug, patent, presence drug",3,216,0.013888888888888888
-Female,PR,1910-1929,12,"12: captain, ship, colonel, schooner, ships",2,216,0.009259259259259259
-Female,PR,1910-1929,23,"23: dens, den, scandal, smuggle, smuggling",2,216,0.009259259259259259
-Female,PR,1910-1929,27,"27: dream, dreams, visions, delirium, ruby",2,216,0.009259259259259259
-Female,PR,1910-1929,28,"28: pure food law, food law, pure food, got sort, tablets",2,216,0.009259259259259259
-Female,PR,1910-1929,29,"29: fiend, bobus, owen, hope, secret fiend years",2,216,0.009259259259259259
-Female,PR,1910-1929,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",2,216,0.009259259259259259
-Female,PR,1910-1929,10,"10: drink, wine, brandy, poison, drunk",1,216,0.004629629629629629
-Female,PR,1910-1929,17,"17: smell, odour, fumes, bowl, pipe",1,216,0.004629629629629629
-Female,PR,1910-1929,18,"18: coleridge, wordsworth, southey, sqq, gillman",1,216,0.004629629629629629
-Female,PR,1910-1929,21,"21: quincey, eater, thomas quincey, confessions, english eater",1,216,0.004629629629629629
-Female,PR,1910-1929,31,"31: sleep, possibly accident, tired, horseback, slept",1,216,0.004629629629629629
-Female,PR,1910-1929,33,"33: bottle, esther, vial, suicide, belt",1,216,0.004629629629629629
-Female,PR,1910-1929,43,"43: white bees, bees, sweet, love, song",1,216,0.004629629629629629
-Female,PR,1890-1909,0,"0: habit, smoking, drug, eater, doc",67,384,0.17447916666666666
-Female,PR,1890-1909,1,"1: truth, kai lung, power, kai, story",24,384,0.0625
-Female,PR,1890-1909,6,"6: rita, gretna, mollie, mollie gretna, insane",24,384,0.0625
-Female,PR,1890-1909,11,"11: eaters, use, years, possible, time temporally",24,384,0.0625
-Female,PR,1890-1909,2,"2: dream, god, fear, art, church",19,384,0.049479166666666664
-Female,PR,1890-1909,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",17,384,0.044270833333333336
-Female,PR,1890-1909,16,"16: pain, sorrow, healing, prove, suffering",16,384,0.041666666666666664
-Female,PR,1890-1909,15,"15: admit, assure, doubt, certina, true got",14,384,0.036458333333333336
-Female,PR,1890-1909,8,"8: poetry, poems, literary, book, poet",13,384,0.033854166666666664
-Female,PR,1890-1909,5,"5: doctor, physician, fever, ill, patient",12,384,0.03125
-Female,PR,1890-1909,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",10,384,0.026041666666666668
-Female,PR,1890-1909,32,"32: money, business, dollars, revenue, shillings week",10,384,0.026041666666666668
-Female,PR,1890-1909,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",10,384,0.026041666666666668
-Female,PR,1890-1909,9,"9: sound, trees, atmosphere, forest, air",9,384,0.0234375
-Female,PR,1890-1909,19,"19: sleep, slept, awake, sleeping, gerald",9,384,0.0234375
-Female,PR,1890-1909,35,"35: sleep, asleep, sleepy, clock, slept",9,384,0.0234375
-Female,PR,1890-1909,4,"4: face, door, eyes, chair, head",7,384,0.018229166666666668
-Female,PR,1890-1909,13,"13: stimulant, powerful, drug, effects, effect",7,384,0.018229166666666668
-Female,PR,1890-1909,17,"17: smell, odour, fumes, bowl, pipe",7,384,0.018229166666666668
-Female,PR,1890-1909,33,"33: bottle, esther, vial, suicide, belt",7,384,0.018229166666666668
-Female,PR,1890-1909,3,"3: bottle, dose, drops, doctor, chemist",6,384,0.015625
-Female,PR,1890-1909,10,"10: drink, wine, brandy, poison, drunk",6,384,0.015625
-Female,PR,1890-1909,31,"31: sleep, possibly accident, tired, horseback, slept",6,384,0.015625
-Female,PR,1890-1909,22,"22: whispered, tears, lips, helen, eyes",5,384,0.013020833333333334
-Female,PR,1890-1909,24,"24: confessions, english eater, confessions english eater, confessions english, eater",5,384,0.013020833333333334
-Female,PR,1890-1909,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",5,384,0.013020833333333334
-Female,PR,1890-1909,12,"12: captain, ship, colonel, schooner, ships",4,384,0.010416666666666666
-Female,PR,1890-1909,18,"18: coleridge, wordsworth, southey, sqq, gillman",4,384,0.010416666666666666
-Female,PR,1890-1909,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",4,384,0.010416666666666666
-Female,PR,1890-1909,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",4,384,0.010416666666666666
-Female,PR,1890-1909,7,"7: diphtheria, died, sloane, death, caused death",3,384,0.0078125
-Female,PR,1890-1909,14,"14: bliss, evidence, witness, examination, case",3,384,0.0078125
-Female,PR,1890-1909,23,"23: dens, den, scandal, smuggle, smuggling",3,384,0.0078125
-Female,PR,1890-1909,26,"26: chinaman, chang, chinatown, chinese, manchu",3,384,0.0078125
-Female,PR,1890-1909,27,"27: dream, dreams, visions, delirium, ruby",3,384,0.0078125
-Female,PR,1890-1909,42,"42: alkaloids, drugs, drug, patent, presence drug",2,384,0.005208333333333333
-Female,PR,1890-1909,29,"29: fiend, bobus, owen, hope, secret fiend years",1,384,0.0026041666666666665
-Female,PR,1890-1909,34,"34: burned, music, silence, burning, operas",1,384,0.0026041666666666665
-Female,PR,1890-1909,43,"43: white bees, bees, sweet, love, song",1,384,0.0026041666666666665
-Female,PR,1870-1889,0,"0: habit, smoking, drug, eater, doc",10,148,0.06756756756756757
-Female,PR,1870-1889,1,"1: truth, kai lung, power, kai, story",10,148,0.06756756756756757
-Female,PR,1870-1889,3,"3: bottle, dose, drops, doctor, chemist",8,148,0.05405405405405406
-Female,PR,1870-1889,10,"10: drink, wine, brandy, poison, drunk",8,148,0.05405405405405406
-Female,PR,1870-1889,33,"33: bottle, esther, vial, suicide, belt",8,148,0.05405405405405406
-Female,PR,1870-1889,7,"7: diphtheria, died, sloane, death, caused death",7,148,0.0472972972972973
-Female,PR,1870-1889,13,"13: stimulant, powerful, drug, effects, effect",7,148,0.0472972972972973
-Female,PR,1870-1889,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",7,148,0.0472972972972973
-Female,PR,1870-1889,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",7,148,0.0472972972972973
-Female,PR,1870-1889,2,"2: dream, god, fear, art, church",6,148,0.04054054054054054
-Female,PR,1870-1889,6,"6: rita, gretna, mollie, mollie gretna, insane",6,148,0.04054054054054054
-Female,PR,1870-1889,11,"11: eaters, use, years, possible, time temporally",6,148,0.04054054054054054
-Female,PR,1870-1889,31,"31: sleep, possibly accident, tired, horseback, slept",6,148,0.04054054054054054
-Female,PR,1870-1889,34,"34: burned, music, silence, burning, operas",5,148,0.033783783783783786
-Female,PR,1870-1889,5,"5: doctor, physician, fever, ill, patient",4,148,0.02702702702702703
-Female,PR,1870-1889,8,"8: poetry, poems, literary, book, poet",4,148,0.02702702702702703
-Female,PR,1870-1889,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",4,148,0.02702702702702703
-Female,PR,1870-1889,4,"4: face, door, eyes, chair, head",3,148,0.02027027027027027
-Female,PR,1870-1889,9,"9: sound, trees, atmosphere, forest, air",3,148,0.02027027027027027
-Female,PR,1870-1889,15,"15: admit, assure, doubt, certina, true got",3,148,0.02027027027027027
-Female,PR,1870-1889,19,"19: sleep, slept, awake, sleeping, gerald",3,148,0.02027027027027027
-Female,PR,1870-1889,27,"27: dream, dreams, visions, delirium, ruby",3,148,0.02027027027027027
-Female,PR,1870-1889,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",3,148,0.02027027027027027
-Female,PR,1870-1889,14,"14: bliss, evidence, witness, examination, case",2,148,0.013513513513513514
-Female,PR,1870-1889,35,"35: sleep, asleep, sleepy, clock, slept",2,148,0.013513513513513514
-Female,PR,1870-1889,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",2,148,0.013513513513513514
-Female,PR,1870-1889,12,"12: captain, ship, colonel, schooner, ships",1,148,0.006756756756756757
-Female,PR,1870-1889,17,"17: smell, odour, fumes, bowl, pipe",1,148,0.006756756756756757
-Female,PR,1870-1889,18,"18: coleridge, wordsworth, southey, sqq, gillman",1,148,0.006756756756756757
-Female,PR,1870-1889,21,"21: quincey, eater, thomas quincey, confessions, english eater",1,148,0.006756756756756757
-Female,PR,1870-1889,22,"22: whispered, tears, lips, helen, eyes",1,148,0.006756756756756757
-Female,PR,1870-1889,24,"24: confessions, english eater, confessions english eater, confessions english, eater",1,148,0.006756756756756757
-Female,PR,1870-1889,26,"26: chinaman, chang, chinatown, chinese, manchu",1,148,0.006756756756756757
-Female,PR,1870-1889,29,"29: fiend, bobus, owen, hope, secret fiend years",1,148,0.006756756756756757
-Female,PR,1870-1889,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",1,148,0.006756756756756757
-Female,PR,1870-1889,32,"32: money, business, dollars, revenue, shillings week",1,148,0.006756756756756757
-Female,PR,1870-1889,36,"36: poisoning, poisonous dose, poisonous, administered, death",1,148,0.006756756756756757
-Female,PR,1850-1869,3,"3: bottle, dose, drops, doctor, chemist",50,246,0.2032520325203252
-Female,PR,1850-1869,0,"0: habit, smoking, drug, eater, doc",25,246,0.1016260162601626
-Female,PR,1850-1869,11,"11: eaters, use, years, possible, time temporally",20,246,0.08130081300813008
-Female,PR,1850-1869,14,"14: bliss, evidence, witness, examination, case",19,246,0.07723577235772358
-Female,PR,1850-1869,30,"30: betteredge, chair glad stay, wanted company, ross, minutes caught betteredge",14,246,0.056910569105691054
-Female,PR,1850-1869,6,"6: rita, gretna, mollie, mollie gretna, insane",13,246,0.052845528455284556
-Female,PR,1850-1869,15,"15: admit, assure, doubt, certina, true got",12,246,0.04878048780487805
-Female,PR,1850-1869,2,"2: dream, god, fear, art, church",10,246,0.04065040650406504
-Female,PR,1850-1869,33,"33: bottle, esther, vial, suicide, belt",9,246,0.036585365853658534
-Female,PR,1850-1869,31,"31: sleep, possibly accident, tired, horseback, slept",8,246,0.032520325203252036
-Female,PR,1850-1869,5,"5: doctor, physician, fever, ill, patient",7,246,0.028455284552845527
-Female,PR,1850-1869,25,"25: reality remained, process adopted, grain shape, fallen experience, night falling",7,246,0.028455284552845527
-Female,PR,1850-1869,35,"35: sleep, asleep, sleepy, clock, slept",6,246,0.024390243902439025
-Female,PR,1850-1869,19,"19: sleep, slept, awake, sleeping, gerald",5,246,0.02032520325203252
-Female,PR,1850-1869,22,"22: whispered, tears, lips, helen, eyes",5,246,0.02032520325203252
-Female,PR,1850-1869,8,"8: poetry, poems, literary, book, poet",4,246,0.016260162601626018
-Female,PR,1850-1869,24,"24: confessions, english eater, confessions english eater, confessions english, eater",4,246,0.016260162601626018
-Female,PR,1850-1869,10,"10: drink, wine, brandy, poison, drunk",3,246,0.012195121951219513
-Female,PR,1850-1869,13,"13: stimulant, powerful, drug, effects, effect",3,246,0.012195121951219513
-Female,PR,1850-1869,20,"20: father, mocking, coaxed, night occur, eagerly crouched bed",3,246,0.012195121951219513
-Female,PR,1850-1869,34,"34: burned, music, silence, burning, operas",3,246,0.012195121951219513
-Female,PR,1850-1869,1,"1: truth, kai lung, power, kai, story",2,246,0.008130081300813009
-Female,PR,1850-1869,7,"7: diphtheria, died, sloane, death, caused death",2,246,0.008130081300813009
-Female,PR,1850-1869,9,"9: sound, trees, atmosphere, forest, air",2,246,0.008130081300813009
-Female,PR,1850-1869,12,"12: captain, ship, colonel, schooner, ships",2,246,0.008130081300813009
-Female,PR,1850-1869,32,"32: money, business, dollars, revenue, shillings week",2,246,0.008130081300813009
-Female,PR,1850-1869,37,"37: ask pierre, death peace, peace distress, renewed gifts, life death peace",2,246,0.008130081300813009
-Female,PR,1850-1869,21,"21: quincey, eater, thomas quincey, confessions, english eater",1,246,0.0040650406504065045
-Female,PR,1850-1869,27,"27: dream, dreams, visions, delirium, ruby",1,246,0.0040650406504065045
-Female,PR,1850-1869,38,"38: hilda, sleep, deep sleep, potency fell deep, crushing brows",1,246,0.0040650406504065045
-Female,PR,1850-1869,41,"41: drood, drood handsome, drood handsome ought, handsome ought, handsome ought deserted",1,246,0.0040650406504065045
-Female,PN; PR,1890-1909,8,"8: poetry, poems, literary, book, poet",4,9,0.4444444444444444
-Female,PN; PR,1890-1909,18,"18: coleridge, wordsworth, southey, sqq, gillman",3,9,0.3333333333333333
-Female,PN; PR,1890-1909,0,"0: habit, smoking, drug, eater, doc",1,9,0.1111111111111111
-Female,PN; PR,1890-1909,2,"2: dream, god, fear, art, church",1,9,0.1111111111111111
+Male,PS,1912-1930,1,Opium as a smoking habit,62,235,0.26382978723404255
+Male,PS,1912-1930,9,An illegal marchandise,52,235,0.22127659574468084
+Male,PS,1912-1930,6,The power of the stimulant,31,235,0.13191489361702127
+Male,PS,1912-1930,8,Pain and sorrow,30,235,0.1276595744680851
+Male,PS,1912-1930,13,Through olfaction,30,235,0.1276595744680851
+Male,PS,1912-1930,19,Poison,17,235,0.07234042553191489
+Male,PS,1912-1930,15,De Quincey's book as a reference,10,235,0.0425531914893617
+Male,PS,1912-1930,16,Refering to Coleridge himself,3,235,0.01276595744680851
+Male,PS,1881-1911,1,Opium as a smoking habit,44,233,0.1888412017167382
+Male,PS,1881-1911,19,Poison,44,233,0.1888412017167382
+Male,PS,1881-1911,9,An illegal marchandise,41,233,0.1759656652360515
+Male,PS,1881-1911,13,Through olfaction,32,233,0.13733905579399142
+Male,PS,1881-1911,8,Pain and sorrow,31,233,0.13304721030042918
+Male,PS,1881-1911,6,The power of the stimulant,28,233,0.12017167381974249
+Male,PS,1881-1911,15,De Quincey's book as a reference,11,233,0.04721030042918455
+Male,PS,1881-1911,16,Refering to Coleridge himself,2,233,0.008583690987124463
+Male,PS,1850-1880,9,An illegal marchandise,11,44,0.25
+Male,PS,1850-1880,13,Through olfaction,8,44,0.18181818181818182
+Male,PS,1850-1880,8,Pain and sorrow,7,44,0.1590909090909091
+Male,PS,1850-1880,1,Opium as a smoking habit,6,44,0.13636363636363635
+Male,PS,1850-1880,19,Poison,6,44,0.13636363636363635
+Male,PS,1850-1880,15,De Quincey's book as a reference,4,44,0.09090909090909091
+Male,PS,1850-1880,6,The power of the stimulant,2,44,0.045454545454545456
+Male,PR; PZ,1881-1911,6,The power of the stimulant,3,6,0.5
+Male,PR; PZ,1881-1911,9,An illegal marchandise,2,6,0.3333333333333333
+Male,PR; PZ,1881-1911,1,Opium as a smoking habit,1,6,0.16666666666666666
+Male,PR; PZ,1850-1880,9,An illegal marchandise,6,10,0.6
+Male,PR; PZ,1850-1880,19,Poison,2,10,0.2
+Male,PR; PZ,1850-1880,6,The power of the stimulant,1,10,0.1
+Male,PR; PZ,1850-1880,8,Pain and sorrow,1,10,0.1
+Male,PR; PS,1912-1930,15,De Quincey's book as a reference,7,9,0.7777777777777778
+Male,PR; PS,1912-1930,1,Opium as a smoking habit,1,9,0.1111111111111111
+Male,PR; PS,1912-1930,16,Refering to Coleridge himself,1,9,0.1111111111111111
+Male,PR,1912-1930,1,Opium as a smoking habit,68,260,0.26153846153846155
+Male,PR,1912-1930,13,Through olfaction,43,260,0.16538461538461538
+Male,PR,1912-1930,15,De Quincey's book as a reference,42,260,0.16153846153846155
+Male,PR,1912-1930,8,Pain and sorrow,33,260,0.12692307692307692
+Male,PR,1912-1930,6,The power of the stimulant,22,260,0.08461538461538462
+Male,PR,1912-1930,16,Refering to Coleridge himself,20,260,0.07692307692307693
+Male,PR,1912-1930,9,An illegal marchandise,16,260,0.06153846153846154
+Male,PR,1912-1930,19,Poison,16,260,0.06153846153846154
+Male,PR,1881-1911,1,Opium as a smoking habit,72,322,0.2236024844720497
+Male,PR,1881-1911,6,The power of the stimulant,55,322,0.17080745341614906
+Male,PR,1881-1911,16,Refering to Coleridge himself,43,322,0.13354037267080746
+Male,PR,1881-1911,15,De Quincey's book as a reference,40,322,0.12422360248447205
+Male,PR,1881-1911,8,Pain and sorrow,37,322,0.11490683229813664
+Male,PR,1881-1911,9,An illegal marchandise,36,322,0.11180124223602485
+Male,PR,1881-1911,13,Through olfaction,20,322,0.062111801242236024
+Male,PR,1881-1911,19,Poison,19,322,0.059006211180124224
+Male,PR,1850-1880,16,Refering to Coleridge himself,39,126,0.30952380952380953
+Male,PR,1850-1880,1,Opium as a smoking habit,26,126,0.20634920634920634
+Male,PR,1850-1880,6,The power of the stimulant,16,126,0.12698412698412698
+Male,PR,1850-1880,8,Pain and sorrow,14,126,0.1111111111111111
+Male,PR,1850-1880,9,An illegal marchandise,11,126,0.0873015873015873
+Male,PR,1850-1880,13,Through olfaction,8,126,0.06349206349206349
+Male,PR,1850-1880,15,De Quincey's book as a reference,8,126,0.06349206349206349
+Male,PR,1850-1880,19,Poison,4,126,0.031746031746031744
+Male,PQ; PR,1912-1930,8,Pain and sorrow,3,3,1.0
+Male,PN; PR,1881-1911,8,Pain and sorrow,1,1,1.0
+Male,PN; PR,1850-1880,6,The power of the stimulant,1,1,1.0
+Male,E151; PS,1912-1930,16,Refering to Coleridge himself,2,2,1.0
+Male,DS; PR,1881-1911,13,Through olfaction,2,2,1.0
+Male,DA; PR,1881-1911,13,Through olfaction,3,3,1.0
+Male,AC; PS,1850-1880,19,Poison,3,7,0.42857142857142855
+Male,AC; PS,1850-1880,6,The power of the stimulant,2,7,0.2857142857142857
+Male,AC; PS,1850-1880,1,Opium as a smoking habit,1,7,0.14285714285714285
+Male,AC; PS,1850-1880,8,Pain and sorrow,1,7,0.14285714285714285
+Male,AC; PR,1912-1930,8,Pain and sorrow,2,4,0.5
+Male,AC; PR,1912-1930,6,The power of the stimulant,1,4,0.25
+Male,AC; PR,1912-1930,9,An illegal marchandise,1,4,0.25
+Female,PZ; PS,1912-1930,8,Pain and sorrow,1,1,1.0
+Female,PZ; PS,1881-1911,9,An illegal marchandise,3,4,0.75
+Female,PZ; PS,1881-1911,1,Opium as a smoking habit,1,4,0.25
+Female,PZ; PS,1850-1880,9,An illegal marchandise,1,1,1.0
+Female,PS,1912-1930,6,The power of the stimulant,12,34,0.35294117647058826
+Female,PS,1912-1930,1,Opium as a smoking habit,7,34,0.20588235294117646
+Female,PS,1912-1930,13,Through olfaction,6,34,0.17647058823529413
+Female,PS,1912-1930,8,Pain and sorrow,4,34,0.11764705882352941
+Female,PS,1912-1930,9,An illegal marchandise,3,34,0.08823529411764706
+Female,PS,1912-1930,15,De Quincey's book as a reference,1,34,0.029411764705882353
+Female,PS,1912-1930,19,Poison,1,34,0.029411764705882353
+Female,PS,1881-1911,1,Opium as a smoking habit,14,53,0.2641509433962264
+Female,PS,1881-1911,6,The power of the stimulant,12,53,0.22641509433962265
+Female,PS,1881-1911,8,Pain and sorrow,9,53,0.16981132075471697
+Female,PS,1881-1911,9,An illegal marchandise,8,53,0.1509433962264151
+Female,PS,1881-1911,13,Through olfaction,6,53,0.11320754716981132
+Female,PS,1881-1911,19,Poison,3,53,0.05660377358490566
+Female,PS,1881-1911,15,De Quincey's book as a reference,1,53,0.018867924528301886
+Female,PS,1850-1880,8,Pain and sorrow,5,17,0.29411764705882354
+Female,PS,1850-1880,19,Poison,5,17,0.29411764705882354
+Female,PS,1850-1880,1,Opium as a smoking habit,4,17,0.23529411764705882
+Female,PS,1850-1880,6,The power of the stimulant,3,17,0.17647058823529413
+Female,PR,1912-1930,8,Pain and sorrow,10,29,0.3448275862068966
+Female,PR,1912-1930,1,Opium as a smoking habit,5,29,0.1724137931034483
+Female,PR,1912-1930,6,The power of the stimulant,5,29,0.1724137931034483
+Female,PR,1912-1930,19,Poison,3,29,0.10344827586206896
+Female,PR,1912-1930,9,An illegal marchandise,2,29,0.06896551724137931
+Female,PR,1912-1930,15,De Quincey's book as a reference,2,29,0.06896551724137931
+Female,PR,1912-1930,13,Through olfaction,1,29,0.034482758620689655
+Female,PR,1912-1930,16,Refering to Coleridge himself,1,29,0.034482758620689655
+Female,PR,1881-1911,1,Opium as a smoking habit,30,85,0.35294117647058826
+Female,PR,1881-1911,8,Pain and sorrow,23,85,0.27058823529411763
+Female,PR,1881-1911,6,The power of the stimulant,14,85,0.16470588235294117
+Female,PR,1881-1911,13,Through olfaction,6,85,0.07058823529411765
+Female,PR,1881-1911,16,Refering to Coleridge himself,5,85,0.058823529411764705
+Female,PR,1881-1911,19,Poison,4,85,0.047058823529411764
+Female,PR,1881-1911,9,An illegal marchandise,3,85,0.03529411764705882
+Female,PR,1850-1880,1,Opium as a smoking habit,16,31,0.5161290322580645
+Female,PR,1850-1880,6,The power of the stimulant,7,31,0.22580645161290322
+Female,PR,1850-1880,15,De Quincey's book as a reference,2,31,0.06451612903225806
+Female,PR,1850-1880,16,Refering to Coleridge himself,2,31,0.06451612903225806
+Female,PR,1850-1880,8,Pain and sorrow,1,31,0.03225806451612903
+Female,PR,1850-1880,9,An illegal marchandise,1,31,0.03225806451612903
+Female,PR,1850-1880,13,Through olfaction,1,31,0.03225806451612903
+Female,PR,1850-1880,19,Poison,1,31,0.03225806451612903
+Female,PN; PR,1881-1911,16,Refering to Coleridge himself,3,4,0.75
+Female,PN; PR,1881-1911,1,Opium as a smoking habit,1,4,0.25
